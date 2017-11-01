@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Sheet 2 Clustering Prediction Output.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age0to9" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age10to17" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age18to24" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age25to29" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age30to39" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age40to49" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age50to64" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Age65Plus" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdLTHS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdHSGrad" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdSomeCol" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdAssociate" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdBachelor" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdMaster" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdProfSchl" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="EdDoctorate" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHSz1Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHSz2Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHSz3Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHSz4Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHSz5PlusPer" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHIncU25K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHInc25Kto50K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHInc50Kto75K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHInc75Kto100K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHInc100Kto150K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHInc150Kto250K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HHInc250KPlus" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopAsian" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopBlack" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopHispanic" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopMulti" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopNativeAmer" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopOther" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopPacIsl" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopWhite" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HVal0to100K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HVal100Kto200K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HVal200Kto300K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HVal300Kto400K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HVal400Kto500K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HVal500Kto750K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="HVal750KPlus" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="PopDens" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Cluster_Prediction_1" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Cluster_Prediction_2" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+            <Field name="Cluster_Prediction_3" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="318" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <SelectFields>
+            <SelectField field="Store" selected="True" />
+            <SelectField field="HHInc100Kto150K" selected="False" />
+            <SelectField field="HHInc150Kto250K" selected="False" />
+            <SelectField field="HHInc250KPlus" selected="False" />
+            <SelectField field="PopAsian" selected="False" />
+            <SelectField field="PopBlack" selected="False" />
+            <SelectField field="PopHispanic" selected="False" />
+            <SelectField field="PopMulti" selected="False" />
+            <SelectField field="PopNativeAmer" selected="False" />
+            <SelectField field="PopOther" selected="False" />
+            <SelectField field="PopPacIsl" selected="False" />
+            <SelectField field="PopWhite" selected="False" />
+            <SelectField field="HVal0to100K" selected="False" />
+            <SelectField field="HVal100Kto200K" selected="False" />
+            <SelectField field="HVal200Kto300K" selected="False" />
+            <SelectField field="HVal300Kto400K" selected="False" />
+            <SelectField field="HVal400Kto500K" selected="False" />
+            <SelectField field="HVal500Kto750K" selected="False" />
+            <SelectField field="HVal750KPlus" selected="False" />
+            <SelectField field="PopDens" selected="False" />
+            <SelectField field="Cluster_Prediction_1" selected="True" />
+            <SelectField field="Cluster_Prediction_2" selected="True" />
+            <SelectField field="HHInc75Kto100K" selected="False" />
+            <SelectField field="Cluster_Prediction_3" selected="True" />
+            <SelectField field="HHInc50Kto75K" selected="False" />
+            <SelectField field="HHIncU25K" selected="False" />
+            <SelectField field="Age0to9" selected="False" />
+            <SelectField field="Age10to17" selected="False" />
+            <SelectField field="Age18to24" selected="False" />
+            <SelectField field="Age25to29" selected="False" />
+            <SelectField field="Age30to39" selected="False" />
+            <SelectField field="Age40to49" selected="False" />
+            <SelectField field="Age50to64" selected="False" />
+            <SelectField field="Age65Plus" selected="False" />
+            <SelectField field="EdLTHS" selected="False" />
+            <SelectField field="EdHSGrad" selected="False" />
+            <SelectField field="EdSomeCol" selected="False" />
+            <SelectField field="EdAssociate" selected="False" />
+            <SelectField field="EdBachelor" selected="False" />
+            <SelectField field="EdMaster" selected="False" />
+            <SelectField field="EdProfSchl" selected="False" />
+            <SelectField field="EdDoctorate" selected="False" />
+            <SelectField field="HHSz1Per" selected="False" />
+            <SelectField field="HHSz2Per" selected="False" />
+            <SelectField field="HHSz3Per" selected="False" />
+            <SelectField field="HHSz4Per" selected="False" />
+            <SelectField field="HHSz5PlusPer" selected="False" />
+            <SelectField field="HHInc25Kto50K" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="198" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="Store" selected="True" />
+            <Field field="Age0to9" selected="True" />
+            <Field field="Age10to17" selected="True" />
+            <Field field="Age18to24" selected="True" />
+            <Field field="Age25to29" selected="True" />
+            <Field field="Age30to39" selected="True" />
+            <Field field="Age40to49" selected="True" />
+            <Field field="Age50to64" selected="True" />
+            <Field field="Age65Plus" selected="True" />
+            <Field field="EdLTHS" selected="True" />
+            <Field field="EdHSGrad" selected="True" />
+            <Field field="EdSomeCol" selected="True" />
+            <Field field="EdAssociate" selected="True" />
+            <Field field="EdBachelor" selected="True" />
+            <Field field="EdMaster" selected="True" />
+            <Field field="EdProfSchl" selected="True" />
+            <Field field="EdDoctorate" selected="True" />
+            <Field field="HHSz1Per" selected="True" />
+            <Field field="HHSz2Per" selected="True" />
+            <Field field="HHSz3Per" selected="True" />
+            <Field field="HHSz4Per" selected="True" />
+            <Field field="HHSz5PlusPer" selected="True" />
+            <Field field="HHIncU25K" selected="True" />
+            <Field field="HHInc25Kto50K" selected="True" />
+            <Field field="HHInc50Kto75K" selected="True" />
+            <Field field="HHInc75Kto100K" selected="True" />
+            <Field field="HHInc100Kto150K" selected="True" />
+            <Field field="HHInc150Kto250K" selected="True" />
+            <Field field="HHInc250KPlus" selected="True" />
+            <Field field="PopAsian" selected="True" />
+            <Field field="PopBlack" selected="True" />
+            <Field field="PopHispanic" selected="True" />
+            <Field field="PopMulti" selected="True" />
+            <Field field="PopNativeAmer" selected="True" />
+            <Field field="PopOther" selected="True" />
+            <Field field="PopPacIsl" selected="True" />
+            <Field field="PopWhite" selected="True" />
+            <Field field="HVal0to100K" selected="True" />
+            <Field field="HVal100Kto200K" selected="True" />
+            <Field field="HVal200Kto300K" selected="True" />
+            <Field field="HVal300Kto400K" selected="True" />
+            <Field field="HVal400Kto500K" selected="True" />
+            <Field field="HVal500Kto750K" selected="True" />
+            <Field field="HVal750KPlus" selected="True" />
+            <Field field="PopDens" selected="True" />
+            <Field field="Cluster_Prediction_1" selected="True" />
+            <Field field="Cluster_Prediction_2" selected="True" />
+            <Field field="Cluster_Prediction_3" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="5" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="String" />
+            <Field name="Age0to9" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Age10to17" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Age18to24" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Age25to29" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Age30to39" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Age40to49" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Age50to64" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Age65Plus" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdLTHS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdHSGrad" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdSomeCol" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdAssociate" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdBachelor" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdMaster" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdProfSchl" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="EdDoctorate" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHSz1Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHSz2Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHSz3Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHSz4Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHSz5PlusPer" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHIncU25K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHInc25Kto50K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHInc50Kto75K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHInc75Kto100K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHInc100Kto150K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHInc150Kto250K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HHInc250KPlus" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopAsian" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopBlack" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopHispanic" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopMulti" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopNativeAmer" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopOther" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopPacIsl" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopWhite" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HVal0to100K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HVal100Kto200K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HVal200Kto300K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HVal300Kto400K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HVal400Kto500K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HVal500Kto750K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="HVal750KPlus" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="PopDens" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Cluster_Prediction_1" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Cluster_Prediction_2" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+            <Field name="Cluster_Prediction_3" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="426" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField field=" Score Cluster 1" type="Double" size="8" expression="IF [Cluster_Prediction_1]&gt;[Cluster_Prediction_2] and [Cluster_Prediction_1]&gt;[Cluster_Prediction_3]&#xA;Then 1&#xA;Else 0&#xA;ENDIF" />
+            <FormulaField field="Score Cluster 2" type="Double" size="8" expression="IF [Cluster_Prediction_2]&gt;[Cluster_Prediction_1] and [Cluster_Prediction_2]&gt;[Cluster_Prediction_3]&#xA;Then 1&#xA;Else 0&#xA;ENDIF" />
+            <FormulaField field="Score Custer 3" type="Double" size="8" expression="IF [Cluster_Prediction_3]&gt;[Cluster_Prediction_1] and [Cluster_Prediction_3]&gt;[Cluster_Prediction_2]&#xA;Then 1&#xA;Else 0&#xA;ENDIF" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[ Score Cluster 1=IF [Cluster_Prediction_1]>[Cluster_Predictio...
+Score Cluster 2=IF [Cluster_Prediction_2]>[Cluster_Prediction...
+Score Custer 3=IF [Cluster_Prediction_3]>[Cluster_Prediction_...]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="510" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_3024_6126616c68c847d4ad9166f15779946d_\Engine_3948_257e209dd8a742238b5aa6040e7d3e0e_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Step 2. Determining Prediction</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

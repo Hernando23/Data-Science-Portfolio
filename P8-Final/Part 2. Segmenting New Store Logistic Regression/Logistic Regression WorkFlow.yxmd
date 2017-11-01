@@ -1,0 +1,1443 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="54" width="336" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Data Exploration</Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="414" y="54" width="288" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Filtering and Sampling</Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="726" y="54" width="708" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Modeling</Text>
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings>
+        <Position x="690" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="estimation pct">80</Value>
+          <Value name="validation pct">20</Value>
+          <Value name="rand seed">3</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Create_Samples.yxmc" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Data 1 storedemographicdata.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age0to9" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age10to17" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age18to24" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age25to29" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age30to39" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age40to49" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age50to64" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="Age65Plus" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdLTHS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdHSGrad" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdSomeCol" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdAssociate" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdBachelor" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdMaster" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdProfSchl" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="EdDoctorate" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHSz1Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHSz2Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHSz3Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHSz4Per" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHSz5PlusPer" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHIncU25K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHInc25Kto50K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHInc50Kto75K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHInc75Kto100K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHInc100Kto150K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHInc150Kto250K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HHInc250KPlus" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopAsian" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopBlack" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopHispanic" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopMulti" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopNativeAmer" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopOther" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopPacIsl" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopWhite" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HVal0to100K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HVal100Kto200K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HVal200Kto300K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HVal300Kto400K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HVal400Kto500K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HVal500Kto750K" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="HVal750KPlus" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+            <Field name="PopDens" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings>
+        <Position x="822" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Model Name">Logistic Regression</Value>
+          <Value name="Y Var">Cluster_Result</Value>
+          <Value name="X Vars">Age0to9 + Age10to17 + Age18to24 + Age25to29 + Age30to39 + Age40to49 + Age50to64 + Age65Plus + EdLTHS + EdHSGrad + EdSomeCol + EdAssociate + EdBachelor + EdMaster + EdProfSchl + EdDoctorate + HHSz1Per + HHSz2Per + HHSz3Per + HHSz4Per + HHSz5PlusPer + HHIncU25K + HHInc25Kto50K + HHInc50Kto75K + HHInc75Kto100K + HHInc100Kto150K + HHInc150Kto250K + HHInc250KPlus + PopAsian + PopBlack + PopHispanic + PopMulti + PopNativeAmer + PopOther + PopPacIsl + PopWhite + HVal0to100K + HVal100Kto200K + HVal200Kto300K + HVal300Kto400K + HVal400Kto500K + HVal500Kto750K + HVal750KPlus + PopDens</Value>
+          <Value name="Link">logit</Value>
+          <Value name="Use Weights">False</Value>
+          <Value name="Weight Vec">Age0to9</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Logistic_Regression.yxmc" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings>
+        <Position x="822" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Model Name">Random Forest Model</Value>
+          <Value name="Y Var">Cluster_Result</Value>
+          <Value name="X Vars">Age0to9 + Age10to17 + Age18to24 + Age25to29 + Age30to39 + Age40to49 + Age50to64 + Age65Plus + EdLTHS + EdHSGrad + EdSomeCol + EdAssociate + EdBachelor + EdMaster + EdProfSchl + EdDoctorate + HHSz1Per + HHSz2Per + HHSz3Per + HHSz4Per + HHSz5PlusPer + HHIncU25K + HHInc25Kto50K + HHInc50Kto75K + HHInc75Kto100K + HHInc100Kto150K + HHInc150Kto250K + HHInc250KPlus + PopAsian + PopBlack + PopHispanic + PopMulti + PopNativeAmer + PopOther + PopPacIsl + PopWhite + HVal0to100K + HVal100Kto200K + HVal200Kto300K + HVal300Kto400K + HVal400Kto500K + HVal500Kto750K + HVal750KPlus + PopDens</Value>
+          <Value name="Num Trees">500</Value>
+          <Value name="Custom Num Vars">False</Value>
+          <Value name="Num Vars">3</Value>
+          <Value name="model.size">False</Value>
+          <Value name="total.nodes">100</Value>
+          <Value name="max.depth">10</Value>
+          <Value name="node.size">5</Value>
+          <Value name="replace">True</Value>
+          <Value name="samp.rate">100</Value>
+          <Value name="inches">True</Value>
+          <Value name="in.w">5.50</Value>
+          <Value name="in.h">5.50</Value>
+          <Value name="centimeters">False</Value>
+          <Value name="cm.w">13.00</Value>
+          <Value name="cm.h">14.95</Value>
+          <Value name="graph.resolution">1x</Value>
+          <Value name="pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Forest_Model.yxmc" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings>
+        <Position x="822" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Model Name">DecisionTree</Value>
+          <Value name="Y Var">Cluster_Result</Value>
+          <Value name="X Vars">Age0to9 + Age10to17 + Age18to24 + Age25to29 + Age30to39 + Age40to49 + Age50to64 + Age65Plus + EdLTHS + EdHSGrad + EdSomeCol + EdAssociate + EdBachelor + EdMaster + EdProfSchl + EdDoctorate + HHSz1Per + HHSz2Per + HHSz3Per + HHSz4Per + HHSz5PlusPer + HHIncU25K + HHInc25Kto50K + HHInc50Kto75K + HHInc75Kto100K + HHInc100Kto150K + HHInc150Kto250K + HHInc250KPlus + PopAsian + PopBlack + PopHispanic + PopMulti + PopNativeAmer + PopOther + PopPacIsl + PopWhite + HVal0to100K + HVal100Kto200K + HVal200Kto300K + HVal300Kto400K + HVal400Kto500K + HVal500Kto750K + HVal750KPlus + PopDens</Value>
+          <Value name="use.weights">False</Value>
+          <Value name="select.weights">Age0to9</Value>
+          <Value name="cp">Auto</Value>
+          <Value name="select.type">False</Value>
+          <Value name="classification">True</Value>
+          <Value name="use.gini">True</Value>
+          <Value name="use.information">False</Value>
+          <Value name="regression">False</Value>
+          <Value name="min.split">20</Value>
+          <Value name="min.bucket">7</Value>
+          <Value name="usesurrogate.0">False</Value>
+          <Value name="usesurrogate.1">False</Value>
+          <Value name="usesurrogate.2">True</Value>
+          <Value name="total.correct">True</Value>
+          <Value name="percent.correct">False</Value>
+          <Value name="xval.folds">10</Value>
+          <Value name="max.depth">20</Value>
+          <Value name="max.bins">Default</Value>
+          <Value name="tree.plot">True</Value>
+          <Value name="Counts">False</Value>
+          <Value name="Proportions">True</Value>
+          <Value name="Branch Dist">True</Value>
+          <Value name="tree.inches">True</Value>
+          <Value name="tree.in.w">5.50</Value>
+          <Value name="tree.in.h">5.50</Value>
+          <Value name="tree.centimeters">False</Value>
+          <Value name="tree.cm.w">13.00</Value>
+          <Value name="tree.cm.h">14.95</Value>
+          <Value name="tree.graph.resolution">1x</Value>
+          <Value name="tree.pointsize">8</Value>
+          <Value name="prune.plot">False</Value>
+          <Value name="prune.inches">True</Value>
+          <Value name="prune.in.w">5.50</Value>
+          <Value name="prune.in.h">5.50</Value>
+          <Value name="prune.centimeters">False</Value>
+          <Value name="prune.cm.w">13.00</Value>
+          <Value name="prune.cm.h">14.95</Value>
+          <Value name="prune.graph.resolution">1x</Value>
+          <Value name="prune.pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Decision_Tree.yxmc" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings>
+        <Position x="822" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="model.name">Boosted Model</Value>
+          <Value name="select.target">Cluster_Result</Value>
+          <Value name="select.predictors">Store=False,Cluster_Result=False,Age0to9=True,Age10to17=True,Age18to24=True,Age25to29=True,Age30to39=True,Age40to49=True,Age50to64=True,Age65Plus=True,EdLTHS=True,EdHSGrad=True,EdSomeCol=True,EdAssociate=True,EdBachelor=True,EdMaster=True,EdProfSchl=True,EdDoctorate=True,HHSz1Per=True,HHSz2Per=True,HHSz3Per=True,HHSz4Per=True,HHSz5PlusPer=True,HHIncU25K=True,HHInc25Kto50K=True,HHInc50Kto75K=True,HHInc75Kto100K=True,HHInc100Kto150K=True,HHInc150Kto250K=True,HHInc250KPlus=True,PopAsian=True,PopBlack=True,PopHispanic=True,PopMulti=True,PopNativeAmer=True,PopOther=True,PopPacIsl=True,PopWhite=True,HVal0to100K=True,HVal100Kto200K=True,HVal200Kto300K=True,HVal300Kto400K=True,HVal400Kto500K=True,HVal500Kto750K=True,HVal750KPlus=True,PopDens=True</Value>
+          <Value name="use.weights">False</Value>
+          <Value name="select.weights">Age0to9</Value>
+          <Value name="marginal.plots">False</Value>
+          <Value name="plot.min.importance">2.5</Value>
+          <Value name="type.distribution">False</Value>
+          <Value name="type.continuous">True</Value>
+          <Value name="dist.gaussian">True</Value>
+          <Value name="dist.laplace">False</Value>
+          <Value name="dist.t">False</Value>
+          <Value name="t.df">4</Value>
+          <Value name="type.count">False</Value>
+          <Value name="type.binomial">False</Value>
+          <Value name="dist.bernoulli">True</Value>
+          <Value name="dist.adaboost">False</Value>
+          <Value name="type.multinomial">False</Value>
+          <Value name="n.trees">4000</Value>
+          <Value name="assess.cv">True</Value>
+          <Value name="num.folds">5</Value>
+          <Value name="n.cores">1</Value>
+          <Value name="assess.test">False</Value>
+          <Value name="train.fraction">50.0</Value>
+          <Value name="assess.oob">False</Value>
+          <Value name="bag.fraction">50.0</Value>
+          <Value name="shrinkage">0.0020</Value>
+          <Value name="interaction.depth">1</Value>
+          <Value name="n.minobsinnode">10</Value>
+          <Value name="rand.seed">1</Value>
+          <Value name="inches">True</Value>
+          <Value name="in.w">5.50</Value>
+          <Value name="in.h">5.50</Value>
+          <Value name="centimeters">False</Value>
+          <Value name="cm.w">13.00</Value>
+          <Value name="cm.h">14.95</Value>
+          <Value name="graph.resolution">1x</Value>
+          <Value name="pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Boosted_Model.yxmc" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="390" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <SelectFields>
+            <SelectField field="Store" selected="True" />
+            <SelectField field="Cluster_Result" selected="True" type="String" size="3" />
+            <SelectField field="Age0to9" selected="True" />
+            <SelectField field="Age10to17" selected="True" />
+            <SelectField field="Age18to24" selected="True" />
+            <SelectField field="Age25to29" selected="True" />
+            <SelectField field="Age30to39" selected="True" />
+            <SelectField field="Age40to49" selected="True" />
+            <SelectField field="Age50to64" selected="True" />
+            <SelectField field="Age65Plus" selected="True" />
+            <SelectField field="EdLTHS" selected="True" />
+            <SelectField field="EdHSGrad" selected="True" />
+            <SelectField field="EdSomeCol" selected="True" />
+            <SelectField field="EdAssociate" selected="True" />
+            <SelectField field="EdBachelor" selected="True" />
+            <SelectField field="EdMaster" selected="True" />
+            <SelectField field="EdProfSchl" selected="True" />
+            <SelectField field="EdDoctorate" selected="True" />
+            <SelectField field="HHSz1Per" selected="True" />
+            <SelectField field="HHSz2Per" selected="True" />
+            <SelectField field="HHSz3Per" selected="True" />
+            <SelectField field="HHSz4Per" selected="True" />
+            <SelectField field="HHSz5PlusPer" selected="True" />
+            <SelectField field="HHIncU25K" selected="True" />
+            <SelectField field="HHInc25Kto50K" selected="True" />
+            <SelectField field="HHInc50Kto75K" selected="True" />
+            <SelectField field="HHInc75Kto100K" selected="True" />
+            <SelectField field="HHInc100Kto150K" selected="True" />
+            <SelectField field="HHInc150Kto250K" selected="True" />
+            <SelectField field="HHInc250KPlus" selected="True" />
+            <SelectField field="PopAsian" selected="True" />
+            <SelectField field="PopBlack" selected="True" />
+            <SelectField field="PopHispanic" selected="True" />
+            <SelectField field="PopMulti" selected="True" />
+            <SelectField field="PopNativeAmer" selected="True" />
+            <SelectField field="PopOther" selected="True" />
+            <SelectField field="PopPacIsl" selected="True" />
+            <SelectField field="PopWhite" selected="True" />
+            <SelectField field="HVal0to100K" selected="True" />
+            <SelectField field="HVal100Kto200K" selected="True" />
+            <SelectField field="HVal200Kto300K" selected="True" />
+            <SelectField field="HVal300Kto400K" selected="True" />
+            <SelectField field="HVal400Kto500K" selected="True" />
+            <SelectField field="HVal500Kto750K" selected="True" />
+            <SelectField field="HVal750KPlus" selected="True" />
+            <SelectField field="PopDens" selected="True" />
+            <SelectField field="Guarantors" selected="False" />
+            <SelectField field="Duration-in-Current-address" selected="False" type="String" size="19" />
+            <SelectField field="Concurrent-Credits" selected="False" />
+            <SelectField field="Occupation" selected="False" />
+            <SelectField field="No-of-dependents" selected="False" />
+            <SelectField field="Telephone" selected="False" />
+            <SelectField field="Foreign-Worker" selected="False" />
+            <SelectField field="Source_AvgNo0_Age-years" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="894" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_9d4f385941fd4b59b7d2c643d997031e_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="918" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_21ffa932fbc14173926e907380ccfe71_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="894" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_92cde93a4d614416b188a3549db8b593_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="918" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_4c7680719e7e44c8bc155d957cb3ca40_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings>
+        <Position x="918" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="New Model">Logistic Regression Model</Value>
+          <Value name="both">True</Value>
+          <Value name="backward">False</Value>
+          <Value name="AIC">True</Value>
+          <Value name="BIC">False</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Stepwise.yxmc" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="990" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_76cde0f2157f4cb390472bcf51bf7824_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="918" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_15901e2fac734087883adf55df18fb11_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings>
+        <Position x="1182" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="score field">Cluster Prediction</Value>
+          <Value name="is oversampled">False</Value>
+          <Value name="oversampled value" />
+          <Value name="original percent">2.0</Value>
+          <Value name="log y">False</Value>
+          <Value name="prediction.interval">False</Value>
+          <Value name="interval.level">95</Value>
+          <Value name="append.xdf">False</Value>
+          <Value name="num.records">256000</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age0to9" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age10to17" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age18to24" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age25to29" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age30to39" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age40to49" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age50to64" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Age65Plus" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdLTHS" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdHSGrad" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdSomeCol" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdAssociate" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdBachelor" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdMaster" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdProfSchl" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="EdDoctorate" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHSz1Per" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHSz2Per" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHSz3Per" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHSz4Per" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHSz5PlusPer" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHIncU25K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHInc25Kto50K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHInc50Kto75K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHInc75Kto100K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHInc100Kto150K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHInc150Kto250K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HHInc250KPlus" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopAsian" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopBlack" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopHispanic" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopMulti" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopNativeAmer" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopOther" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopPacIsl" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopWhite" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HVal0to100K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HVal100Kto200K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HVal200Kto300K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HVal300Kto400K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HVal400Kto500K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HVal500Kto750K" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="HVal750KPlus" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="PopDens" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Cluster_Prediction_1" source="R-DATA:" type="Double" />
+            <Field name="Cluster_Prediction_2" source="R-DATA:" type="Double" />
+            <Field name="Cluster_Prediction_3" source="R-DATA:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Score.yxmc" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1278" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_6ed7330b6d5249cea7e6aad29d37a736_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1134" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>Custom</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="3 Random Forest">
+              <RecordInfo>
+                <Field name="Name" size="1073741823" source="R-DATA:" type="V_WString" column="1" />
+                <Field name="Object" size="2147483647" source="R-DATA:SERIAL" type="Blob" column="2" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="2. Decision Tree">
+              <RecordInfo>
+                <Field name="Name" size="1073741823" source="R-DATA:" type="V_WString" column="1" />
+                <Field name="Object" size="2147483647" source="R-DATA:SERIAL" type="Blob" column="2" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="4 Boosted Model">
+              <RecordInfo>
+                <Field name="Name" size="1073741823" source="R-DATA:" type="V_WString" column="1" />
+                <Field name="Object" size="2147483647" source="R-DATA:SERIAL" type="Blob" column="2" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="1. Logistic Regression">
+              <RecordInfo>
+                <Field name="Name" size="1073741823" source="R-DATA:" type="V_WString" column="1" />
+                <Field name="Object" size="2147483647" source="R-DATA:SERIAL" type="Blob" column="2" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Ignore</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="True" />
+          <OutputOrder>
+            <Connection>3 Random Forest</Connection>
+            <Connection>2. Decision Tree</Connection>
+            <Connection>4 Boosted Model</Connection>
+            <Connection>1. Logistic Regression</Connection>
+          </OutputOrder>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1506" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_f888d462bc7546bf96d34f0e7cb464bd_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="PortfolioPluginsGui.ComposerRender.PortfolioComposerRender">
+        <Position x="1470" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFileType />
+          <OutputFile>C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P4\MODEL COMPARISON Result.pdf</OutputFile>
+          <BatchMode value="False" />
+          <DataField>Layout</DataField>
+          <Separator>Continuous</Separator>
+          <ShowHeader value="False" />
+          <ShowFooter value="False" />
+          <PortraitMode value="True" />
+          <PaperType Width="612" Height="792" Left="36" Right="36" Top="36" Bottom="36" />
+          <DefaultStyles>
+            <Style Name="TextStyle" FontName="Arial" FontSize="14" Justify="Left" ForeColor="#000000" Locale="1033" />
+          </DefaultStyles>
+          <PNGResolution>1</PNGResolution>
+          <PNGLargerAction>squeeze</PNGLargerAction>
+          <PNGLargerThanPageChoice>warning</PNGLargerThanPageChoice>
+          <PNGTransparentBG value="False" />
+          <PNGBackColor value="#ffffff" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="AlteryxPortfolioComposerRenderPlugin" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1278" y="486" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Sheet 2 Clustering Prediction Output.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Sheet 2 Clustering Prediction Output.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="51">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Data 2 Clustering Result.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Cluster_Result" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="Store" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="Type" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="Total.Sales" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Dry.Grocery" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.FrozenFood" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Dairy" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Meat" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Produce" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Floral" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Deli" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Bakery" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.General_Merchandise" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="138" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Store" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Store" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Left_Store" selected="True" />
+                <SelectField field="Left_Age0to9" selected="True" />
+                <SelectField field="Left_Age10to17" selected="True" />
+                <SelectField field="Left_Age18to24" selected="True" />
+                <SelectField field="Left_Age25to29" selected="True" />
+                <SelectField field="Left_Age30to39" selected="True" />
+                <SelectField field="Left_Age40to49" selected="True" />
+                <SelectField field="Left_Age50to64" selected="True" />
+                <SelectField field="Left_Age65Plus" selected="True" />
+                <SelectField field="Left_EdLTHS" selected="True" />
+                <SelectField field="Left_EdHSGrad" selected="True" />
+                <SelectField field="Left_EdSomeCol" selected="True" />
+                <SelectField field="Left_EdAssociate" selected="True" />
+                <SelectField field="Left_EdBachelor" selected="True" />
+                <SelectField field="Left_EdMaster" selected="True" />
+                <SelectField field="Left_EdProfSchl" selected="True" />
+                <SelectField field="Left_EdDoctorate" selected="True" />
+                <SelectField field="Left_HHSz1Per" selected="True" />
+                <SelectField field="Left_HHSz2Per" selected="True" />
+                <SelectField field="Left_HHSz3Per" selected="True" />
+                <SelectField field="Left_HHSz4Per" selected="True" />
+                <SelectField field="Left_HHSz5PlusPer" selected="True" />
+                <SelectField field="Left_HHIncU25K" selected="True" />
+                <SelectField field="Left_HHInc25Kto50K" selected="True" />
+                <SelectField field="Left_HHInc50Kto75K" selected="True" />
+                <SelectField field="Left_HHInc75Kto100K" selected="True" />
+                <SelectField field="Left_HHInc100Kto150K" selected="True" />
+                <SelectField field="Left_HHInc150Kto250K" selected="True" />
+                <SelectField field="Left_HHInc250KPlus" selected="True" />
+                <SelectField field="Left_PopAsian" selected="True" />
+                <SelectField field="Left_PopBlack" selected="True" />
+                <SelectField field="Left_PopHispanic" selected="True" />
+                <SelectField field="Left_PopMulti" selected="True" />
+                <SelectField field="Left_PopNativeAmer" selected="True" />
+                <SelectField field="Left_PopOther" selected="True" />
+                <SelectField field="Left_PopPacIsl" selected="True" />
+                <SelectField field="Left_PopWhite" selected="True" />
+                <SelectField field="Left_HVal0to100K" selected="True" />
+                <SelectField field="Left_HVal100Kto200K" selected="True" />
+                <SelectField field="Left_HVal200Kto300K" selected="True" />
+                <SelectField field="Left_HVal300Kto400K" selected="True" />
+                <SelectField field="Left_HVal400Kto500K" selected="True" />
+                <SelectField field="Left_HVal500Kto750K" selected="True" />
+                <SelectField field="Left_HVal750KPlus" selected="True" />
+                <SelectField field="Left_PopDens" selected="True" />
+                <SelectField field="Right_Cluster_Result" selected="True" />
+                <SelectField field="Right_Store" selected="False" rename="Right_Store" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="53">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="246" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="Store" selected="True" />
+            <Field field="Age0to9" selected="True" />
+            <Field field="Age10to17" selected="True" />
+            <Field field="Age18to24" selected="True" />
+            <Field field="Age25to29" selected="True" />
+            <Field field="Age30to39" selected="True" />
+            <Field field="Age40to49" selected="True" />
+            <Field field="Age50to64" selected="True" />
+            <Field field="Age65Plus" selected="True" />
+            <Field field="EdLTHS" selected="True" />
+            <Field field="EdHSGrad" selected="True" />
+            <Field field="EdSomeCol" selected="True" />
+            <Field field="EdAssociate" selected="True" />
+            <Field field="EdBachelor" selected="True" />
+            <Field field="EdMaster" selected="True" />
+            <Field field="EdProfSchl" selected="True" />
+            <Field field="EdDoctorate" selected="True" />
+            <Field field="HHSz1Per" selected="True" />
+            <Field field="HHSz2Per" selected="True" />
+            <Field field="HHSz3Per" selected="True" />
+            <Field field="HHSz4Per" selected="True" />
+            <Field field="HHSz5PlusPer" selected="True" />
+            <Field field="HHIncU25K" selected="True" />
+            <Field field="HHInc25Kto50K" selected="True" />
+            <Field field="HHInc50Kto75K" selected="True" />
+            <Field field="HHInc75Kto100K" selected="True" />
+            <Field field="HHInc100Kto150K" selected="True" />
+            <Field field="HHInc150Kto250K" selected="True" />
+            <Field field="HHInc250KPlus" selected="True" />
+            <Field field="PopAsian" selected="True" />
+            <Field field="PopBlack" selected="True" />
+            <Field field="PopHispanic" selected="True" />
+            <Field field="PopMulti" selected="True" />
+            <Field field="PopNativeAmer" selected="True" />
+            <Field field="PopOther" selected="True" />
+            <Field field="PopPacIsl" selected="True" />
+            <Field field="PopWhite" selected="True" />
+            <Field field="HVal0to100K" selected="True" />
+            <Field field="HVal100Kto200K" selected="True" />
+            <Field field="HVal200Kto300K" selected="True" />
+            <Field field="HVal300Kto400K" selected="True" />
+            <Field field="HVal400Kto500K" selected="True" />
+            <Field field="HVal500Kto750K" selected="True" />
+            <Field field="HVal750KPlus" selected="True" />
+            <Field field="PopDens" selected="True" />
+            <Field field="Cluster_Result" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="5" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="String" />
+            <Field name="Age0to9" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Age10to17" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Age18to24" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Age25to29" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Age30to39" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Age40to49" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Age50to64" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Age65Plus" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdLTHS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdHSGrad" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdSomeCol" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdAssociate" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdBachelor" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdMaster" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdProfSchl" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="EdDoctorate" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHSz1Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHSz2Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHSz3Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHSz4Per" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHSz5PlusPer" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHIncU25K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHInc25Kto50K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHInc50Kto75K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHInc75Kto100K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHInc100Kto150K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHInc150Kto250K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HHInc250KPlus" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopAsian" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopBlack" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopHispanic" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopMulti" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopNativeAmer" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopOther" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopPacIsl" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopWhite" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HVal0to100K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HVal100Kto200K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HVal200Kto300K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HVal300Kto400K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HVal400Kto500K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HVal500Kto750K" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="HVal750KPlus" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="PopDens" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 1 storedemographicdata.csv" type="Double" />
+            <Field name="Cluster_Result" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 2. Segmenting New Store Logistic Regression\Data 2 Clustering Result.csv" type="Byte" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="54">
+      <GuiSettings>
+        <Position x="486" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Select Fields">Store=True,Cluster_Result=True,Age0to9=True,Age10to17=True,Age18to24=True,Age25to29=True,Age30to39=True,Age40to49=True,Age50to64=True,Age65Plus=True,EdLTHS=True,EdHSGrad=True,EdSomeCol=True,EdAssociate=True,EdBachelor=True,EdMaster=True,EdProfSchl=True,EdDoctorate=True,HHSz1Per=True,HHSz2Per=True,HHSz3Per=True,HHSz4Per=True,HHSz5PlusPer=True,HHIncU25K=True,HHInc25Kto50K=True,HHInc50Kto75K=True,HHInc75Kto100K=True,HHInc100Kto150K=True,HHInc150Kto250K=True,HHInc250KPlus=True,PopAsian=True,PopBlack=True,PopHispanic=True,PopMulti=True,PopNativeAmer=True,PopOther=True,PopPacIsl=True,PopWhite=True,HVal0to100K=True,HVal100Kto200K=True,HVal200Kto300K=True,HVal300Kto400K=True,HVal400Kto500K=True,HVal500Kto750K=True,HVal750KPlus=True,PopDens=True</Value>
+          <Value name="Sample Data">False</Value>
+          <Value name="Number">True</Value>
+          <Value name="NNumber">5000</Value>
+          <Value name="Percent">False</Value>
+          <Value name="NPercent">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Field_Summary_Report.yxmc" />
+    </Node>
+    <Node ToolID="55">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="582" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_764c53947ca2499fb0963ad7ddd8cef6_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints />
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="56">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="582" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_a892f443f9b24bc88ebc3bd36622a1da_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints />
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="57">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="582" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_90931e87cdd847f2b052cf26a8ee4bef_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="58">
+      <GuiSettings>
+        <Position x="1266" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="target.level" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="predictions">
+          <RecordInfo>
+            <Field name="Actual" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Random_Forest_Model" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="DecisionTree" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Boosted_Model" size="1073741823" source="R-DATA:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="error_measures">
+          <RecordInfo>
+            <Field name="Model" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Accuracy" source="R-DATA:" type="Double" />
+            <Field name="Accuracy_1" source="R-DATA:" type="Double" />
+            <Field name="Accuracy_2" source="R-DATA:" type="Double" />
+            <Field name="Accuracy_3" source="R-DATA:" type="Double" />
+            <Field name="F1" source="R-DATA:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Report">
+          <RecordInfo>
+            <Field name="Group" size="64" source="Formula: (Multiple Sources)" type="V_String" />
+            <Field name="Layout" size="2147483647" source="Report:Layout:" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Model Comparison.yxmc" />
+    </Node>
+    <Node ToolID="59">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1362" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_9125ea28344949a79d316aa3e7c060d2_.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="60">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1362" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_8ebac23341c2492a8eae9b44bfc5b08d_.yxdb</TempFile>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="61">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1362" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5800_b9a329193b674822b4c97d12bfbec787_\Engine_3948_db7c4d8aaef64aa39783c8ef4bb52d4a_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="5" Connection="Estimation" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Estimation" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Estimation" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Estimation" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Estimation" />
+      <Destination ToolID="21" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="21" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Validation" />
+      <Destination ToolID="58" Connection="Data" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="58" Connection="Models" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="52" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="52" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Reports" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Reports" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection name="3 Random Forest">
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection name="2. Decision Tree">
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection name="4 Boosted Model">
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection name="1. Logistic Regression">
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Interactive" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Reports" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Report" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="40" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Left" />
+      <Destination ToolID="40" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="54" Connection="Field Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Reports" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Join" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="53" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="54" Connection="Output" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="54" Connection="Reports" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="54" Connection="Interactive" />
+      <Destination ToolID="57" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="error_measures" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="error_measures" />
+      <Destination ToolID="59" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="predictions" />
+      <Destination ToolID="60" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Report" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Logistic Regression WorkFlow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

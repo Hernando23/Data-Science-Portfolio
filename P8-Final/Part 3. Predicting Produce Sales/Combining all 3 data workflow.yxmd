@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Data 2 storesalesdata.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Day" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Month" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Year" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Dry_Grocery" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Dairy" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Frozen_Food" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Meat" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Produce" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Floral" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Deli" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="Bakery" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+            <Field name="General_Merchandise" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Data 1 Clustering Result.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Cluster_Result" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="Store" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="Type" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="Total.Sales" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Dry.Grocery" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.FrozenFood" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Dairy" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Meat" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Produce" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Floral" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Deli" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.Bakery" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+            <Field name="X.Sales.General_Merchandise" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Data 3 storeinformation.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+            <Field name="Type" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="534" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_3784_0934000d373f4a8fa2d2e34f95c50755_\Engine_5212_c34271a24ea147fa91ffae57160f5ab7_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.JoinMultiple.JoinMultiple">
+        <Position x="174" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <JoinByRecPos value="False" />
+          <JoinFields>
+            <JoinInfo connection="#1">
+              <Field field="Store" />
+            </JoinInfo>
+            <JoinInfo connection="#2">
+              <Field field="Store" />
+            </JoinInfo>
+            <JoinInfo connection="#3">
+              <Field field="Store" />
+            </JoinInfo>
+          </JoinFields>
+          <CartesianMode>Error</CartesianMode>
+          <OutputJoinOnly value="False" />
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Input_#2_Store" selected="False" rename="Input_#2_Store" />
+                <SelectField field="Input_#2_Address" selected="False" />
+                <SelectField field="Input_#2_City" selected="False" />
+                <SelectField field="Input_#2_State" selected="False" />
+                <SelectField field="Input_#2_Zip" selected="False" />
+                <SelectField field="Input_#2_Type" selected="False" />
+                <SelectField field="Input_#2_Total.Sales" selected="False" />
+                <SelectField field="Input_#2_X.Sales.Dry.Grocery" selected="False" />
+                <SelectField field="Input_#2_X.Sales.FrozenFood" selected="False" />
+                <SelectField field="Input_#2_X.Sales.Dairy" selected="False" />
+                <SelectField field="Input_#2_X.Sales.Meat" selected="False" />
+                <SelectField field="Input_#2_X.Sales.Produce" selected="False" />
+                <SelectField field="Input_#2_X.Sales.Floral" selected="False" />
+                <SelectField field="Input_#2_X.Sales.Deli" selected="False" />
+                <SelectField field="Input_#2_X.Sales.Bakery" selected="False" />
+                <SelectField field="Input_#2_X.Sales.General_Merchandise" selected="False" />
+                <SelectField field="Input_#3_Store" selected="False" rename="Input_#3_Store" />
+                <SelectField field="Input_#3_Address" selected="True" rename="Input_#3_Address" />
+                <SelectField field="Input_#3_City" selected="True" rename="Input_#3_City" />
+                <SelectField field="Input_#3_State" selected="True" rename="Input_#3_State" />
+                <SelectField field="Input_#3_Zip" selected="True" rename="Input_#3_Zip" />
+                <SelectField field="Input_#3_Type" selected="True" rename="Input_#3_Type" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoinMultiple" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="342" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <SelectFields>
+            <SelectField field="Store" selected="True" />
+            <SelectField field="Cluster_Result" selected="True" />
+            <SelectField field="Day" selected="True" />
+            <SelectField field="Month" selected="True" />
+            <SelectField field="Year" selected="True" />
+            <SelectField field="Dry_Grocery" selected="False" />
+            <SelectField field="Dairy" selected="False" />
+            <SelectField field="Frozen_Food" selected="False" />
+            <SelectField field="Meat" selected="False" />
+            <SelectField field="Produce" selected="True" />
+            <SelectField field="Floral" selected="False" />
+            <SelectField field="Deli" selected="False" />
+            <SelectField field="Bakery" selected="False" />
+            <SelectField field="General_Merchandise" selected="False" />
+            <SelectField field="Input_#3_Address" selected="True" />
+            <SelectField field="Input_#3_City" selected="True" />
+            <SelectField field="Input_#3_State" selected="True" />
+            <SelectField field="Input_#3_Zip" selected="True" />
+            <SelectField field="Input_#3_Type" selected="True" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="258" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="Store" selected="True" />
+            <Field field="Day" selected="True" />
+            <Field field="Month" selected="True" />
+            <Field field="Year" selected="True" />
+            <Field field="Dry_Grocery" selected="True" />
+            <Field field="Dairy" selected="True" />
+            <Field field="Frozen_Food" selected="True" />
+            <Field field="Meat" selected="True" />
+            <Field field="Produce" selected="True" />
+            <Field field="Floral" selected="True" />
+            <Field field="Deli" selected="True" />
+            <Field field="Bakery" selected="True" />
+            <Field field="General_Merchandise" selected="True" />
+            <Field field="Cluster_Result" selected="True" />
+            <Field field="Input_#3_Address" selected="True" />
+            <Field field="Input_#3_City" selected="True" />
+            <Field field="Input_#3_State" selected="True" />
+            <Field field="Input_#3_Zip" selected="True" />
+            <Field field="Input_#3_Type" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="5" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="String" />
+            <Field name="Day" size="2" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="String" />
+            <Field name="Month" size="2" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="String" />
+            <Field name="Year" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Int16" />
+            <Field name="Dry_Grocery" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Dairy" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Frozen_Food" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Meat" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Produce" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Floral" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Deli" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Bakery" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="General_Merchandise" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 2 storesalesdata.csv" type="Double" />
+            <Field name="Cluster_Result" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 1 Clustering Result.csv" type="Byte" />
+            <Field name="Input_#3_Address" size="29" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+            <Field name="Input_#3_City" size="21" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="V_String" />
+            <Field name="Input_#3_State" size="2" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="String" />
+            <Field name="Input_#3_Zip" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="Int32" />
+            <Field name="Input_#3_Type" size="8" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Data 3 storeinformation.csv" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="426" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P8-Final\Part 3. Predicting Produce Sales\Sheet 1 Cleaned Up data.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Sheet 1 Cleaned Up data.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection name="#1">
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>New Workflow3</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

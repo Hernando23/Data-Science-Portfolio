@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="30" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>treatment-stores.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="StoreID" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Sq_Ft" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="AvgMonthSales" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Phone Number" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Street Combined" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Street 1" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Street 2" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Street 3" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Postal Code" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Region" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Country" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Coordinates" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Latitude" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Longitude" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Timezone" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Current Timezone Offset" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Olson Timezone" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Name" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+            <Field name="Right_State" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\treatment-stores.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="126" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Field>StoreID</Field>
+            <Operator>!=</Operator>
+            <Operands>
+              <Operand>1700</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[StoreID] != "1700"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="30" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="8">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Control Stores selection.xls|`Sheet1`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <NoProgress>False</NoProgress>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Control Stores selection.xls
+Table=`Sheet1`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Controls" size="255" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Control Stores selection.xls|`Sheet1`" type="V_WString" />
+            <Field name="Treatments" size="255" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Control Stores selection.xls|`Sheet1`" type="V_WString" />
+            <Field name="Distance" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Control Stores selection.xls|`Sheet1`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="138" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Field>Treatments</Field>
+            <Operator>!=</Operator>
+            <Operands>
+              <Operand>1700</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Treatments] != "1700"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="30" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="8">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <NoProgress>False</NoProgress>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Filtered Date sections.xls
+Table=`Sheet1`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="StoreID" size="255" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="V_WString" />
+            <Field name="Invoice Number" size="255" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="V_WString" />
+            <Field name="Invoice Date" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="DateTime" />
+            <Field name="Category" size="255" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="V_WString" />
+            <Field name="Product" size="255" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="V_WString" />
+            <Field name="QTY" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="Double" />
+            <Field name="Size" size="255" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="V_WString" />
+            <Field name="Gross Margin" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="Double" />
+            <Field name="Sales" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="Double" />
+            <Field name="Week" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="Double" />
+            <Field name="WeekStart" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="DateTime" />
+            <Field name="Week_End" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P5\Filtered Date sections.xls|`Sheet1`" type="DateTime" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings>
+        <Position x="330" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="select.controls.id">StoreID</Value>
+          <Value name="select.control.treatment.link">StoreID</Value>
+          <Value name="select.treatments.id">Treatments</Value>
+          <Value name="select.performance.id">StoreID</Value>
+          <Value name="select.performance.period">Invoice Date</Value>
+          <Value name="select.performance.measure">QTY</Value>
+          <Value name="StartDate">2016-04-29</Value>
+          <Value name="EndDate">2016-07-21</Value>
+          <Value name="custom.comparison.period">False</Value>
+          <Value name="ComparisonStart">2016-12-28</Value>
+          <Value name="ComparisonEnd">2016-12-28</Value>
+          <Value name="test.name" />
+          <Value name="additional.info" />
+          <Value name="measure.alt.name" />
+          <Value name="threshold">0.0</Value>
+          <Value name="save_dashboard" />
+          <Value name="date.format">ymd</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\AB_Analysis.yxmc" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="426" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="426" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="426" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="426" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="True" />
+      <Destination ToolID="9" Connection="Controls" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="True" />
+      <Destination ToolID="9" Connection="Treatments" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="9" Connection="Performance Data" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="External" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Grouped Data" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Interactive Dashboard" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>New Workflow3</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

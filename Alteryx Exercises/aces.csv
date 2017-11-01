@@ -1,0 +1,1682 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+	<head profile="http://www.w3.org/1999/xhtml/vocab">
+		<title>ACE Program | Alteryx</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+<meta property="twitter:account_id" content="16528607" />
+<!--[if lt IE 9]><script src="/sites/all/themes/alteryx2014/_js/html5shiv.js" type="text/javascript" />
+</script><![endif]--><link rel="shortcut icon" href="http://www.alteryx.com/sites/all/themes/alteryx2014/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="keywords" content="advanced analytics, strategic analytics software, strategic analytics, analytics software, business intelligence software, BI software, agile BI software, agile business intelligence software, agile analytics software, data blending, data preparation" />
+<link rel="canonical" href="/ace-program" />
+<link rel="shortlink" href="/node/4506" />
+<meta name="description" content="Learn about the Alteryx ACE program, and how to become an ACE." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+		<link type="text/css" rel="stylesheet" href="http://www.alteryx.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.alteryx.com/sites/default/files/css/css_P7RhN89cFQm5rinroNylg6jHeMS-fLjIy9_eoe7RLrM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.alteryx.com/sites/default/files/css/css_QE2m-2KkE_MvejwzuTDN7KSTs1fh5fMWXaE6SmdcYig.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.alteryx.com/sites/default/files/css/css_MOlqsFzyOntv1GSMYVTKa5ExRAj6c2JnX5gwZigIxIQ.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/alteryx2014/_css/old-ie.css?o698uz" media="all" />
+<![endif]-->
+		<script type="text/javascript" src="http://www.alteryx.com/sites/default/files/js/js_DHMxFVzCWy66PHG74oyIe7DYxUuiMmeBL60VE45Rv1Y.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.alteryx.com/sites/default/files/js/js_3TykeRWpejhD4-J3vdlaNXdULg9xhOZhbsppK0o2bUs.js"></script>
+<script type="text/javascript" src="http://www.alteryx.com/sites/default/files/js/js_kS96MkIPfO3cyp1U5-xu-T0Crgz_qYND1hpXGRSEXwM.js"></script>
+<script type="text/javascript" src="http://www.alteryx.com/sites/all/modules/lightbox2/js/lightbox.js?1462155743"></script>
+<script type="text/javascript" src="http://www.alteryx.com/sites/default/files/js/js_vXwqPBWkKA5s01vSeinvQztAawbHs2H8fhPLhub4o-E.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(d) {
+var e = d.createElement('script');
+e.src = d.location.protocol + '//bounceexchange.com/tag/1329/i.js';
+e.async = true;
+d.getElementsByTagName('head')[0].appendChild(e);
+}(document));
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="//cdn.optimizely.com/js/1761460436.js"></script>
+<script type="text/javascript" src="//cdn.captora.com/js/track.js"></script>
+<script type="text/javascript" src="http://www.alteryx.com/sites/default/files/js/js_7SP6_7H9rKG7Ciefx9jzOCCh5HSjXpPSTAwcy0oJ_cw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"alteryx2014","theme_token":"C6xMYcdmFerrakiXPcl2ROpxMDRUTRkYCb3PQK3z0pU","js":{"sites\/all\/themes\/alteryx2014\/_js\/js_cookie.js":1,"0":1,"\/\/munchkin.marketo.net\/munchkin.js":1,"1":1,"sites\/all\/themes\/alteryx2014\/_js\/modernizr.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"2":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox_video.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/default\/files\/autodemo\/js\/autodemo.js":1,"https:\/\/apis.google.com\/js\/plusone.js":1,"3":1,"\/\/cdn.optimizely.com\/js\/1761460436.js":1,"\/\/cdn.captora.com\/js\/track.js":1,"sites\/all\/themes\/alteryx2014\/_js\/master.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/amazon_s3\/amazon_s3.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox_alt.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"modules\/locale\/locale.css":1,"\/\/fonts.googleapis.com\/css?family=Lato:300,400,700":1,"sites\/all\/themes\/alteryx2014\/_css\/master.css":1,"\/sites\/all\/themes\/alteryx2014\/_css\/old-ie.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":1,"flvPlayer":"\/","flvFlashvars":""},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/ace-program":true}});
+//--><!]]>
+</script>
+	</head>
+	<body class="preload desktop-nav html not-front not-logged-in no-sidebars page-node page-node- page-node-4506 node-type-page2 i18n-en" >
+		
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MK3XM4"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MK3XM4');</script>
+		<!-- End Google Tag Manager -->
+
+		<section id="site-header-wrapper" class="site-header-wrapper fixed-top mfp-fix-right">
+	<div class="site-container nav-site-container">
+		<svg class="hide">
+	<defs>
+		<g id="shape-file-wrapper" viewBox="0 0 80 100" fill="white">
+
+
+			<polygon fill="#FFFFFF" points="63.587,2.241 2.363,2.241 2.363,96.054 76.72,96.054 77.874,20.212 "/>
+
+			<path class="border-outside" fill="#FFFFFF"  d="M60.25,4.417l12.917,15.167L73.083,27.5L72.833,92H7L7.333,4.083l52.874,0.164 M60.875,0H5.865
+		c-1.657,0-3,1.343-3,3v90.394c0,1.656,1.343,3,3,3h68.587c1.657,0,3-1.344,3-3V26.632v-7.911c0-0.72-0.259-1.416-0.729-1.961
+		L63.146,1.039C62.575,0.379,61.747,0,60.875,0L60.875,0z"/>
+		</g>
+		<g id="shape-datasheet" viewBox="0 0 80 100" fill="#00A99D">
+			<rect x="18.629" y="50" width="6.209" height="27.604"/>
+			<rect x="28.498" y="43.83" width="6.21" height="33.779"/>
+			<rect x="38.363" y="35.19" width="6.209" height="42.414"/>
+			<rect x="48.236" y="19.149" width="6.209" height="58.455"/>
+		</g>
+		<g id="shape-whitepaper" viewBox="0 0 80 100" fill="#00A99D">
+			<rect x="18.629" y="30.669" width="39.741" height="4.968"/>
+			<rect x="18.629" y="41.156" width="39.741" height="4.968"/>
+			<rect x="18.629" y="51.65" width="39.741" height="4.967"/>
+			<rect x="18.629" y="62.145" width="39.741" height="4.967"/>
+			<rect x="18.629" y="72.637" width="27.404" height="4.969"/>
+		</g>
+		<g id="shape-alteryx-logo" viewBox="0 0 100 31" fill="#1691c6">
+			<path d="M16.044,21.568c-0.111-0.358-0.49-0.479-0.773-0.407c-0.091,0.022-0.182,0.052-0.301,0.084
+				c-0.514,0.116-0.711,0.157-1.107,0.182c-0.752,0.044-0.965-0.545-1.02-1.389V8.846c-0.011-0.514-0.289-0.826-0.586-1.035
+				c-0.645-0.418-1.77-0.73-2.507-0.918S8.007,6.611,6.842,6.625C6.174,6.634,5.637,6.637,4.55,6.809
+				C3.656,6.95,2.994,7.174,2.542,7.348c-0.296,0.113-0.6,0.287-0.618,0.693C1.935,8.25,1.97,8.43,2.086,8.844
+				C2.2,9.258,2.403,9.547,2.703,9.615c0.288,0.051,0.483,0.057,1.186-0.1C4.685,9.34,5.593,9.205,6.01,9.204
+				C6.545,9.2,6.984,9.145,7.778,9.266c1.503,0.228,2.208,0.646,2.208,0.646v4.018l-0.259,0.002l-3.218-0.008
+				c-4.295,0.141-6.283,2.02-6.259,5.457c-0.001,1.557,0.487,2.807,1.415,3.618c0.867,0.76,2.132,1.163,3.662,1.163h0.007
+				c1.758,0,3.263-0.542,4.732-1.705l0.139-0.105l0.072,0.158c0.354,0.776,0.956,1.28,1.788,1.495c0.372,0.101,0.792,0.15,1.334,0.155
+				c0.145,0,0.279-0.012,0.403-0.021c0.495-0.07,1.143-0.16,1.869-0.502c0.4-0.191,0.683-0.423,0.662-0.844
+				C16.315,22.42,16.044,21.568,16.044,21.568 M10.008,20.438l-0.06,0.041L9.889,20.52c-1.071,0.736-2.667,1.231-3.972,1.231H5.913
+				c-1.924-0.043-2.622-0.717-2.664-2.571c0.045-2.127,0.753-2.91,3.158-3.062l3.314-0.001l0.281-0.007L10.008,20.438z"/>
+			<path d="M62.307,24.078h-0.011h-1.562c-0.237,0-0.438-0.077-0.562-0.219c-0.126-0.146-0.188-0.346-0.188-0.61V8.434
+				c-0.002-0.277,0.064-0.479,0.205-0.615c0.129-0.123,0.312-0.182,0.558-0.182h1.417c0.263,0,0.441,0.053,0.579,0.17
+				c0.144,0.117,0.218,0.313,0.216,0.551l0.014,0.395l0.012,0.334l0.229-0.244c0.662-0.715,1.796-1.562,3.436-1.562
+				c0.234,0,0.633,0.029,0.987,0.102c0.289,0.049,0.4,0.348,0.384,0.502c0,0.082-0.01,0.143-0.017,0.201l-0.229,1.49
+				c-0.019,0.258-0.256,0.451-0.457,0.451c-0.176-0.006-0.282-0.022-0.396-0.041c-0.17-0.029-0.361-0.062-0.699-0.062
+				c-1.092,0-2.313,0.727-3.131,1.85l-0.025,0.035v0.045v11.399c0,0.25-0.062,0.45-0.188,0.599
+				C62.748,23.993,62.541,24.078,62.307,24.078"/>
+			<path d="M49.292,6.643c-4.02,0-7.052,2.801-7.052,9.158c0,5.833,2.734,8.7,7.876,8.7
+				c0.815,0,1.778-0.099,2.702-0.285c0.146-0.028,0.293-0.065,0.438-0.1c0.584-0.158,1.174-0.406,1.396-0.502
+				c0.318-0.126,0.565-0.375,0.586-0.688c-0.088-0.458-0.205-0.932-0.338-1.389c-0.127-0.311-0.403-0.503-0.688-0.487
+				c-0.097,0.003-1.479,0.306-1.563,0.327c-0.791,0.2-1.657,0.322-2.465,0.322c-3.657,0-4.745-1.746-4.745-5.338v-0.266h9.573
+				c0.285-0.025,0.509-0.24,0.548-0.522l0.008-0.123c0.037-0.63,0.056-1.287,0.056-1.822C55.618,9.212,53.477,6.643,49.292,6.643
+				 M52.652,14.055h-7.186c0.099-3.623,1.484-5.104,3.757-5.104c2.208,0,3.458,1.22,3.458,4.054
+				C52.686,13.232,52.686,13.791,52.652,14.055"/>
+			<path d="M69.988,30.782c-0.404-0.079-0.514-0.581-0.461-1.081c0,0,0.039-0.572,0.119-0.949
+				c0.076-0.378,0.235-0.597,0.541-0.597l0.014,0.001c0,0,0.419-0.008,0.546-0.002c0.341,0.011,0.604,0.007,0.821,0.007
+				c1.869-0.022,2.781-0.552,3.505-2.283l0.878-2.185L70.143,8.178c-0.024-0.066-0.037-0.134-0.037-0.195s0.012-0.172,0.09-0.258
+				c0.061-0.067,0.162-0.108,0.27-0.108h2.352h0.004c0.315,0,0.55,0.17,0.615,0.411l3.787,10.894l0.254,0.731l0.266-0.729
+				l3.906-10.813c0.084-0.305,0.332-0.494,0.619-0.494l0.01,0.001l0.062,0.003h2.146c0.146,0,0.252,0.027,0.328,0.092
+				c0.071,0.059,0.103,0.158,0.103,0.23c-0.001,0.104-0.028,0.188-0.058,0.273l-6.435,17.262c-1.397,3.844-3.511,5.439-6.887,5.439
+				C71.538,30.916,70.439,30.872,69.988,30.782"/>
+			<path d="M97.464,24.036c-0.375,0-0.685-0.177-0.862-0.494l-3.438-5.308l-0.115-0.176l-0.112,0.176l-3.438,5.302
+				c-0.187,0.323-0.49,0.499-0.865,0.499l-0.063-0.002H86.74c-0.151,0-0.266-0.034-0.355-0.107c-0.089-0.07-0.148-0.201-0.145-0.33
+				c0-0.154,0.055-0.312,0.148-0.443l4.973-7.547l0.052-0.074l-0.052-0.078l-4.582-7.068C86.695,8.26,86.654,8.15,86.66,8.042
+				c0-0.296,0.275-0.478,0.529-0.479h1.726h0.003c0.372,0,0.667,0.162,0.795,0.416l3.225,4.894l0.112,0.175l0.114-0.175l3.205-4.862
+				c0.145-0.279,0.438-0.445,0.777-0.445l1.763,0.002c0.256,0,0.532,0.182,0.532,0.475c0.002,0.109-0.037,0.223-0.119,0.343
+				l-4.584,7.071l-0.051,0.078l0.051,0.076l4.964,7.531c0.103,0.145,0.157,0.303,0.157,0.453c0.004,0.133-0.053,0.264-0.145,0.332
+				c-0.092,0.075-0.205,0.109-0.354,0.109H97.54L97.464,24.036z"/>
+			<path d="M24.268,24.08c-0.81,0-1.594-0.13-2.27-0.374c-0.623-0.224-1.116-0.53-1.468-0.911
+				c-0.977-1.082-1.061-2.417-1.071-4.186V1.734c0-0.103,0.037-0.199,0.105-0.277c0.576-0.646,1.324-1.129,2.221-1.434
+				C21.839,0.003,21.88,0,21.923,0c0.074,0,0.263,0.018,0.42,0.173c0.133,0.136,0.2,0.335,0.199,0.595v17.951
+				c0.007,0.938,0.229,1.678,0.639,2.141c0.352,0.385,0.92,0.586,1.644,0.589c0.179,0,0.373-0.017,0.607-0.052
+				c0.527-0.071,1.033-0.22,1.366-0.322c0.089-0.039,0.177-0.059,0.27-0.059c0.286,0,0.534,0.2,0.628,0.5c0,0,0.258,0.869,0.287,1.27
+				c0.024,0.351-0.293,0.586-0.583,0.689C27.033,23.617,25.727,24.08,24.268,24.08"/>
+			<path d="M39.198,21.506c-0.095-0.302-0.342-0.503-0.638-0.503c-0.089,0-0.176,0.017-0.264,0.056
+				c-0.487,0.153-1.214,0.355-1.905,0.371l-0.076,0.006c-0.738-0.002-1.294-0.199-1.651-0.59c-0.336-0.369-0.575-0.963-0.592-2.088
+				v-0.062l0.091-8.883l3.633,0.002c0.201-0.002,0.363-0.025,0.508-0.139c0.185-0.148,0.21-0.381,0.207-0.51V8.045
+				c0.004-0.236-0.065-0.413-0.203-0.523c-0.162-0.119-0.335-0.123-0.476-0.125h-3.669V7.342l0.002-3.749V1.865
+				c0.001-0.264-0.064-0.457-0.199-0.594C33.809,1.117,33.619,1.1,33.545,1.1c-0.043,0-0.082,0.004-0.148,0.025
+				c-0.213,0.073-0.783,0.271-1.408,0.715c-0.22,0.156-0.442,0.352-0.663,0.574c-0.064,0.08-0.097,0.173-0.097,0.271L31.144,7.34
+				h-1.88c-0.184-0.001-0.382,0.042-0.526,0.193c-0.14,0.15-0.177,0.346-0.177,0.544v1.021c0.006,0.219-0.005,0.412,0.167,0.602
+				c0.189,0.173,0.383,0.16,0.601,0.168h1.764l-0.171,8.359l0.002,0.357c0.01,1.773,0.092,3.115,1.077,4.202
+				c0.758,0.817,2.127,1.288,3.753,1.293c1.478-0.002,2.62-0.394,3.146-0.608c0.287-0.119,0.598-0.343,0.584-0.693
+				C39.486,22.445,39.198,21.506,39.198,21.506"/>
+		</g>
+	</defs>
+</svg>
+<svg class="hide">
+	<defs>
+		<g id="shape-twitter" viewBox="0 0 100 82">
+			<path d="M62.624,0.967C53.588,4.22,47.876,12.606,48.526,21.788l0.217,3.542l-3.615-0.434
+				c-13.158-1.663-24.653-7.302-34.412-16.772L5.944,3.426l-1.229,3.47c-2.602,7.736-0.939,15.905,4.482,21.4
+				c2.892,3.036,2.241,3.47-2.747,1.662c-1.735-0.578-3.254-1.012-3.398-0.795c-0.506,0.507,1.229,7.085,2.603,9.687
+				c1.88,3.615,5.711,7.157,9.905,9.254l3.542,1.662l-4.193,0.073c-4.048,0-4.192,0.073-3.76,1.592
+				c1.446,4.7,7.158,9.688,13.52,11.855l4.482,1.519l-3.904,2.315c-5.784,3.323-12.58,5.204-19.375,5.35
+				c-3.253,0.07-5.928,0.359-5.928,0.576c0,0.722,8.82,4.771,13.953,6.362c15.399,4.699,33.689,2.675,47.426-5.35
+				c9.76-5.712,19.519-17.062,24.074-28.051c2.458-5.855,4.915-16.555,4.915-21.688c0-3.326,0.217-3.76,4.267-7.736
+				c2.385-2.313,4.627-4.844,5.061-5.566c0.724-1.374,0.651-1.374-3.036-0.145c-6.146,2.169-7.013,1.879-3.978-1.374
+				c2.241-2.313,4.917-6.506,4.917-7.735c0-0.217-1.084,0.145-2.313,0.795c-1.301,0.723-4.193,1.808-6.362,2.458l-3.903,1.229
+				l-3.543-2.386c-1.951-1.302-4.699-2.748-6.145-3.181C71.589-0.334,65.95-0.189,62.624,0.967z"/>
+		</g>
+		<g id="shape-linkedin" viewBox="0 0 100 96">
+			<path d="M35,96h-0.432H56V59.067c0-1.898,0.135-3.752,0.703-5.095c1.568-3.749,5.285-7.64,11.221-7.64
+				C75.664,46.333,79,52.12,79,60.548V96h21V58.14c0-19.307-10.589-28.517-24.644-28.517C63.817,29.623,58.737,36,55.888,40H56v-9H35"
+				/>
+			<path d="M23,96V31H1v65H23z M12,22.27c7,0,12.091-4.939,12.091-11.16C23.997,4.796,19.477,0,12.117,0
+				C4.805,0,0.004,4.638,0.004,11c0,6.173,4.648,11,11.818,11H12V22.27z"/>
+		</g>
+		<g id="shape-googleplus" viewBox="0 0 100 85">
+			<polygon points="100,16 84,16 84,0 78,0 78,16 62,16 62,22 78,22 78,38 84,38 84,22 100,22 	"/>
+			<path d="M43.681,48.895c-2.375-1.682-6.913-5.771-6.913-8.171c0-2.817,0.801-4.203,5.039-7.512
+				c4.343-3.396,7.417-7.827,7.417-13.381C49.224,13.227,46.28,8,40.756,5h8.325l5.877-5c0,0-19.695,0-26.261,0
+				C16.924,0,5.847,8.962,5.847,19.289c0,10.561,8.026,19.103,20.003,19.103c0.833,0,1.643-0.006,2.433-0.063
+				c-0.777,1.491-1.332,3.175-1.332,4.913c0,2.932,1.578,5.315,3.573,7.255c-1.51,0-2.964,0.045-4.553,0.045
+				c-14.585,0-25.806,9.29-25.806,18.921c0,9.481,12.304,15.415,26.889,15.415c16.626,0,25.806-9.43,25.806-18.915
+				C52.862,58.354,50.622,53.797,43.681,48.895z M29.654,35.732c-6.767-0.203-13.198-7.568-14.365-16.453
+				C14.12,10.396,18.655,3.594,25.423,3.796C32.186,4,38.617,11.126,39.787,20.011C40.951,28.897,36.415,35.936,29.654,35.732z
+				 M27.002,80.684c-10.081,0-17.359-6.377-17.359-14.046c0-7.513,9.03-13.767,19.109-13.656c2.354,0.023,4.547,0.399,6.534,1.047
+				c5.473,3.803,9.398,5.957,10.507,10.292c0.206,0.881,0.32,1.785,0.32,2.709C46.113,74.692,41.17,80.684,27.002,80.684z"/>
+		</g>
+		<g id="shape-facebook" viewBox="0 0 49 100">
+			<path d="M0,33h10v-4.597v-4.6v-0.767c0-4.428,0.211-11.269,3.431-15.504C16.823,3.047,21.528,0,29.539,0
+					c13.05,0,18.575,1.858,18.575,1.858l-2.575,15.331c0,0-4.1-1.246-8.125-1.246c-4.023,0-7.414,1.438-7.414,5.462v1.629v5.366V33
+					h16.087l-1.149,15H30v52H10V48H0V33"/>
+		</g>
+	</defs>
+</svg>
+
+	<section class="drupal-tabs">
+				<ul class="tabs primary">
+								</ul>
+	</section>
+<header class="site-header">
+		<a class="site-logo" href="/">
+		<svg viewBox="0 0 100 31" fill="#1691c6" class="shape-alteryx-logo">
+			<g >
+			<path d="M16.044,21.568c-0.111-0.358-0.49-0.479-0.773-0.407c-0.091,0.022-0.182,0.052-0.301,0.084
+				c-0.514,0.116-0.711,0.157-1.107,0.182c-0.752,0.044-0.965-0.545-1.02-1.389V8.846c-0.011-0.514-0.289-0.826-0.586-1.035
+				c-0.645-0.418-1.77-0.73-2.507-0.918S8.007,6.611,6.842,6.625C6.174,6.634,5.637,6.637,4.55,6.809
+				C3.656,6.95,2.994,7.174,2.542,7.348c-0.296,0.113-0.6,0.287-0.618,0.693C1.935,8.25,1.97,8.43,2.086,8.844
+				C2.2,9.258,2.403,9.547,2.703,9.615c0.288,0.051,0.483,0.057,1.186-0.1C4.685,9.34,5.593,9.205,6.01,9.204
+				C6.545,9.2,6.984,9.145,7.778,9.266c1.503,0.228,2.208,0.646,2.208,0.646v4.018l-0.259,0.002l-3.218-0.008
+				c-4.295,0.141-6.283,2.02-6.259,5.457c-0.001,1.557,0.487,2.807,1.415,3.618c0.867,0.76,2.132,1.163,3.662,1.163h0.007
+				c1.758,0,3.263-0.542,4.732-1.705l0.139-0.105l0.072,0.158c0.354,0.776,0.956,1.28,1.788,1.495c0.372,0.101,0.792,0.15,1.334,0.155
+				c0.145,0,0.279-0.012,0.403-0.021c0.495-0.07,1.143-0.16,1.869-0.502c0.4-0.191,0.683-0.423,0.662-0.844
+				C16.315,22.42,16.044,21.568,16.044,21.568 M10.008,20.438l-0.06,0.041L9.889,20.52c-1.071,0.736-2.667,1.231-3.972,1.231H5.913
+				c-1.924-0.043-2.622-0.717-2.664-2.571c0.045-2.127,0.753-2.91,3.158-3.062l3.314-0.001l0.281-0.007L10.008,20.438z"/>
+			<path d="M62.307,24.078h-0.011h-1.562c-0.237,0-0.438-0.077-0.562-0.219c-0.126-0.146-0.188-0.346-0.188-0.61V8.434
+				c-0.002-0.277,0.064-0.479,0.205-0.615c0.129-0.123,0.312-0.182,0.558-0.182h1.417c0.263,0,0.441,0.053,0.579,0.17
+				c0.144,0.117,0.218,0.313,0.216,0.551l0.014,0.395l0.012,0.334l0.229-0.244c0.662-0.715,1.796-1.562,3.436-1.562
+				c0.234,0,0.633,0.029,0.987,0.102c0.289,0.049,0.4,0.348,0.384,0.502c0,0.082-0.01,0.143-0.017,0.201l-0.229,1.49
+				c-0.019,0.258-0.256,0.451-0.457,0.451c-0.176-0.006-0.282-0.022-0.396-0.041c-0.17-0.029-0.361-0.062-0.699-0.062
+				c-1.092,0-2.313,0.727-3.131,1.85l-0.025,0.035v0.045v11.399c0,0.25-0.062,0.45-0.188,0.599
+				C62.748,23.993,62.541,24.078,62.307,24.078"/>
+			<path d="M49.292,6.643c-4.02,0-7.052,2.801-7.052,9.158c0,5.833,2.734,8.7,7.876,8.7
+				c0.815,0,1.778-0.099,2.702-0.285c0.146-0.028,0.293-0.065,0.438-0.1c0.584-0.158,1.174-0.406,1.396-0.502
+				c0.318-0.126,0.565-0.375,0.586-0.688c-0.088-0.458-0.205-0.932-0.338-1.389c-0.127-0.311-0.403-0.503-0.688-0.487
+				c-0.097,0.003-1.479,0.306-1.563,0.327c-0.791,0.2-1.657,0.322-2.465,0.322c-3.657,0-4.745-1.746-4.745-5.338v-0.266h9.573
+				c0.285-0.025,0.509-0.24,0.548-0.522l0.008-0.123c0.037-0.63,0.056-1.287,0.056-1.822C55.618,9.212,53.477,6.643,49.292,6.643
+				 M52.652,14.055h-7.186c0.099-3.623,1.484-5.104,3.757-5.104c2.208,0,3.458,1.22,3.458,4.054
+				C52.686,13.232,52.686,13.791,52.652,14.055"/>
+			<path d="M69.988,30.782c-0.404-0.079-0.514-0.581-0.461-1.081c0,0,0.039-0.572,0.119-0.949
+				c0.076-0.378,0.235-0.597,0.541-0.597l0.014,0.001c0,0,0.419-0.008,0.546-0.002c0.341,0.011,0.604,0.007,0.821,0.007
+				c1.869-0.022,2.781-0.552,3.505-2.283l0.878-2.185L70.143,8.178c-0.024-0.066-0.037-0.134-0.037-0.195s0.012-0.172,0.09-0.258
+				c0.061-0.067,0.162-0.108,0.27-0.108h2.352h0.004c0.315,0,0.55,0.17,0.615,0.411l3.787,10.894l0.254,0.731l0.266-0.729
+				l3.906-10.813c0.084-0.305,0.332-0.494,0.619-0.494l0.01,0.001l0.062,0.003h2.146c0.146,0,0.252,0.027,0.328,0.092
+				c0.071,0.059,0.103,0.158,0.103,0.23c-0.001,0.104-0.028,0.188-0.058,0.273l-6.435,17.262c-1.397,3.844-3.511,5.439-6.887,5.439
+				C71.538,30.916,70.439,30.872,69.988,30.782"/>
+			<path d="M97.464,24.036c-0.375,0-0.685-0.177-0.862-0.494l-3.438-5.308l-0.115-0.176l-0.112,0.176l-3.438,5.302
+				c-0.187,0.323-0.49,0.499-0.865,0.499l-0.063-0.002H86.74c-0.151,0-0.266-0.034-0.355-0.107c-0.089-0.07-0.148-0.201-0.145-0.33
+				c0-0.154,0.055-0.312,0.148-0.443l4.973-7.547l0.052-0.074l-0.052-0.078l-4.582-7.068C86.695,8.26,86.654,8.15,86.66,8.042
+				c0-0.296,0.275-0.478,0.529-0.479h1.726h0.003c0.372,0,0.667,0.162,0.795,0.416l3.225,4.894l0.112,0.175l0.114-0.175l3.205-4.862
+				c0.145-0.279,0.438-0.445,0.777-0.445l1.763,0.002c0.256,0,0.532,0.182,0.532,0.475c0.002,0.109-0.037,0.223-0.119,0.343
+				l-4.584,7.071l-0.051,0.078l0.051,0.076l4.964,7.531c0.103,0.145,0.157,0.303,0.157,0.453c0.004,0.133-0.053,0.264-0.145,0.332
+				c-0.092,0.075-0.205,0.109-0.354,0.109H97.54L97.464,24.036z"/>
+			<path d="M24.268,24.08c-0.81,0-1.594-0.13-2.27-0.374c-0.623-0.224-1.116-0.53-1.468-0.911
+				c-0.977-1.082-1.061-2.417-1.071-4.186V1.734c0-0.103,0.037-0.199,0.105-0.277c0.576-0.646,1.324-1.129,2.221-1.434
+				C21.839,0.003,21.88,0,21.923,0c0.074,0,0.263,0.018,0.42,0.173c0.133,0.136,0.2,0.335,0.199,0.595v17.951
+				c0.007,0.938,0.229,1.678,0.639,2.141c0.352,0.385,0.92,0.586,1.644,0.589c0.179,0,0.373-0.017,0.607-0.052
+				c0.527-0.071,1.033-0.22,1.366-0.322c0.089-0.039,0.177-0.059,0.27-0.059c0.286,0,0.534,0.2,0.628,0.5c0,0,0.258,0.869,0.287,1.27
+				c0.024,0.351-0.293,0.586-0.583,0.689C27.033,23.617,25.727,24.08,24.268,24.08"/>
+			<path d="M39.198,21.506c-0.095-0.302-0.342-0.503-0.638-0.503c-0.089,0-0.176,0.017-0.264,0.056
+				c-0.487,0.153-1.214,0.355-1.905,0.371l-0.076,0.006c-0.738-0.002-1.294-0.199-1.651-0.59c-0.336-0.369-0.575-0.963-0.592-2.088
+				v-0.062l0.091-8.883l3.633,0.002c0.201-0.002,0.363-0.025,0.508-0.139c0.185-0.148,0.21-0.381,0.207-0.51V8.045
+				c0.004-0.236-0.065-0.413-0.203-0.523c-0.162-0.119-0.335-0.123-0.476-0.125h-3.669V7.342l0.002-3.749V1.865
+				c0.001-0.264-0.064-0.457-0.199-0.594C33.809,1.117,33.619,1.1,33.545,1.1c-0.043,0-0.082,0.004-0.148,0.025
+				c-0.213,0.073-0.783,0.271-1.408,0.715c-0.22,0.156-0.442,0.352-0.663,0.574c-0.064,0.08-0.097,0.173-0.097,0.271L31.144,7.34
+				h-1.88c-0.184-0.001-0.382,0.042-0.526,0.193c-0.14,0.15-0.177,0.346-0.177,0.544v1.021c0.006,0.219-0.005,0.412,0.167,0.602
+				c0.189,0.173,0.383,0.16,0.601,0.168h1.764l-0.171,8.359l0.002,0.357c0.01,1.773,0.092,3.115,1.077,4.202
+				c0.758,0.817,2.127,1.288,3.753,1.293c1.478-0.002,2.62-0.394,3.146-0.608c0.287-0.119,0.598-0.343,0.584-0.693
+				C39.486,22.445,39.198,21.506,39.198,21.506"/>
+			</g>
+		</svg>
+		<div class="svg-fallback site-logo-image-wrapper">
+			<img src="/sites/all/themes/alteryx2014/_media/alteryx-logo.png" alt="Alteryx Logo">
+		</div>
+	</a>
+	<div class="nav-outer-container">
+		<div id="nav-toggle" class="nav-toggle">
+			<span></span><span></span><span></span>
+			<p>Menu</p>
+		</div>
+		<div class="nav-container" id="nav-container">
+			<nav class="supernav" id="supernav">
+				  <div class="region region-supernav">
+    <div id="block-menu-menu-super-nav" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://pages.alteryx.com/live-demo.html?sc=Web%20Direct&amp;scd=web&amp;lsm=Web%20Direct&amp;utm_source=corp-web&amp;utm_medium=exp-page&amp;utm_campaign=daily-demo" class="button tight-button blue-button">Daily Demo</a></li>
+<li class="leaf"><a href="http://www.alteryx.com/download?src=sc105&amp;utm_source=corp-web&amp;utm_medium=top-nav&amp;utm_campaign=trials" class="button tight-button blue-button">Download Now</a></li>
+<li class="last leaf"><a href="/contact-us" class="button tight-button teal-button hide-medium">Contact Us</a></li>
+</ul>  </div>
+</div>
+  </div>
+			</nav>
+			<nav class="main-nav" id="main-nav">
+				  <div class="region region-main-menu">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-4255"><a href="/products">Products</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-4182"><a href="/products/alteryx-designer" class="promoted">Alteryx Designer</a></li>
+<li class="leaf menu-mlid-4184"><a href="/products/alteryx-server" class="promoted">Alteryx Server</a></li>
+<li class="leaf menu-mlid-4183"><a href="/products/alteryx-analytics-gallery" class="promoted">Alteryx Analytics Gallery</a></li>
+<li class="leaf menu-mlid-4218 separator-wrapper"><span class="separator"><hr></span></li>
+<li class="leaf menu-mlid-4426"><a href="/experience-alteryx" class="promoted">Experience Alteryx</a></li>
+<li class="leaf menu-mlid-5896"><a href="/alteryx-designer-tools">Tools in Alteryx Designer</a></li>
+<li class="leaf menu-mlid-4198"><a href="/products/pricing">Pricing</a></li>
+<li class="leaf menu-mlid-4263"><a href="/techspecs">Technical Specifications</a></li>
+<li class="last leaf menu-mlid-3076"><a href="/whats-new-alteryx-analytics-10">What&#039;s New</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/free-trial.html?sc=Web%20Direct&scd=direct&lsm=Web%20Direct&lsd=direct&utm_source=corp-web&utm_medium=navflyout&utm_campaign=trials" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Product Demo</div>
+					<h3 class="title">Free 14 Day Trial</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/workflow-10-370x208.png?itok=SaS65aHg" width="220" height="124" alt="Download the 14-day Free Trial" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="14-day-trial Products" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4261"><a href="/solutions">Solutions</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-4330"><a href="/solutions#analytic-solutions" class="solution-type-menu-wrapper">Analytics</a></li>
+<li class="leaf menu-mlid-4331"><a href="/solutions#departmental-solutions" class="solution-type-menu-wrapper">Departments</a></li>
+<li class="last leaf menu-mlid-4332"><a href="/solutions#industry-solutions" class="solution-type-menu-wrapper">Industries</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/2016-Gartner-Magic-Quadrant-BI-Analytics-W.html?lsm=Web%20Direct&sc=Web%20Direct&scd=resources&utm_source=corp-web&utm_medium=clicks&utm_campaign=gartner-2016-bi" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Whitepaper</div>
+					<h3 class="title">Gartner 2016 Magic Quadrant for BI and Analytics Platforms</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/gartner-2016-mq-bi-370x208_0.png?itok=-HlRfjAc" width="220" height="124" alt="Gartner 2016 Magic Quadrant for BI" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Gartner 2016 MQ BI" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4257"><a href="/partners/find-a-partner">Partners</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-5071"><a href="/partners/tableau-software">Tableau</a></li>
+<li class="leaf menu-mlid-6616"><a href="/partners/microsoft">Microsoft</a></li>
+<li class="leaf menu-mlid-5076"><a href="/partners/qlik">Qlik</a></li>
+<li class="leaf menu-mlid-5891"><a href="/partners/amazon-web-services">Amazon Web Services</a></li>
+<li class="leaf menu-mlid-5086"><a href="/partners/cloudera">Cloudera</a></li>
+<li class="leaf menu-mlid-5081"><a href="/partners/experian-marketing-services">Experian Marketing Services</a></li>
+<li class="leaf menu-mlid-9426"><a href="/partners/find-a-partner#all-partners">Find A Partner</a></li>
+<li class="leaf menu-mlid-6441 separator-wrapper"><span class="separator"><hr></span></li>
+<li class="last leaf menu-mlid-5911"><a href="https://alteryx-community.force.com/AlteryxPartnersHome">Partner Login</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/Tableau-Starter-Kit-W.html?sc=Web%20Direct&scd=resources&lsm=Web%20Direct" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Analytic App</div>
+					<h3 class="title">Alteryx Starter Kit for Tableau</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/tableau-starterkit-370x208_1.png?itok=HjqNnEwu" width="220" height="124" alt="Alteryx Starter Kit for Tableau" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Tableau Vizkit" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4347"><a href="/customers">Customers</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-6466"><a href="/customers">All Customers</a></li>
+<li class="leaf menu-mlid-6471"><a href="/customers?industry=&amp;resource_type=All&amp;region=141&amp;search=">North America</a></li>
+<li class="leaf menu-mlid-6476"><a href="/customers?industry=&amp;resource_type=All&amp;region=261&amp;search=">South America</a></li>
+<li class="leaf menu-mlid-6481"><a href="/customers?industry=&amp;resource_type=All&amp;region=142&amp;search=">Europe</a></li>
+<li class="leaf menu-mlid-6486"><a href="/customers?industry=&amp;resource_type=All&amp;region=143&amp;search=">Asia Pacific</a></li>
+<li class="last leaf menu-mlid-6491"><a href="/customers?industry=&amp;resource_type=All&amp;region=266&amp;search=">Middle East and Africa</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/free-trial.html?sc=Web%20Direct&scd=direct&lsm=Web%20Direct&lsd=direct&utm_source=corp-web&utm_medium=navflyout&utm_campaign=trials" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Product Demo</div>
+					<h3 class="title">Free 14 Day Trial</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/workflow-10-370x208.png?itok=SaS65aHg" width="220" height="124" alt="Download the 14-day Free Trial" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Trial - Customers" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4250"><a href="/connect/events">Events</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-solo"><div class="cta-menu cta-menu-solo"><ul class="menu"><li class="first leaf menu-mlid-4256"><a href="/connect/events">All Events</a></li>
+<li class="leaf menu-mlid-8341"><a href="/analytics-workshop">Self-Service Analytics Workshop</a></li>
+<li class="leaf menu-mlid-5901"><a href="/analytics-roadshow">Analytic Independence Roadshow</a></li>
+<li class="leaf menu-mlid-5861"><a href="/inspire-2016">Inspire 2016</a></li>
+<li class="leaf menu-mlid-5881"><a href="/inspire-europe-2016">Inspire Europe 2016</a></li>
+<li class="last leaf menu-mlid-4516"><a href="/inspire-2015">Inspire 2015</a></li>
+</ul></div></div></li><li class="expanded menu-mlid-4357"><a href="/resources">Resources</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-6446"><a href="/resources">All Resources</a></li>
+<li class="leaf menu-mlid-3656"><a href="/support">Support</a></li>
+<li class="leaf menu-mlid-4451"><a href="/live-demo?utm_source=corp-web&amp;utm_medium=resources-nav&amp;utm_campaign=daily-demo">Daily Demo</a></li>
+<li class="leaf menu-mlid-4386"><a href="http://www.alteryx.com/resources?type=demo&amp;topic=&amp;department=&amp;industry=&amp;search=">Product Demos</a></li>
+<li class="leaf menu-mlid-9486"><a href="/alteryx-for-excel">Guide to Alteryx for Excel Users</a></li>
+<li class="leaf menu-mlid-4446"><a href="http://alteryx.com/resources?type=webinar&amp;topic=&amp;department=&amp;industry=&amp;search=">On-Demand Webinars</a></li>
+<li class="leaf menu-mlid-5196"><a href="/solution-cookbooks">Solution Cookbooks</a></li>
+<li class="leaf menu-mlid-4267"><a href="/product-training">Training</a></li>
+<li class="last leaf menu-mlid-4526"><a href="/professional-services">Professional Services</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/free-trial.html?sc=Web%20Direct&scd=direct&lsm=Web%20Direct&lsd=direct&utm_source=corp-web&utm_medium=navflyout&utm_campaign=trials" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Product Demo</div>
+					<h3 class="title">Free 14 Day Trial</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/workflow-10-370x208.png?itok=SaS65aHg" width="220" height="124" alt="Download the 14-day Free Trial" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Free 14 Day Trial" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded active-trail menu-mlid-981"><a href="http://community.alteryx.com/" class="active-trail">Community</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-solo"><div class="cta-menu cta-menu-solo"><ul class="menu"><li class="first leaf menu-mlid-1175"><a href="http://community.alteryx.com/">Alteryx Community</a></li>
+<li class="leaf menu-mlid-6456"><a href="http://community.alteryx.com/t5/Discussions/ct-p/discussions">Discussions</a></li>
+<li class="leaf menu-mlid-1563"><a href="http://community.alteryx.com/t5/Knowledge/ct-p/knowledge">Knowledge</a></li>
+<li class="leaf menu-mlid-6451"><a href="http://community.alteryx.com/t5/Ideas/ct-p/ideas">Ideas</a></li>
+<li class="leaf menu-mlid-2401"><a href="http://community.alteryx.com/t5/Blogs/ct-p/blogs">Blogs</a></li>
+<li class="leaf active-trail active menu-mlid-4391"><a href="/ace-program" class="active-trail active">ACE Program</a></li>
+<li class="leaf menu-mlid-5091"><a href="http://community.alteryx.com/t5/User-Groups/ct-p/usergroups">Alteryx User Groups</a></li>
+<li class="last leaf menu-mlid-2012"><a href="http://gallery.alteryx.com">Alteryx Public Gallery</a></li>
+</ul></div></div></li><li class="last expanded menu-mlid-4251"><a href="/about-us">About</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-6461"><a href="/about-us">About Us</a></li>
+<li class="leaf menu-mlid-4260"><a href="/leadership">Leadership</a></li>
+<li class="leaf menu-mlid-4259"><a href="/board-of-directors">Board of Directors</a></li>
+<li class="leaf menu-mlid-7151"><a href="/investors">Investors</a></li>
+<li class="leaf menu-mlid-4308"><a href="/connect/news">News</a></li>
+<li class="leaf menu-mlid-4258"><a href="/careers">Careers</a></li>
+<li class="leaf menu-mlid-1140"><a href="/about/academia">Academia</a></li>
+<li class="last leaf menu-mlid-4421"><a href="/contact-us">Contact Us</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://www.youtube.com/watch?v=wPmNx3ls23I" class="link-parent play-overlay-content lightbox-video">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Video</div>
+					<h3 class="title">Self-Service Data Blending &amp; Analytics</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/exec-roudtable2-370x208.png?itok=mt6Fhg7u" width="220" height="124" alt="Executive Roundtable: Self-Service Data Blending &amp;amp; Analytics" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Self-Service Data Blending &amp; Analytics - About" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li></ul></div>
+  </div>
+</div>
+  </div>
+			</nav>
+							<nav class="site-search" id="site-search">
+					<p class="show-ie">Search</p>
+					  <div class="region region-search">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form class="search-form" action="/ace-program" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search Alteryx" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-v7sPs3Q2YvhfJPLzLmv9urdZj16lP9aqFdZ05jQDOUE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-locale-language" class="block block-locale">
+
+    <h2>Language</h2>
+  
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="en first active"><a href="/ace-program" class="language-link active" xml:lang="en">English</a></li>
+<li class="de last"><a href="/de/ace-program" class="language-link" xml:lang="de">Deutsch</a></li>
+</ul>  </div>
+</div>
+  </div>
+				</nav>
+					</div>
+	</div>
+</header>
+	</div>
+</section>
+
+
+<main>
+	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <section class="valprop-wrapper" style="background-image: url(http://www.alteryx.com/sites/default/files/uploads/valprop/marketing_analytics_0.jpg);" data="node--page2.tpl.php">
+	<div class="site-container">
+		<section class="valprop" style="">
+			<header>
+									<p class="kicker">
+  Meet Alteryx</p>
+								<h1>ACE Program</h1>
+							</header>
+								</section>
+	</div>
+</section>
+
+
+	<section class="page-section">
+		<div class="site-container">
+			
+  <style>
+/* CONTENT STYLES */
+.clear {
+	clear: both;
+}
+.speaker-title {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #333333;
+	font-size: 48px;
+	text-align: center;
+	margin: 76px 0 82px;
+}
+tbody {
+	border: none;
+}
+tr {
+	vertical-align: top;
+}
+td.foot-logo img {
+	max-height: 78px;
+}
+.content-wrapper {
+	margin-bottom: 50px;
+}
+.content-wrapper table {
+	margin: 0px -42px 46px 45px;
+}
+.content-wrapper table td table {
+	border: 1px solid #cccccc;
+}
+.content-wrapper table td table tr td a.speaker-img {
+	display: block;
+	height: 171px;
+	width: 144px;
+}
+.content-wrapper table td table tr td .date {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-size: 12px;
+	color: #ffffff;
+	padding: 0 0 21px 13px;
+	float: left;
+}
+.speaker-data {
+	padding-left: 15px;
+}
+.speaker-data span {
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	color: #333333;
+}
+.speaker-data p {
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color: #666666;
+	font-style: italic;
+}
+.content-wrapper tr table tr {
+	display: block;
+}
+.content-wrapper tr table tr .foot-logo {
+	text-align: center;
+	display: block;
+}
+.dark-blue-bg {
+	background-color: #003245;
+}
+.red-bg {
+	background-color: #C24949;
+}
+.light-blue-bg {
+	background-color: #0093D0;
+}
+.yellow-bg {
+	background-color: #DFC642;
+}
+.green-bg {
+	background-color: #7AA633;
+}
+/* CONTENT STYLES */
+.container {
+	width: 1333px !important;
+}
+/* OVERLAY STYLES */
+		 
+#catherinedesesa, #joelipski, #chrislove, #joemako, #cameronsteele, #kenblack, #johncolgan, #dancompton, #mandygray, #johnhollingsworth, #andymoncla, #michaelrenwick, #jarrodthuener, #mbarone, #mfrisch, #tmontpool, #tsturgeon,  #aguisande, #aloong, #test, #jmack {
+	display: none;
+}
+#lightbox #catherinedesesa, #lightbox #joelipski, #lightbox #chrislove, #lightbox #joemako, #lightbox #cameronsteele, #lightbox #kenblack, #lightbox #johncolgan, #lightbox #dancompton, #lightbox #mandygray, #lightbox #johnhollingsworth, #lightbox #andymoncla, #lightbox #jarrodthuener, #lightbox #michaelrenwick, #lightbox #mbarone, #lightbox #mfrisch, #lightbox #tmontpool, #lightbox #tsturgeon, #lightbox #aguisande, #lightbox #aloong, #lightbox #test, #lightbox #jmack {
+	display: block;
+}
+.speaker-info > tbody > tr > td > p.info {
+	float: left;
+	text-align: left;
+	margin: 15px 0px 0px -29px;
+}
+.speaker-info > tbody > tr > td > p.desc {
+	float: right;
+	text-align: justify;
+	margin: 4px 0px 0px -29px;
+	min-width: 591px;
+	font-size: 14px;
+}
+#outerImageContainer {
+	width: 950px !important;
+	min-height: 350px !important;
+	height: auto !important;
+	background-color: #FFF !important;
+	border: solid 2px rgba(0,0,0, 0.4) !important;
+	box-shadow: 0 0 5px white !important;
+}
+#lightbox #modalContainer {
+	height: auto !important;
+	width: auto !important;
+}
+#lightbox #bottomNavClose {
+	background-color: #FFF !important;
+}
+.ace-list-item {
+	width: 31%;
+	margin-bottom: 20px;
+	margin-right: 2%;
+}
+/* .ace-list-item a {
+	font-size: 1.2rem;
+	font-weight: 300;
+	line-height: 1.4;
+}
+*/
+p.small-info {
+	color: #666666;
+	font-size: 1.2rem;
+	font-weight: 300;
+	line-height: 1.4;
+	min-height: 80px;
+}
+/* span.position {
+	color: #1691c6;
+	font-size: 1.2rem;
+	font-weight: 300;
+	line-height: 1.4;
+} */
+.valprop-wrapper {
+	background-repeat: no-repeat;
+	background-position: right;
+	background-color: #1691c6;
+	min-height: 355px;
+}
+.valprop-wrapper:before {
+	background: rgba(0,38,52,0.6);
+}
+.valprop-wrapper p.kicker {
+	color: #B8DEEE;
+}
+.valprop-wrapper h1 {
+	color: #fff;
+}
+.td-33 {
+	float: left;
+	width: 32%;
+	display: block;
+	margin-right: 1%;
+	margin-bottom: 25px;
+}
+.textLeft {
+	text-align: left;
+}
+
+@media (min-width: 768px) and (max-width: 1024px)  {
+.ace-list-item {
+	width: 48.25%;
+}
+.td-33 {
+	width: 100%;
+}
+#outerImageContainer {
+	width: 100% !important;
+	height: 100% !important;
+}
+#modalContainer td {
+	display: table;
+	margin: 0 auto;
+	padding: 0 !important;
+	float: left;
+}
+#modalContainer td:nth-child(2) img {
+	margin-left: 0px !important;
+	float: none !important;
+}
+.speaker-info > tbody > tr > td > p.info {
+	margin: 0 auto;
+	width: 100%;
+}
+.speaker-info > tbody > tr > td > p.desc {
+	margin: 0;
+	min-width: 250px;
+}
+}
+/* iPhone Protrait */
+@media (min-width: 320px) and (max-width: 380px) {
+	.td-33 {
+	width: 100%;
+}
+}
+/* iPhone Landscape */
+@media screen and (max-device-width: 568px) and (orientation: landscape) {
+	.td-33 {
+	width: 100%;
+}
+}
+.td-331 {	float: left;
+	width: 32%;
+	display: block;
+	margin-right: 1%;
+	margin-bottom: 25px;
+}
+.td-331 {	width: 100%;
+}
+.td-331 {	width: 100%;
+}
+.td-331 {	width: 100%;
+}
+</style>
+<!-- <h2>The Alteryx Analytics Certified Expert (ACE) Program</h2> -->
+<p><img src="http://www.alteryx.com/sites/default/files/alteryx_ace_rev_1clr.png" style="float: right; padding:0px 0px 15px 15px">As a technology company, our mission is to build insanely great software. Our passion is to inspire you, our users, to solve complex problems, derive deeper insights and ask questions you once thought impossible to get answers to. Nothing is more rewarding than when you are innovating new solutions with Alteryx, sharing your learnings with others and collaborating with Alteryx users around the world!</p>
+<p>With passion and determination, Alteryx users who are advocates continue to rise by demonstrating their mastery of Alteryx as well as their willingness to share their knowledge with the community. They are committed to constructively helping Alteryx improve our product offering for the community. They are tough critics who advocate for Alteryx. See how Alteryx ACEs play a role in your experience within the analytics community. The ACE program highlights a few of the most influential, supportive experts of Alteryx Analytics and recognizes them for the meaningful impact they are making, not just inside of their organizations - but across the analytics community.</p>
+<p>To learn more and provide feedback about the ACE program, please contact us at <a href="mailto:ACE@alteryx.com" target="_blank">ACE@alteryx.com</a>.</p>
+<p>&nbsp;</p>
+<h3 class="clear">Meet the Alteryx ACEs</h3>
+<br />
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+ <tbody>
+  <!-- ROW 1 -->
+  <tr>
+   <td valign="top" class="td-33">
+   <table width="300" border="0" cellpadding="0" cellspacing="0">
+     <tr>
+      <td width="140" align="left" valign="middle"><a href="/node/4506 #kenblack" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-k-black.png" alt="Ken Black" width="140" height="163" border="0"/></a></td>
+      <td align="left" valign="middle"><a href="/node/4506 #kenblack" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/gm-ace-140x140.png" alt="General Motors" height="93" style="padding-left:10px" /></a></td>
+     </tr>
+     <tr>
+      <td colspan="2" valign="top"><p><a href="/node/4506 #kenblack" rel="lightmodal[|height:auto;]"><strong>Ken Black</strong><br/>
+        <span class="position">Senior Analytics Researcher</span></a><br>
+        <br>
+        Ken supports data-driven decisions at General Motors.</p></td>
+     </tr>
+    </table></td>
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140"><a href="/node/4506 #mbarone" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-barone.png" alt="Michael Barone" width="140" height="163"/></a><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"></a></td>
+     <td valign="middle"><a href="/node/4506 #mbarone" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/paychex-ace-140x23.png" alt="Paychex" width="140" height="23" style="padding-left:10px" /></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #mbarone" rel="lightmodal[|height:auto;]"><strong>Michael Barone</strong><br/>
+      <span class="position">Data Scientist, Data Science &amp; Predictive Analytics</span></a><br>
+      <br>
+      Michael helps Paychex transform data into actionable knowledge.</p></td>
+    </tr>
+   </table></td>
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140" align="left" valign="middle"><a href="/node/4506 #dancompton" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-d-compton.png" alt="Dan Compton" width="140" height="163"/></a></td>
+     <td align="left" valign="middle"><a href="/node/4506 #dancompton" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/boeing-ace-140x32.png" alt="Boeing" width="140" height="32" style="padding-left:10px"/></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #dancompton" rel="lightmodal[|height:auto;]"><strong>Dan Compton</strong><br/>
+      <span class="position">Integration Analyst</span></a><br>
+      <br>
+      Dan has helped Alteryx take off at Boeing.</p></td>
+    </tr>
+   </table></td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+   <td class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140" align="left" valign="middle"><a href="/node/4506 #catherinedesesa" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/catherine-ace.jpg" alt="Catherine DeSesa" width="140" height="163"/></a></td>
+     <td align="left" valign="middle"><a href="/node/4506 #catherinedesesa" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/ipgmedia-ace-140x67.png" alt="IPG Media Brands" height="93" style="padding-left:10px"/></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #catherinedesesa" rel="lightmodal[|height:auto;]"><strong>Catherine DeSesa</strong><br/>
+      <span class="position">Head of Global Data Sciences</span></a><br>
+      <br>
+      Catherine makes media analytics rock at IPG Media Brands</p></td>
+    </tr>
+   </table></td>
+   <td class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140"><a href="/node/4506 #mfrisch" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-frisch.png" alt="Mark Frisch" width="140" height="163"/></a><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"></a></td>
+     <td valign="middle"><a href="/node/4506 #mfrisch" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/marquee-crew-ace-140x117.png" alt="Kristalytics" width="140" height="117" style="padding-left:10px" /></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #mfrisch" rel="lightmodal[|height:auto;]"><strong>Mark Frisch</strong><br/>
+      <span class="position">CEO &amp; Founder</span></a><br>
+      <br>
+      Mark is the data analyst and the executive decision maker at Marquee Crew.</p></td>
+    </tr>
+   </table></td>
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140" align="left" valign="middle"><a href="/node/4506 #mandygray" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-gray.png" alt="Mandy Gray" width="140" height="163"/></a></td>
+     <td align="left" valign="middle"><a href="/node/4506 #mandygray" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/delhaize-ace-140x139.png" alt="Delhaize" height="93" style="padding-left:10px"/></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #mandygray" rel="lightmodal[|height:auto;]"><strong>Mandy Gray</strong><br/>
+      <span class="position">Integration Analyst</span></a><br>
+      <br>
+      Mandy helps to set the retail grocery site location strategy at Delhaize America.</p></td>
+    </tr>
+   </table></td>
+  </tr>
+  <tr> 
+   <!-- ROW 3 -->
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140"><a href="/node/4506 #aguisande" rel="lightmodal[|height:auto;]"><img alt="Alberto Guisande" src="http://www.alteryx.com/sites/default/files/i2015-ace-a-guidande.png"/></a></td>
+     <td valign="middle"><a href="/node/4506 #aguisande" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/excibit-ace-140x76.png" alt="Excibit Corporation" width="140" height="76" style="padding-left:10px" /></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #aguisande" rel="lightmodal[|height:auto;]"><strong>Alberto Guisande</strong><br/>
+      <span class="position">Services Director</span></a><br>
+      <br>
+      Alberto is dedicated to driving deeper insights at Excibit Corporation.</p></td>
+    </tr>
+   </table></td>
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140" align="left" valign="middle"><a href="/node/4506 #johnhollingsworth" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-hollingsworth.png" alt="John Holingsworth" width="140" height="166"/></a></td>
+     <td align="left" valign="middle"><a href="/node/4506 #johnholingsworth" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/clearchannel-ace-140x93.png" alt="Clear Channel Outdoor" width="140" height="93" style="padding-left:10px"/></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #johnhollingsworth" rel="lightmodal[|height:auto;]"><strong>John Hollingsworth</strong><br/>
+      <span class="position">GIS Manager</span></a><br>
+      <br>
+      John uses Alteryx in almost every facet of his job at Clear Channel Outdoor.</p></td>
+    </tr>
+   </table></td>
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140"><a href="/node/4506 #joelipski" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-lipski.png" alt="Joe Lipski" width="140" height="163"/></a></td>
+     <td valign="middle"><a href="/node/4506 #joelipski" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/javelingroup-ace-140x36.png" alt="Javelin Group" width="140" height="36" style="padding-left:10px" /></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #joelipski" rel="lightmodal[|height:auto;]"><strong>Joe Lipski</strong><br/>
+      <span class="position">Senior Consultant</span></a><br>
+      <br>
+      Joe locates deeper business insight at Javelin Group.</p></td>
+    </tr>
+   </table></td>
+  </tr>
+  <tr>
+   <td class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140"><a href="/node/4506 #aloong" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-a-loong.png" alt="Adrian Loong" width="140" height="163"/></a><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"></a></td>
+     <td valign="middle"><a href="/node/4506 #aloong" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/amaysim-ace-140x34.png" alt="Amaysim" width="140" height="34" style="padding-left:10px" /></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #aloong" rel="lightmodal[|height:auto;]"><strong>Adrian Loong</strong><br/>
+      <span class="position">Business Intelligence Manager</span></a><br>
+      <br>
+      Adrian is leading the way to help empower analysts within Amaysim in Australia.</p></td>
+    </tr>
+    <!-- ROW 5 -->
+   </table></td>
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140"><a href="/node/4506 #chrislove" rel="lightmodal[|height:auto;]"><img alt="Chris Love" src="http://www.alteryx.com/sites/default/files/i2015-ace-c-love.png"/></a></td>
+     <td valign="middle"><a href="/node/4506 #chrislove" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/infolab-ace-140x59.png" alt="The Information Lab" width="140" height="59" style="padding-left:10px" /></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #chrislove" rel="lightmodal[|height:auto;]"><strong>Chris Love</strong><br/>
+      <span class="position">Alteryx &amp; Tableau Consultant</span></a><br>
+      <br>
+      Chris makes data make sense at The Information Lab.</p></td>
+    </tr>
+   </table></td>
+   <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+     <td width="140"><a href="/node/4506 #jmack" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-mack.png" alt="Jason Mack" border="0"/></a></td>
+     <td valign="middle" ><a href="/node/4506 #jasonmack" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2016-jpmorgan-165x23_0.png" alt="JPMorganChase"  style="padding-left:10px" /></a></td>
+    </tr>
+    <tr>
+     <td colspan="2" valign="top"><p><a href="/node/4506 #jmack" rel="lightmodal[|height:auto;]"><strong>Jason Mack</strong><br/>
+      <span class="position">CCB Marketing Analytics</span></a><br>
+      <br>
+      Jason leads an analytics team to faster insights with Alteryx.</p></td>
+    </tr>
+   </table></td>
+  </tr>
+  <tr>
+    <td valign="top" class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="140"><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"><img alt="Joe Mako" src="http://www.alteryx.com/sites/default/files/i2015-ace-j-mako.png"/></a></td>
+        <td valign="middle" ><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/rosenblatt-ace-140x135.png" alt="Rosenblatt Securities" width="140" height="35" style="padding-left:10px" /></a></td>
+      </tr>
+      <tr>
+        <td colspan="2" valign="top"><p><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"><strong>Joe Mako</strong><br/>
+          <span class="position">Director of Visual Analytics</span></a><br>
+          <br>
+          Joe brings data to life at Rosenblatt Securities.</p></td>
+      </tr>
+    </table></td>
+   <td class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+     <tr>
+       <td width="140"><a href="/node/4506 #andymoncla" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-moncla.png" alt="Andy Moncla" width="140" height="163"/></a><a href="/node/4506 #joelipski" rel="lightmodal[|height:auto;]"></a></td>
+       <td valign="middle"><a href="/node/4506 #andymoncla" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/bispatial-ace-140x107.png" alt="B.I. Spatial" height="93" style="padding-left:10px" /></a></td>
+       </tr>
+     <tr>
+       <td colspan="2" valign="top"><p><a href="/node/4506 #andymoncla" rel="lightmodal[|height:auto;]"><strong>Andy Moncla</strong><br/>
+         <span class="position">Chief Operating Officer</span></a><br>
+         <br>
+         Andy is one of the longest tenured users of Alteryx, and is constantly finding new uses for it at B. I. Spatial.</p></td>
+       </tr>
+   </table></td>
+   <td valign="top" class="td-33"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+     <tbody>
+       <!-- ROW 1 -->
+       <!-- ROW 2 -->
+       <tr>
+         <td valign="top" class="td-331"><table width="300" border="0" cellpadding="0" cellspacing="0">
+           <tr>
+             <td width="140"><a href="/node/4506 #tmontpool" rel="lightmodal[|height:auto;]"><img alt="Tom Montpool" src="http://www.alteryx.com/sites/default/files/i2015-ace-t-montpool.png"/></a></td>
+             <td valign="middle"><a href="/node/4506 #tmontpool" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/environics-ace-140x38.png" alt="Environics Analytics" width="140" height="38" style="padding-left:10px" /></a></td>
+             </tr>
+           <tr>
+             <td colspan="2" valign="top"><p><a href="/node/4506 #tmontpool" rel="lightmodal[|height:auto;]"><strong>Tom Montpool</strong><br/>
+               <span class="position">VP, Quality Assurance</span></a><br>
+               <br>
+               Tom drives big business insights at Environics Analytics.</p></td>
+             </tr>
+           </table></td>
+         </tr>
+       <!-- ROW -->
+       </tbody>
+   </table></td>
+  </tr>
+  <!-- ROW -->
+  <tr valign="top">
+    <td class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="140"><a href="/node/4506 #michaelrenwick" rel="lightmodal[|height:auto;]"><img alt="Michael Renwick" src="http://www.alteryx.com/sites/default/files/ace-michael-renwick.png"/></a></td>
+        <td valign="middle"><a href="/node/4506 #michaelrenwick" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/schroders_140px.jpg" alt="Schroders Investment Management" width="130" style="padding-left:10px" /></a></td>
+      </tr>
+      <tr>
+        <td colspan="2" valign="top"><p><a href="/node/4506 #michaelrenwick" rel="lightmodal[|height:auto;]"><strong>Michael Renwick</strong><br/>
+          <span class="position">Analyst Developer</span></a><br>
+          <br>
+          Michael develops a 360&deg; view of clients for Schroders Investment Management.</p></td>
+      </tr>
+    </table></td>
+   <td class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+     <tr>
+       <td width="140"><a href="/node/4506 #tsturgeon" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-t-sturgeon.png" alt="Tom Sturgeon" width="140" height="163"/></a><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"></a></td>
+       <td valign="middle"><a href="/node/4506 #tsturgeon" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/schneider-electric-ace-140x42.png" alt="Kristalytics" width="140" height="42" style="padding-left:10px" /></a></td>
+       </tr>
+     <tr>
+       <td colspan="2" valign="top"><p><a href="/node/4506 #tsturgeon" rel="lightmodal[|height:auto;]"><strong>Tom Sturgeon</strong><br/>
+         <span class="position">Director, Business Analytics</span></a><br>
+         <br>
+         Tom answers the next big questions at Schneider Electric.</p></td>
+       </tr>
+   </table></td>
+   <td class="td-33"><table width="300" border="0" cellpadding="0" cellspacing="0">
+     <tr>
+       <td width="140"><a href="/node/4506 #jarrodthuener" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-thuener.png" alt="Jarrod Thuener" width="140" height="163"/></a><a href="/node/4506 #joemako" rel="lightmodal[|height:auto;]"></a></td>
+       <td valign="middle"><a href="/node/4506 #jarrodthuener" rel="lightmodal[|height:auto;]"><img src="http://www.alteryx.com/sites/default/files/krystalytics-ace-140x27.png" alt="Kristalytics" width="140" height="27" style="padding-left:10px" /></a></td>
+       </tr>
+     <tr>
+       <td colspan="2" valign="top"><p><a href="/node/4506 #jarrodthuener" rel="lightmodal[|height:auto;]"><strong>Jarrod Thuener</strong><br/>
+         <span class="position">Data Artisan</span></a><br>
+         <br>
+         Jarrod uses Alteryx for "almost everything" at Kristalytics</p></td>
+       </tr>
+   </table></td>
+   </tr>
+ </tbody>
+</table>
+<p>&nbsp;</p>
+<h3>How can I get into the ACE program?</h3>
+<br />
+<ul>
+ <li>You must be employed by an Alteryx customer or partner. As a customer/partner, you can be an employee/contractor/end-user of Alteryx for that company who is contracted with Alteryx.</li>
+ <li>Contribute Alteryx product ideas, write a blog, help your peers find solutions on the Alteryx community at <a href="http://community.alteryx.com" target="_blank">community.alteryx.com</a> or be an influencer on social channels.</li>
+ <li>Help spread the love for Alteryx by participating in offline activities which may include leading an Alteryx User Group, speaking at Alteryx sponsored events in market, speaking at Inspire, hosting a solutions review at Inspire.</li>
+ <li>Selection as an ACE is an annual appointment. ACEs are periodically reviewed against the criteria outlined above.</li>
+ <li>All ACE's will need to re-qualify annually, and will be selected 60 days before the Inspire conference.</li>
+ <li>All ACE's are governed by the NDA/confidentiality clauses within the Alteryx contract signed by their company.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>What do I get once I am an ACE?</h3>
+<br />
+<ul>
+ <li>Discount on Inspire Registration Fee</li>
+ <li>Access to a Private Forum on community.alteryx.com for ACEs with Alteryx Product Development and Product Management teams</li>
+ <li>ACE blogs linked &amp; featured on community</li>
+ <li>Alteryx hosted VIP event at Inspire</li>
+ <li>VIP Seating at Inspire</li>
+ <li>Early access to Beta program and invitation to provide feedback</li>
+ <li>Quarterly webex with Alteryx Product Management on Alteryx product Roadmap and contribution of ideas</li>
+ <li>Opportunity to speak at conferences as well as local and online events</li>
+ <li>Recognized as an ACE on www.alteryx.com &mdash; during term and after term ends</li>
+ <li>Invitations to online and in-person ACE gatherings</li>
+ <li>Exclusive ACE giveaways</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Guidelines for Term of ACE</h3>
+<br />
+<p>ACE Term is one year from time of appointment. The ACE designation can be earned each year based on the criteria outlined above. ACEs can requalify each year for this coveted role and badge within the Alteryx and analytics community.</p>
+<!-- BEGIN OVERLAYS --> 
+<!-- KEN BLACK -->
+<table class="speaker-info" id="kenblack" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-k-black.png" alt="Ken Black" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/gm-ace-140x140.png" alt="General Motors" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Ken Black</strong></font><br>
+     <strong>@3danim8<br />
+     Senior Analytics Researcher</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Ken supports data-driven decisions at General Motors.</p>
+    <p class="clear textLeft">Ken Black is a Senior Analytics Researcher at General Motors, and uses Alteryx to strategically extract demographic and business data, prepare data for more advanced analytical modeling, and output data for visualization in Tableau.</p>
+    <p class="clear textLeft"><strong>Alteryx in Ken's own words:</strong><br>
+     <em>"I plan on expanding my usage of Alteryx by connecting to the extensive number of Teradata Aster files that reside in the GM electronic data warehouse. When I develop specialized techniques and approaches that require some time to research and implement, I plan on documenting these methods in my <a href="https://3danim8.wordpress.com/" target="_blank">blog</a>."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- JOHN COLGAN -->
+<table class="speaker-info" id="johncolgan" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/ace-john-colgan.png" alt="John Colgan" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/walmart-ace-140x33.png" alt="Walmart" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>John Colgan</strong></font><br>
+     <strong>Data Artisan</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">John maps out a strategy for geospatial analytics at Walmart Stores.</p>
+    <p class="clear textLeft">John Colgan is a Senior Manager of Strategic Analytics and Business Intelligence at Walmart Stores. He uses Alteryx primarily for geospatial analytics and ETL, and is just starting to develop analytic apps.</p>
+    <p class="clear textLeft"><strong>Alteryx in John's own words:</strong><br>
+     <em>"I really enjoy providing other Alteryx users with ideas about how they can use Alteryx to deliver possible solutions to all of their requests."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- DAN COMPTON -->
+<table class="speaker-info" id="dancompton" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-d-compton.png" alt="Dan Compton" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/boeing-ace-140x32.png" alt="Boeing" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong> Dan Compton</strong></font><br>
+     <strong>Integration Analyst</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Dan has helped Alteryx take off at Boeing.</p>
+    <p class="clear textLeft">Dan Compton is an Integration Analyst at The Boeing Company, and uses Alteryx for high-speed, automated connectivity to data. He values the data blending and custom analytics capabilities in Alteryx, plus the visualization capabilities of Tableau, to generate business insight in 2.5 seconds or less.</p>
+    <p class="clear textLeft"><strong>Alteryx in Dan's own words:</strong><br>
+     <em>"Alteryx enables analytics across formerly insurmountable boundaries. Competing analytic approaches can be modeled and simulated side-by-side within Alteryx workflows, thus providing multiple concurrent perspectives. Learning is accelerated through understanding the differences in the results from alternative perspectives."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Catherine DeSesa -->
+<table class="speaker-info" id="catherinedesesa" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/catherine-ace.jpg" alt="Catherine DeSesa" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/ipgmedia-ace-140x67.png" alt="IPG Media" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Catherine DeSesa</strong></font><br>
+     <strong>@cdesesa<br />
+     Head of Global Data Sciences</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Catherine makes media analytics rock at IPG Media Brands.</p>
+    <p class="clear textLeft">Catherine DeSesa is the Head of Global Data Sciences at IPG Mediabrands, where she is responsible for analyses related to strategic direction, sales &amp; profitability, marketing ROI, consumer segmentation, operational efficiency, attribution modeling and pricing optimization. These responsibilities require extensive business understanding, data understanding, data preparation and predictive modeling, design and analysis of experiments and the selection of appropriate deployment methodologies.</p>
+    <p class="clear textLeft"><strong>Alteryx in Catherine's own words:</strong><br>
+     <em>"Alteryx is the data artisans' WORKBENCH. This workbench environment is the backbone that supports an amazing array of data access, exploration, preparation, modeling, evaluation and deployment capabilities. This workbench is both supremely functional as is, and also extensible in a way that no other competitor has managed."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Mandy Gray -->
+<table class="speaker-info" id="mandygray" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-gray.png" alt="Mandy Gray" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/delhaize-ace-140x139.png" alt="Delhaize" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Mandy Gray</strong></font><br>
+     <strong>GeoAnalytics Analyst</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Mandy helps to set the retail grocery site location strategy at Delhaize America.</p>
+    <p class="clear textLeft">Mandy Gray has been a GeoAnalytics Analyst with Delhaize America since 2013. She uses Alteryx to support retail site location research, including map &amp; trade area creation, building custom models to predict store performance, blending varied data sources from transaction data, customer behavior, demographics and competitive intelligence. Her analysis supports diverse business functions, including M&amp;A analysis, marketing, supply chain, real estate, strategy and more.</p>
+    <p class="clear textLeft"><strong>Alteryx in Mandy's own words:</strong><br>
+     <em>"Alteryx is fun. I love how Alteryx allows me to merge the worlds of Big Data and GIS to make the impossible possible."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- John Hollingsworth -->
+<table class="speaker-info" id="johnhollingsworth" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-hollingsworth.png" alt="John Hollingsworth" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/clearchannel-ace-140x93.png" alt="Clear Channel Outdoor" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>John Hollingsworth</strong></font><br>
+     <strong>GIS Manager</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">John uses Alteryx in almost every facet of his job at Clear Channel Outdoor.</p>
+    <p class="clear textLeft">John Hollingsworth is a GIS Manager at Clear Channel Outdoor, and has been using Alteryx for over 10 years as his go-to tool for data manipulation. He uses Alteryx to process spatial data to create market-level extracts, scrape online data, and schedule automated nightly reports in a variety of different spatial data formats and executive reports.</p>
+    <p class="clear textLeft"><strong>Alteryx in John's own words:</strong><br>
+     <em>"As data becomes less constrained by the box in which it is stored, Alteryx will continue its integration into the online world. Currently, there are innumerable examples of online 'mashups' that take data from multiple sources and create a new product, analysis, or visualization. Alteryx has recently expanded its capabilities to handle these online data sources - enabling data analysts to create their own mashups."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Joe Lipski -->
+<table class="speaker-info" id="joelipski" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-lipski.png" alt="Joe Lipksi" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/javelingroup-ace-140x36.png" alt="Javelin Group" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Joe Lipski</strong></font><br>
+     <strong>@Joe_Lipski<br>
+     Senior Consultant</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Joe locates deeper business insight at Javelin Group.</p>
+    <p class="clear textLeft">Joe Lipski is a Senior Consultant in the Locations &amp; Analytics practice at Javelin Group, Europe's leading retail and ecommerce consultancy. Joe specializes in business insight, location planning, data solutions and customer analytics using a combination of Alteryx and Tableau to help clients understand and maximize the value of their data assets. Specific consulting engagements using Alteryx include location planning, space optimization, gravity modeling, predictive modeling, customer segmentation, market analysis, customer insight, business analysis, and developing a single customer view.</p>
+    <p class="clear textLeft"><strong>Alteryx in Joe's own words:</strong><br>
+     <em>"I have been using Alteryx for just over three years and use it for a varied range of use cases both for my day job and in in my personal life. As a consultant I have the privilege to use Alteryx both internally to improve the analytics and consultancy work that we do at Javelin Group, but more satisfyingly I empower our clients to become self-sufficient to join and blend an endless list of disparate datasets, and develop advanced spatial and predictive analytics that lead to greater business insights in hours not weeks that they can share across their organization."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Chris Love -->
+<table class="speaker-info" id="chrislove" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-c-love.png" alt="Chris Love" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/infolab-ace-140x59.png" alt="The Information Lab" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Chris Love</strong></font><br>
+     <strong>@ChrisLuv<br>
+     Alteryx &amp; Tableau Consultant</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Chris makes data make sense at The Information Lab.</p>
+    <p class="clear textLeft">Chris Love has an extensive background in data analysis spanning over 10 years. Prior to joining The Information Lab in January 2014 he worked at Experian Marketing Services as a Global Development Team Lead, managing three groups of data analysts using Alteryx and MS SQL Server and helping manage the groups transition from SAS. The pinnacle of his career so far came at the Alteryx Inspire Conference in 2013 where, pitted against nine other Alteryx super-users, he totaled the best time overall to become the first Grand Prix winner outside North America. He won the championship again in 2014.</p>
+    <p class="clear textLeft"><strong>Alteryx in Chris' own words:</strong><br>
+     <em>"My favorite thing about Alteryx is that it makes my job fun. No one enjoys spending hours in Excel or wants to spend time writing programs when they are looking for data insight. Alteryx allows me to get to the crux of any problem quickly, and means I spend less time on the mundane and more time on the analysis, where I believe I can add real value. I want to share my passion for Alteryx with as many people as possible. While I consider myself a technical expert who is happy to engage with advanced use cases, my real passion is engaging with new users and helping them find the same power in Alteryx as I first did."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Joe Mako -->
+<table class="speaker-info" id="joemako" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-mako.png" alt="Joe Mako" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/rosenblatt-ace-140x135.png" alt="Rosenblatt Securities" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Joe Mako</strong></font><br>
+     <strong>@joemako<br>
+     Director of Visual Analytics</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Joe brings data to life at Rosenblatt Securities.</p>
+
+    <p class="clear textLeft">Joe Mako is Director of Visual Analytics at Rosenblatt Securities and part of the Execution Analytics &amp; Consulting group, which works with some of the largest institutional investors in the world. Joe helps translate data to communicate insights that drive decisions, enabling answers to complex questions. He is a contributor to the Tableau community where he has helped thousands of people worldwide, and recognized as a Tableau Zen master two years running.</p>
+    <p class="clear textLeft"><strong>Alteryx in Joe's own words:</strong><br>
+     <em>"It is really important that data analysts can do their own data blending and advanced analytics. This reduces the time-to-insight with faster self-iteration. It takes more time to put together a spec request and iterate with another team. I love the fact that in Alteryx I can create a workflow that solves a specific data or analytics challenge, and then package it up as a reusable macros that just becomes another tool I can use in the next analysis I do."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Andy Moncla -->
+<table class="speaker-info" id="andymoncla" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-moncla.png" alt="Andy Moncla" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/bispatial-ace-140x107.png" alt="B. I. Spatial" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong> Andy Moncla</strong></font><br>
+     <strong>@AndyMoncla<br>
+     Chief Operating Officer</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Andy is one of the longest tenured users of Alteryx, and is constantly finding new uses for it at B. I. Spatial.</p>
+    <p class="clear textLeft">Andy Moncla is the Chief Operating Officer at B. I. Spatial, and has been using Alteryx for more than 10 years to help his clients blend data, perform spatial modeling, and generate sophisticated reports. His specific uses of Alteryx include customer segmentation, point of sale data analysis, sales forecasting and logic articulation.</p>
+    <p class="clear textLeft"><strong>Alteryx in Andy's own words:</strong><br>
+     <em>"My advocacy of Alteryx led me to being an active contributor to the local Alteryx Users Group, where I am a resource to those considering, or already using, Alteryx."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Michael Renwick -->
+<table class="speaker-info" id="michaelrenwick" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/ace-michael-renwick.png" alt="Michael Renwick" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/schroders_140px.jpg" alt="Schroders Investment Management" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Michael Renwick</strong></font><br>
+     <strong>Analyst Developer</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Michael develops a 360&deg; view of clients for Schroders Investment Management.</p>
+    <p class="clear textLeft">Michael Renwick is an Analyst Developer at Schroders Investment Management where he is responsible for data provisioning and data cleansing for distribution insights, predictive and spatial analytics, and any general data wrangling goodness.</p>
+    <p class="clear textLeft"><strong>Alteryx in Michael's own words:</strong><br>
+     <em>"Alteryx can make any data manipulation exercise incredibly efficient, agile and yet creative and fun. Alteryx goes well beyond established tools for typical enterprise concerns - agility, testability and repeatability."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Jarrod Thuener -->
+<table class="speaker-info" id="jarrodthuener" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-thuener.png" alt="Jarrod Thuener" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/krystalytics-ace-140x27.png" alt="Kristalytics" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Jarrod Thuener</strong></font><br>
+     <strong>@JarrodThuener<br>
+     Data Artisan</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Jarrod uses Alteryx for "almost everything" at Kristalytics.</p>
+    <p class="clear textLeft">Jarrod Thuener is a Data Artisan at Kristalytics, where he uses over seven years of Alteryx experience to clean clients' unstructured and inaccurate databases, perform geospatial site selection, analyze marketing techniques and channel optimization, and develop apps for clients to use as a service.</p>
+    <p class="clear textLeft"><strong>Alteryx in Jarrod's own words:</strong><br>
+     <em>"Alteryx can be utilized in many unique ways, including app/macro creation. Plus, I'm always looking for opportunities to use existing tools in innovative, new ways."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Tom Montpool -->
+<table class="speaker-info" id="tmontpool" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-t-montpool.png" alt="Jarrod Thuener" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/environics-ace-140x38.png" alt="Environics Analytics" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Tom Montpool</strong></font><br>
+     <strong>VP, Quality Assurance</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Tom Montpool is a Vice President of Quality Assurance at Environics Analytics and is known for helping colleagues solve bigger business problems with Alteryx.</p>
+    <p class="clear textLeft"><strong>What contribution(s) has Alteryx made for you as a business user?</strong><br>
+   <em>"Alteryx is great (and ridiculously fast) at doing things like transposing large tables, solving spatial problems, joining data from different sources, and creating new data. But this is only part of it. Alteryx is the fun of training new colleagues and seeing them appreciate the possibilities that open up (and wondering how they ever lived without it). Alteryx is also a great supportive online community where new users are encouraged and experienced user's present challenges."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Tom Sturgeon -->
+<table class="speaker-info" id="tsturgeon" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-t-sturgeon.png" alt="Jarrod Thuener" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/schneider-electric-ace-140x42.png" alt="Schneider Electric" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Tom Sturgeon</strong></font><br>
+     <strong>Director, Business Analytics</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Tom Sturgeon is the Director of Business Analytics at Schneider Electric and has led the way in his company to bring more self-service analytics to their business.</p>
+    <p class="clear textLeft"><strong>What contribution(s) has Alteryx made for you as a business user?</strong><br>
+   <em>"Alteryx has made work fun. It enables me to think of a concept and then quickly sketch that on the designer white space by 'drawing some boxes and lines' - it doesn't even look like work. The volume of data our team is able to blend together allows us to answer questions we never thought possible, and every time we deliver a solution we get 10 more ideas on what to do next."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Mark Frisch -->
+<table class="speaker-info" id="mfrisch" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-frisch.png" alt="Mark Frisch is the CEO and Founder of Marquee Crew" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/marquee-crew-ace-140x117.png" alt="Marquee Crew" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Mark Frisch</strong></font><br>
+     <strong>CEO &amp; Founder</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Mark Frisch is the CEO and Founder of Marquee Crew and leverages analytics to grow his business.</p>
+    <p class="clear textLeft"><strong>What contribution do you want to make to the Alteryx community of users during your term?</strong><br>
+   <em>"I plan on actively assisting users in the Alteryx online community and growing the Michigan user group. Alteryx has had a positive influence on my professional growth, and I welcome the opportunity to mentor other community members in the same way."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Adrian Loong  -->
+<table class="speaker-info" id="aloong" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-a-loong.png" alt="Adrian Loong is the Business Intelligence Manager at " style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/amaysim-ace-140x34.png" alt="Amaysim" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Adrian Loong</strong></font><br>
+     <strong>Business Intelligence Manager</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Adrian Loong is the Business Intelligence Manager at Amaysim and enjoys the fact that Alteryx has empowered everyone in the business to be an analyst.</p>
+    <p class="clear textLeft"><strong>What contribution(s) has Alteryx made to amaysim?</strong><br>
+   <em>"Alteryx enables users of all skill levels to focus on business outcomes as business analysts. The ability to visualize data has meant that users can better understand what is going on behind the numbers and quickly spot trends.  With Alteryx, we have reduced time to insight from weeks to hours."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Micheal Barone  -->
+<table class="speaker-info" id="mbarone" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-m-barone.png" alt="Adrian Loong is the Business Intelligence Manager at " style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/paychex-ace-140x23.png" alt="Paychex" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Micheal Barone</strong></font><br>
+     <strong>Data Scientist, Data Science &amp; Predictive Analytics</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Michael Barone is a Data Scientist focused on Data Science and Predictive Analytics at Paychex and uses Alteryx to blend a variety of data and derive business decisions.</p>
+    <p class="clear textLeft"><strong>What contribution(s) has Alteryx made to Paychex?</strong><br>
+   <em>"Alteryx provides the ability to easily and efficiently blend massive amounts of data (in all shapes and sizes from many different sources), and transform that data into useful, actionable knowledge that I can use in my day-to-day work at Paychex."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Alberto Guidande -->
+<table class="speaker-info" id="aguisande" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-a-guidande.png" alt="Alberto Guisande is the Services Director at Excibit Corporation" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/excibit-ace-140x76.png" alt="Excibit Corporation" border="0" style="display:block; float:right; padding: 10px;">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Alberto Guisande</strong></font><br>
+     <strong>Services Director</strong><br>
+     <br>
+    </p>
+    <p class="clear textLeft">Alberto Guisande is the Services Director at Excibit Corporation and uses Alteryx to help lead users to deeper insights. </p>
+    <p class="clear textLeft"><strong>What contribution(s) do I want to make to the Alteryx community of users during your term?</strong><br>
+   <em>"For me it is all about deeper insights - deeper insights by using Alteryx, on the tools, on the data preparation and on the analysis process. My dedication and help at an ACE will help lead  users to deeper insights for their businesses and hopefully, for their lives."</em></p></td>
+  </tr>
+ </tbody>
+</table>
+<!-- Jason Mack -->
+<table class="speaker-info" id="jmack" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFF" width="100%" style="margin:10px 0px 0px 0px">
+ <tbody>
+  <tr>
+   <td valign="top" bgcolor="#FFF" style="padding:30px 70px 50px 50px;" ><img src="http://www.alteryx.com/sites/default/files/i2015-ace-j-mack.png" alt="Jason Mack" style="display:block;" border="0"></td>
+   <td style="padding:0px 50px 58px 0px;" bgcolor="#FFF" valign="top"><img src="http://www.alteryx.com/sites/default/files/1x1-transparent.png" alt="Excibit Corporation" width="140" height="76" style="display:block; float:right; padding: 10px;" border="0">
+    <p class="textLeft"><font style="font-size: 18px"><strong>Jason Mack</strong></font><br>
+     <strong>CCB Marketing Analytics</strong><br>JPMorgan Chase &amp; Co<br>
+     <br>
+    </p>
+    <p class="clear textLeft">Jason Mack is Manager, CCB Market Analytics for JPMorgan Chase &amp; Co. He is empowered by Alteryx as an analytics leader because he now has more time to analyze insights that deliver results</p>
+    <p class="clear textLeft"><strong>What contribution(s) do I want to make to the Alteryx community of users during your term?</strong><br>
+   <em>"The biggest impact Alteryx has made for me as a both a user and manager of analytics team is time. Alteryx gives me the flexibility to handle any kind of data to answer any business question, and does so with 'speed to result' better than traditional tools and approaches. The speed and time savings helps me build a scalable analytics team that enables a data-driven organization."</em></p></td>
+  </tr>
+ </tbody>
+</table>		</div>
+	</section>
+
+
+  </div>
+</div>
+  </div>
+</main>
+
+<section class="bottom-cta-wrapper">
+	<div class="site-container">
+		<div class="bottom-cta">
+			<h3>Try Alteryx Designer for Free <a href="http://www.alteryx.com/download?src=sc105&utm_source=corp-web&utm_medium=pers-footer&utm_campaign=trials" class="button large-button blue-button margin-left">Download Now</a></h3>
+		</div>
+	</div>
+</section>
+<section class="bottom-links-wrapper">
+	<div class="site-container">
+		<nav class="bottom-links bottom-links-nav">
+			  <div class="region region-main-menu">
+      <div class="region region-main-menu">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-4255"><a href="/products">Products</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-4182"><a href="/products/alteryx-designer" class="promoted">Alteryx Designer</a></li>
+<li class="leaf menu-mlid-4184"><a href="/products/alteryx-server" class="promoted">Alteryx Server</a></li>
+<li class="leaf menu-mlid-4183"><a href="/products/alteryx-analytics-gallery" class="promoted">Alteryx Analytics Gallery</a></li>
+<li class="leaf menu-mlid-4218 separator-wrapper"><span class="separator"><hr></span></li>
+<li class="leaf menu-mlid-4426"><a href="/experience-alteryx" class="promoted">Experience Alteryx</a></li>
+<li class="leaf menu-mlid-5896"><a href="/alteryx-designer-tools">Tools in Alteryx Designer</a></li>
+<li class="leaf menu-mlid-4198"><a href="/products/pricing">Pricing</a></li>
+<li class="leaf menu-mlid-4263"><a href="/techspecs">Technical Specifications</a></li>
+<li class="last leaf menu-mlid-3076"><a href="/whats-new-alteryx-analytics-10">What&#039;s New</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/free-trial.html?sc=Web%20Direct&scd=direct&lsm=Web%20Direct&lsd=direct&utm_source=corp-web&utm_medium=navflyout&utm_campaign=trials" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Product Demo</div>
+					<h3 class="title">Free 14 Day Trial</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/workflow-10-370x208.png?itok=SaS65aHg" width="220" height="124" alt="Download the 14-day Free Trial" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="14-day-trial Products" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4261"><a href="/solutions">Solutions</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-4330"><a href="/solutions#analytic-solutions" class="solution-type-menu-wrapper">Analytics</a></li>
+<li class="leaf menu-mlid-4331"><a href="/solutions#departmental-solutions" class="solution-type-menu-wrapper">Departments</a></li>
+<li class="last leaf menu-mlid-4332"><a href="/solutions#industry-solutions" class="solution-type-menu-wrapper">Industries</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/2016-Gartner-Magic-Quadrant-BI-Analytics-W.html?lsm=Web%20Direct&sc=Web%20Direct&scd=resources&utm_source=corp-web&utm_medium=clicks&utm_campaign=gartner-2016-bi" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Whitepaper</div>
+					<h3 class="title">Gartner 2016 Magic Quadrant for BI and Analytics Platforms</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/gartner-2016-mq-bi-370x208_0.png?itok=-HlRfjAc" width="220" height="124" alt="Gartner 2016 Magic Quadrant for BI" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Gartner 2016 MQ BI" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4257"><a href="/partners/find-a-partner">Partners</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-5071"><a href="/partners/tableau-software">Tableau</a></li>
+<li class="leaf menu-mlid-6616"><a href="/partners/microsoft">Microsoft</a></li>
+<li class="leaf menu-mlid-5076"><a href="/partners/qlik">Qlik</a></li>
+<li class="leaf menu-mlid-5891"><a href="/partners/amazon-web-services">Amazon Web Services</a></li>
+<li class="leaf menu-mlid-5086"><a href="/partners/cloudera">Cloudera</a></li>
+<li class="leaf menu-mlid-5081"><a href="/partners/experian-marketing-services">Experian Marketing Services</a></li>
+<li class="leaf menu-mlid-9426"><a href="/partners/find-a-partner#all-partners">Find A Partner</a></li>
+<li class="leaf menu-mlid-6441 separator-wrapper"><span class="separator"><hr></span></li>
+<li class="last leaf menu-mlid-5911"><a href="https://alteryx-community.force.com/AlteryxPartnersHome">Partner Login</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/Tableau-Starter-Kit-W.html?sc=Web%20Direct&scd=resources&lsm=Web%20Direct" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Analytic App</div>
+					<h3 class="title">Alteryx Starter Kit for Tableau</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/tableau-starterkit-370x208_1.png?itok=HjqNnEwu" width="220" height="124" alt="Alteryx Starter Kit for Tableau" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Tableau Vizkit" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4347"><a href="/customers">Customers</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-6466"><a href="/customers">All Customers</a></li>
+<li class="leaf menu-mlid-6471"><a href="/customers?industry=&amp;resource_type=All&amp;region=141&amp;search=">North America</a></li>
+<li class="leaf menu-mlid-6476"><a href="/customers?industry=&amp;resource_type=All&amp;region=261&amp;search=">South America</a></li>
+<li class="leaf menu-mlid-6481"><a href="/customers?industry=&amp;resource_type=All&amp;region=142&amp;search=">Europe</a></li>
+<li class="leaf menu-mlid-6486"><a href="/customers?industry=&amp;resource_type=All&amp;region=143&amp;search=">Asia Pacific</a></li>
+<li class="last leaf menu-mlid-6491"><a href="/customers?industry=&amp;resource_type=All&amp;region=266&amp;search=">Middle East and Africa</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/free-trial.html?sc=Web%20Direct&scd=direct&lsm=Web%20Direct&lsd=direct&utm_source=corp-web&utm_medium=navflyout&utm_campaign=trials" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Product Demo</div>
+					<h3 class="title">Free 14 Day Trial</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/workflow-10-370x208.png?itok=SaS65aHg" width="220" height="124" alt="Download the 14-day Free Trial" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Trial - Customers" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded menu-mlid-4250"><a href="/connect/events">Events</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-solo"><div class="cta-menu cta-menu-solo"><ul class="menu"><li class="first leaf menu-mlid-4256"><a href="/connect/events">All Events</a></li>
+<li class="leaf menu-mlid-8341"><a href="/analytics-workshop">Self-Service Analytics Workshop</a></li>
+<li class="leaf menu-mlid-5901"><a href="/analytics-roadshow">Analytic Independence Roadshow</a></li>
+<li class="leaf menu-mlid-5861"><a href="/inspire-2016">Inspire 2016</a></li>
+<li class="leaf menu-mlid-5881"><a href="/inspire-europe-2016">Inspire Europe 2016</a></li>
+<li class="last leaf menu-mlid-4516"><a href="/inspire-2015">Inspire 2015</a></li>
+</ul></div></div></li><li class="expanded menu-mlid-4357"><a href="/resources">Resources</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-6446"><a href="/resources">All Resources</a></li>
+<li class="leaf menu-mlid-3656"><a href="/support">Support</a></li>
+<li class="leaf menu-mlid-4451"><a href="/live-demo?utm_source=corp-web&amp;utm_medium=resources-nav&amp;utm_campaign=daily-demo">Daily Demo</a></li>
+<li class="leaf menu-mlid-4386"><a href="http://www.alteryx.com/resources?type=demo&amp;topic=&amp;department=&amp;industry=&amp;search=">Product Demos</a></li>
+<li class="leaf menu-mlid-9486"><a href="/alteryx-for-excel">Guide to Alteryx for Excel Users</a></li>
+<li class="leaf menu-mlid-4446"><a href="http://alteryx.com/resources?type=webinar&amp;topic=&amp;department=&amp;industry=&amp;search=">On-Demand Webinars</a></li>
+<li class="leaf menu-mlid-5196"><a href="/solution-cookbooks">Solution Cookbooks</a></li>
+<li class="leaf menu-mlid-4267"><a href="/product-training">Training</a></li>
+<li class="last leaf menu-mlid-4526"><a href="/professional-services">Professional Services</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://pages.alteryx.com/free-trial.html?sc=Web%20Direct&scd=direct&lsm=Web%20Direct&lsd=direct&utm_source=corp-web&utm_medium=navflyout&utm_campaign=trials" class="link-parent ">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Product Demo</div>
+					<h3 class="title">Free 14 Day Trial</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/workflow-10-370x208.png?itok=SaS65aHg" width="220" height="124" alt="Download the 14-day Free Trial" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Free 14 Day Trial" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li><li class="expanded active-trail menu-mlid-981"><a href="http://community.alteryx.com/" class="active-trail">Community</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-solo"><div class="cta-menu cta-menu-solo"><ul class="menu"><li class="first leaf menu-mlid-1175"><a href="http://community.alteryx.com/">Alteryx Community</a></li>
+<li class="leaf menu-mlid-6456"><a href="http://community.alteryx.com/t5/Discussions/ct-p/discussions">Discussions</a></li>
+<li class="leaf menu-mlid-1563"><a href="http://community.alteryx.com/t5/Knowledge/ct-p/knowledge">Knowledge</a></li>
+<li class="leaf menu-mlid-6451"><a href="http://community.alteryx.com/t5/Ideas/ct-p/ideas">Ideas</a></li>
+<li class="leaf menu-mlid-2401"><a href="http://community.alteryx.com/t5/Blogs/ct-p/blogs">Blogs</a></li>
+<li class="leaf active-trail active menu-mlid-4391"><a href="/ace-program" class="active-trail active">ACE Program</a></li>
+<li class="leaf menu-mlid-5091"><a href="http://community.alteryx.com/t5/User-Groups/ct-p/usergroups">Alteryx User Groups</a></li>
+<li class="last leaf menu-mlid-2012"><a href="http://gallery.alteryx.com">Alteryx Public Gallery</a></li>
+</ul></div></div></li><li class="last expanded menu-mlid-4251"><a href="/about-us">About</a><span class="inner-nav-toggle"><span class="plus-minus-toggle"></span></span><div class="menu cta-wrapper cta-wrapper-full"><div class="cta-menu cta-menu-full"><ul class="menu"><li class="first leaf menu-mlid-6461"><a href="/about-us">About Us</a></li>
+<li class="leaf menu-mlid-4260"><a href="/leadership">Leadership</a></li>
+<li class="leaf menu-mlid-4259"><a href="/board-of-directors">Board of Directors</a></li>
+<li class="leaf menu-mlid-7151"><a href="/investors">Investors</a></li>
+<li class="leaf menu-mlid-4308"><a href="/connect/news">News</a></li>
+<li class="leaf menu-mlid-4258"><a href="/careers">Careers</a></li>
+<li class="leaf menu-mlid-1140"><a href="/about/academia">Academia</a></li>
+<li class="last leaf menu-mlid-4421"><a href="/contact-us">Contact Us</a></li>
+</ul></div><div class="node node-main-nav-cta und"> <!-- open-div -->
+			
+  <article class="cta-item__resource">
+	<div class="inner node node-resource und">
+		<a href="http://www.youtube.com/watch?v=wPmNx3ls23I" class="link-parent play-overlay-content lightbox-video">
+			<div class="column-1">
+				<div class="meta">
+					<div class="kicker">
+  Video</div>
+					<h3 class="title">Self-Service Data Blending &amp; Analytics</h3>
+				</div>
+			</div>
+			<div class="column-2">
+									<div class="content-inner play-overlay no-border">
+  <img typeof="foaf:Image" src="http://www.alteryx.com/sites/default/files/styles/medium/public/uploads/resources/exec-roudtable2-370x208.png?itok=mt6Fhg7u" width="220" height="124" alt="Executive Roundtable: Self-Service Data Blending &amp;amp; Analytics" /></div>
+							</div>
+		</a>
+	</div>
+</article>	<span property="dc:title" content="Self-Service Data Blending &amp; Analytics - About" class="rdf-meta element-hidden"></span></div> <!-- close-div --></div></li></ul></div>
+  </div>
+</div>
+  </div>
+  </div>
+				<li class="expanded menu-mlid-trending">
+					<a href='#'>Trending Topics</a>
+					<div class="menu cta-wrapper cta-wrapper-solo">
+						<!--a13fb38487508eede3ea4f653e944920-->
+<ul class="cp_linklist">
+                                        <li><a href="http://www.alteryx.com/analytics/business-analytics-tools">Business Analytics Tools</a></li>
+                                        <li><a href="http://www.alteryx.com/analytics/advanced-analytics">Advanced Analytics</a></li>
+                                        <li><a href="http://www.alteryx.com/analytics/data-visualization-software">Data Visualization Software</a></li>
+                                        <li><a href="http://www.alteryx.com/analytics/data-quality-issues">Data Quality Issues</a></li>
+                                        <li><a href="http://www.alteryx.com/analytics/social-network-data-mining">Social Network Data Mining</a></li>
+                                        <li><a href="http://www.alteryx.com/analytics/cloud-data-management">Cloud Data Management</a></li>
+                </ul>					</div>
+				    
+				</li>
+		</nav>
+	</div>
+</section>
+<footer class="site-footer-wrapper">
+	<div class="site-container">
+		<div class="site-footer">
+			<p class="column1">
+				<strong>&copy; 2016 Alteryx, Inc.</strong>
+				<a href="/terms-and-conditions">Terms and conditions</a>
+				<a href="/privacy-policy">Privacy policy</a>
+			</p>
+			<div class="column2">
+				<div class="social-links">
+					<a href="//www.facebook.com/alteryx">
+						<svg viewBox="0 0 49 100" class="shape-facebook">
+							<use xlink:href="#shape-facebook"></use>
+						</svg>
+					</a>
+					<a href="//twitter.com/alteryx">
+						<svg viewBox="0 0 100 82" class="shape-twitter">
+							<use xlink:href="#shape-twitter"></use>
+						</svg>
+					</a>
+					<a href="//www.linkedin.com/company/alteryx">
+						<svg viewBox="0 0 100 96" class="shape-linkedin">
+							<use xlink:href="#shape-linkedin"></use>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<section class="sticky-cookie">
+	<div class="text">By continuing to use this site you consent to the use of cookies on your device as described in the Alteryx Privacy Policy.</div>
+	<div class="buttons-wrapper">
+		<a id="close-cookie" class="button tight-button white-button" style="margin-right: 20px;">I Agree</a>
+		<a href="/privacy-policy" class="">More Information</a>
+	</div>
+</section>
+
+<!-- Google Code for Remarketing Tag -->
+<!--
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1072583018;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072583018/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+<script type="text/javascript">
+adroll_adv_id = "DGCQUC55IFGRPMITZILYCP";
+adroll_pix_id = "ETP6YNISLRFRBFVJWM3DC6";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<script type="text/javascript">
+  _bizo_data_partner_id = "7644";
+</script>
+<script type="text/javascript">
+(function() {
+  var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=7644&fmt=gif" />
+</noscript>
+
+
+		<script type="text/javascript" src="http://www.alteryx.com/sites/default/files/js/js_eoLncGCGJ3dMuYy8lK50BF-JTx2VoZGJWS3tglg15vs.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0032/2833.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+//--><!]]>
+</script>
+<script type="text/javascript" src="//munchkin.marketo.net/munchkin.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+mktoMunchkin("716-WAC-917");
+
+//--><!]]>
+</script>
+	</body>
+</html>

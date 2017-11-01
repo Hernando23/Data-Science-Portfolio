@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="78" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Sheet 1.1 PCA Process Result GeoUpdated.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Country Code" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="RecordID" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Country Name" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Edu PC1" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Edu PC2" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Edu PC3" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Edu PC4" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Econ PC1" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Econ PC2" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Econ PC3" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Econ PC4" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Env PC1" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Env PC2" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="country" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="latitude" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="longitude" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="name" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings>
+        <Position x="354" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="model name">Clustering by Edu, Econ, Environment</Value>
+          <Value name="the fields">Edu PC1 + Edu PC2 + Edu PC3 + Econ PC1 + Econ PC2 + Econ PC3 + Env PC1 + Env PC2</Value>
+          <Value name="standardize">True</Value>
+          <Value name="z score">True</Value>
+          <Value name="unit interval">False</Value>
+          <Value name="k-means">False</Value>
+          <Value name="k-medians">False</Value>
+          <Value name="neural gas">True</Value>
+          <Value name="num clus">4</Value>
+          <Value name="num seeds">10</Value>
+          <Value name="plot points">True</Value>
+          <Value name="plot centroids">False</Value>
+          <Value name="max comp">2</Value>
+          <Value name="inches">True</Value>
+          <Value name="in.w">5.50</Value>
+          <Value name="in.h">5.50</Value>
+          <Value name="centimeters">False</Value>
+          <Value name="cm.w">13.00</Value>
+          <Value name="cm.h">14.95</Value>
+          <Value name="graph.resolution">1x</Value>
+          <Value name="pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="grp" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="out" size="1073741823" source="R-DATA:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Reports">
+          <RecordInfo>
+            <Field name="Desc" size="64" source="Formula: (Multiple Sources)" type="V_WString" />
+            <Field name="Report" size="1073741823" source="Report: (Multiple Sources)" type="V_WString" />
+            <Field name="Sum_Dists" size="1073741823" source="R-DATA:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\K-Centroids_Cluster_Analysis.yxmc" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="Edu PC1" selected="True" type="Double" size="8" />
+            <SelectField field="Edu PC2" selected="True" type="Double" size="8" />
+            <SelectField field="Edu PC3" selected="True" type="Double" size="8" />
+            <SelectField field="Edu PC4" selected="True" type="Double" size="8" />
+            <SelectField field="Econ PC1" selected="True" type="Double" size="8" />
+            <SelectField field="Econ PC2" selected="True" type="Double" size="8" />
+            <SelectField field="Econ PC3" selected="True" type="Double" size="8" />
+            <SelectField field="Econ PC4" selected="True" type="Double" size="8" />
+            <SelectField field="Env PC1" selected="True" type="Double" size="8" />
+            <SelectField field="Env PC2" selected="True" type="Double" size="8" />
+            <SelectField field="country" selected="False" />
+            <SelectField field="latitude" selected="False" />
+            <SelectField field="longitude" selected="False" />
+            <SelectField field="name" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="162" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="Country Code" selected="True" />
+            <Field field="RecordID" selected="True" />
+            <Field field="Country Name" selected="True" />
+            <Field field="Edu PC1" selected="True" />
+            <Field field="Edu PC2" selected="True" />
+            <Field field="Edu PC3" selected="True" />
+            <Field field="Edu PC4" selected="True" />
+            <Field field="Econ PC1" selected="True" />
+            <Field field="Econ PC2" selected="True" />
+            <Field field="Econ PC3" selected="True" />
+            <Field field="Econ PC4" selected="True" />
+            <Field field="Env PC1" selected="True" />
+            <Field field="Env PC2" selected="True" />
+            <Field field="country" selected="True" />
+            <Field field="latitude" selected="True" />
+            <Field field="longitude" selected="True" />
+            <Field field="name" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Country Code" size="3" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="RecordID" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="Byte" />
+            <Field name="Country Name" size="24" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Edu PC1" size="21" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="Edu PC2" size="21" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="Edu PC3" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="Edu PC4" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="Econ PC1" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Econ PC2" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="Econ PC3" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="Econ PC4" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="Env PC1" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+            <Field name="Env PC2" size="22" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="country" size="2" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="String" />
+            <Field name="latitude" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="Double" />
+            <Field name="longitude" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="Double" />
+            <Field name="name" size="24" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 1.1 PCA Process Result GeoUpdated.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="450" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_1392_6316843f8cdb4c3fa92e735066d87a15_\Engine_4324_d547c4a7b02c4948828e2218540914ed_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings>
+        <Position x="474" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="clus name">Cluster Result</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Country.Code" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="RecordID" source="R-DATA:" type="Int32" />
+            <Field name="Country.Name" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Edu.PC1" source="R-DATA:" type="Double" />
+            <Field name="Edu.PC2" source="R-DATA:" type="Double" />
+            <Field name="Edu.PC3" source="R-DATA:" type="Double" />
+            <Field name="Edu.PC4" source="R-DATA:" type="Double" />
+            <Field name="Econ.PC1" source="R-DATA:" type="Double" />
+            <Field name="Econ.PC2" source="R-DATA:" type="Double" />
+            <Field name="Econ.PC3" source="R-DATA:" type="Double" />
+            <Field name="Econ.PC4" source="R-DATA:" type="Double" />
+            <Field name="Env.PC1" source="R-DATA:" type="Double" />
+            <Field name="Env.PC2" source="R-DATA:" type="Double" />
+            <Field name="Cluster_Result" source="R-DATA:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Append_Cluster.yxmc" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="630" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <SelectFields>
+            <SelectField field="Country.Code" selected="True" />
+            <SelectField field="RecordID" selected="True" />
+            <SelectField field="Country.Name" selected="True" />
+            <SelectField field="Cluster_Result" selected="True" />
+            <SelectField field="Edu.PC1" selected="True" />
+            <SelectField field="Edu.PC2" selected="True" />
+            <SelectField field="Edu.PC3" selected="True" />
+            <SelectField field="Edu.PC4" selected="True" />
+            <SelectField field="Econ.PC1" selected="True" />
+            <SelectField field="Econ.PC2" selected="True" />
+            <SelectField field="Econ.PC3" selected="True" />
+            <SelectField field="Econ.PC4" selected="True" />
+            <SelectField field="Env.PC1" selected="True" />
+            <SelectField field="Env.PC2" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="846" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_1392_6316843f8cdb4c3fa92e735066d87a15_\Engine_4324_8919992f7df1469f9b8c662804560d35_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="702" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Sheet 2 Clustering Result.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Sheet 2 Clustering Result.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="846" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Cluster_Result" action="GroupBy" rename="Cluster_Result" />
+            <SummarizeField field="Country.Name" action="GroupBy" rename="Country.Name" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="942" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\Counrty Clusters.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Counrty Clusters.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Reports" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="7" Connection="Second Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="7" Connection="First Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="2" Connection="Data Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Step 3. Clustering Analysis (k-centroid)</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

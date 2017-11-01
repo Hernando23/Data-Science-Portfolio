@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>country-data.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Country Code" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="Country Name" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="Long Name" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="Table Name" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_1519" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_1519_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_15UP" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_15UP_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_2024" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_2024_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_2529" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_2529_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_25UP" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_25UP_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_3034" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_3034_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_3539" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_3539_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_4044" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_4044_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_4549" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_4549_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_5054" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_5054_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_5559" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_5559_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_6064" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_6064_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_6569" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_6569_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_7074" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_7074_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_75UP" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_75UP_FE" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="EG_ELC_ACCS_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="EN_POP_SLUM_UR_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="FB_ATM_TOTL_P5" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="IC_ELC_TIME" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="IC_FRM_ISOC_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="IC_TAX_TOTL_CP_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="IQ_WEF_PORT_XQ" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="IT_NET_USER_P2" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_ADT_1524_LT_FE_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_ADT_1524_LT_FM_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_ADT_1524_LT_MA_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_ADT_1524_LT_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_ADT_LITR_FE_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_ADT_LITR_MA_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_ADT_LITR_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SE_XPD_TOTL_GD_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SG_VAW_BURN_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SH_DYN_AIDS_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SH_DYN_MORT" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SH_MED_PHYS_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SH_TBS_PREV" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SH_XPD_PCAP" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SL_EMP_TOTL_SP_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SL_TLF_SECO_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SL_TLF_TOTL_IN" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SN_ITK_DEFC_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="SP_POP_DPND" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="TM_TAX_MANF_SM_FN_ZS" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_1_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_1T6_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_2_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_2T6_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_3_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_3T6_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_4_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_4T6_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_5_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_5T8_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_6_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_6T8_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_7_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_7T8_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_EA_8_AG25T99" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_PTRHC_2" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_PTRHC_3" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="UIS_PTRHC_56" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="Number of Missing Variable" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="Number Non-Null variable" size="254" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="162" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="Country Code" selected="True" />
+            <Field field="Country Name" selected="True" />
+            <Field field="Long Name" selected="True" />
+            <Field field="Table Name" selected="True" />
+            <Field field="BAR_SCHL_1519" selected="True" />
+            <Field field="BAR_SCHL_1519_FE" selected="True" />
+            <Field field="BAR_SCHL_15UP" selected="True" />
+            <Field field="BAR_SCHL_15UP_FE" selected="True" />
+            <Field field="BAR_SCHL_2024" selected="True" />
+            <Field field="BAR_SCHL_2024_FE" selected="True" />
+            <Field field="BAR_SCHL_2529" selected="True" />
+            <Field field="BAR_SCHL_2529_FE" selected="True" />
+            <Field field="BAR_SCHL_25UP" selected="True" />
+            <Field field="BAR_SCHL_25UP_FE" selected="True" />
+            <Field field="BAR_SCHL_3034" selected="True" />
+            <Field field="BAR_SCHL_3034_FE" selected="True" />
+            <Field field="BAR_SCHL_3539" selected="True" />
+            <Field field="BAR_SCHL_3539_FE" selected="True" />
+            <Field field="BAR_SCHL_4044" selected="True" />
+            <Field field="BAR_SCHL_4044_FE" selected="True" />
+            <Field field="BAR_SCHL_4549" selected="True" />
+            <Field field="BAR_SCHL_4549_FE" selected="True" />
+            <Field field="BAR_SCHL_5054" selected="True" />
+            <Field field="BAR_SCHL_5054_FE" selected="True" />
+            <Field field="BAR_SCHL_5559" selected="True" />
+            <Field field="BAR_SCHL_5559_FE" selected="True" />
+            <Field field="BAR_SCHL_6064" selected="True" />
+            <Field field="BAR_SCHL_6064_FE" selected="True" />
+            <Field field="BAR_SCHL_6569" selected="True" />
+            <Field field="BAR_SCHL_6569_FE" selected="True" />
+            <Field field="BAR_SCHL_7074" selected="True" />
+            <Field field="BAR_SCHL_7074_FE" selected="True" />
+            <Field field="BAR_SCHL_75UP" selected="True" />
+            <Field field="BAR_SCHL_75UP_FE" selected="True" />
+            <Field field="EG_ELC_ACCS_ZS" selected="True" />
+            <Field field="EN_POP_SLUM_UR_ZS" selected="True" />
+            <Field field="FB_ATM_TOTL_P5" selected="True" />
+            <Field field="IC_ELC_TIME" selected="True" />
+            <Field field="IC_FRM_ISOC_ZS" selected="True" />
+            <Field field="IC_TAX_TOTL_CP_ZS" selected="True" />
+            <Field field="IQ_WEF_PORT_XQ" selected="True" />
+            <Field field="IT_NET_USER_P2" selected="True" />
+            <Field field="SE_ADT_1524_LT_FE_ZS" selected="True" />
+            <Field field="SE_ADT_1524_LT_FM_ZS" selected="True" />
+            <Field field="SE_ADT_1524_LT_MA_ZS" selected="True" />
+            <Field field="SE_ADT_1524_LT_ZS" selected="True" />
+            <Field field="SE_ADT_LITR_FE_ZS" selected="True" />
+            <Field field="SE_ADT_LITR_MA_ZS" selected="True" />
+            <Field field="SE_ADT_LITR_ZS" selected="True" />
+            <Field field="SE_XPD_TOTL_GD_ZS" selected="True" />
+            <Field field="SG_VAW_BURN_ZS" selected="True" />
+            <Field field="SH_DYN_AIDS_ZS" selected="True" />
+            <Field field="SH_DYN_MORT" selected="True" />
+            <Field field="SH_MED_PHYS_ZS" selected="True" />
+            <Field field="SH_TBS_PREV" selected="True" />
+            <Field field="SH_XPD_PCAP" selected="True" />
+            <Field field="SL_EMP_TOTL_SP_ZS" selected="True" />
+            <Field field="SL_TLF_SECO_ZS" selected="True" />
+            <Field field="SL_TLF_TOTL_IN" selected="True" />
+            <Field field="SN_ITK_DEFC_ZS" selected="True" />
+            <Field field="SP_POP_DPND" selected="True" />
+            <Field field="TM_TAX_MANF_SM_FN_ZS" selected="True" />
+            <Field field="UIS_EA_1_AG25T99" selected="True" />
+            <Field field="UIS_EA_1T6_AG25T99" selected="True" />
+            <Field field="UIS_EA_2_AG25T99" selected="True" />
+            <Field field="UIS_EA_2T6_AG25T99" selected="True" />
+            <Field field="UIS_EA_3_AG25T99" selected="True" />
+            <Field field="UIS_EA_3T6_AG25T99" selected="True" />
+            <Field field="UIS_EA_4_AG25T99" selected="True" />
+            <Field field="UIS_EA_4T6_AG25T99" selected="True" />
+            <Field field="UIS_EA_5_AG25T99" selected="True" />
+            <Field field="UIS_EA_5T8_AG25T99" selected="True" />
+            <Field field="UIS_EA_6_AG25T99" selected="True" />
+            <Field field="UIS_EA_6T8_AG25T99" selected="True" />
+            <Field field="UIS_EA_7_AG25T99" selected="True" />
+            <Field field="UIS_EA_7T8_AG25T99" selected="True" />
+            <Field field="UIS_EA_8_AG25T99" selected="True" />
+            <Field field="UIS_PTRHC_2" selected="True" />
+            <Field field="UIS_PTRHC_3" selected="True" />
+            <Field field="UIS_PTRHC_56" selected="True" />
+            <Field field="Number of Missing Variable" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Country Code" size="3" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="String" />
+            <Field name="Country Name" size="30" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="Long Name" size="73" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="Table Name" size="30" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="V_String" />
+            <Field name="BAR_SCHL_1519" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_1519_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_15UP" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_15UP_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_2024" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_2024_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_2529" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_2529_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_25UP" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_25UP_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_3034" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_3034_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_3539" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_3539_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_4044" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_4044_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_4549" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_4549_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_5054" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_5054_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_5559" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_5559_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_6064" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_6064_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_6569" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_6569_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_7074" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_7074_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_75UP" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="BAR_SCHL_75UP_FE" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="EG_ELC_ACCS_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="EN_POP_SLUM_UR_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="FB_ATM_TOTL_P5" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="IC_ELC_TIME" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="IC_FRM_ISOC_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="IC_TAX_TOTL_CP_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="IQ_WEF_PORT_XQ" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="IT_NET_USER_P2" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_ADT_1524_LT_FE_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_ADT_1524_LT_FM_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_ADT_1524_LT_MA_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_ADT_1524_LT_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_ADT_LITR_FE_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_ADT_LITR_MA_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_ADT_LITR_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SE_XPD_TOTL_GD_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SG_VAW_BURN_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SH_DYN_AIDS_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SH_DYN_MORT" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SH_MED_PHYS_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SH_TBS_PREV" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SH_XPD_PCAP" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SL_EMP_TOTL_SP_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SL_TLF_SECO_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SL_TLF_TOTL_IN" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Int32" />
+            <Field name="SN_ITK_DEFC_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="SP_POP_DPND" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="TM_TAX_MANF_SM_FN_ZS" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_1_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_1T6_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_2_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_2T6_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_3_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_3T6_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_4_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_4T6_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_5_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_5T8_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_6_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_6T8_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_7_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_7T8_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_EA_8_AG25T99" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_PTRHC_2" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_PTRHC_3" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="UIS_PTRHC_56" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Double" />
+            <Field name="Number of Missing Variable" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Byte" />
+            <Field name="Number Non-Null variable" source="File: C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\country-data.csv" type="Byte" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="258" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="Country Code" selected="False" />
+            <SelectField field="Long Name" selected="False" />
+            <SelectField field="Table Name" selected="False" />
+            <SelectField field="Number of Missing Variable" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="354" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Field>Number of Missing Variable</Field>
+            <Operator>&lt;</Operator>
+            <Operands>
+              <Operand>25</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Number of Missing Variable] &lt; 25</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings>
+        <Position x="570" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Select Fields">Country Name=True,BAR_SCHL_1519=True,BAR_SCHL_1519_FE=True,BAR_SCHL_15UP=True,BAR_SCHL_15UP_FE=True,BAR_SCHL_2024=True,BAR_SCHL_2024_FE=True,BAR_SCHL_2529=True,BAR_SCHL_2529_FE=True,BAR_SCHL_25UP=True,BAR_SCHL_25UP_FE=True,BAR_SCHL_3034=True,BAR_SCHL_3034_FE=True,BAR_SCHL_3539=True,BAR_SCHL_3539_FE=True,BAR_SCHL_4044=True,BAR_SCHL_4044_FE=True,BAR_SCHL_4549=True,BAR_SCHL_4549_FE=True,BAR_SCHL_5054=True,BAR_SCHL_5054_FE=True,BAR_SCHL_5559=True,BAR_SCHL_5559_FE=True,BAR_SCHL_6064=True,BAR_SCHL_6064_FE=True,BAR_SCHL_6569=True,BAR_SCHL_6569_FE=True,BAR_SCHL_7074=True,BAR_SCHL_7074_FE=True,BAR_SCHL_75UP=True,BAR_SCHL_75UP_FE=True,EG_ELC_ACCS_ZS=True,EN_POP_SLUM_UR_ZS=True,FB_ATM_TOTL_P5=True,IC_ELC_TIME=True,IC_FRM_ISOC_ZS=True,IC_TAX_TOTL_CP_ZS=True,IQ_WEF_PORT_XQ=True,IT_NET_USER_P2=True,SE_ADT_1524_LT_FE_ZS=True,SE_ADT_1524_LT_FM_ZS=True,SE_ADT_1524_LT_MA_ZS=True,SE_ADT_1524_LT_ZS=True,SE_ADT_LITR_FE_ZS=True,SE_ADT_LITR_MA_ZS=True,SE_ADT_LITR_ZS=True,SE_XPD_TOTL_GD_ZS=True,SG_VAW_BURN_ZS=True,SH_DYN_AIDS_ZS=True,SH_DYN_MORT=True,SH_MED_PHYS_ZS=True,SH_TBS_PREV=True,SH_XPD_PCAP=True,SL_EMP_TOTL_SP_ZS=True,SL_TLF_SECO_ZS=True,SL_TLF_TOTL_IN=True,SN_ITK_DEFC_ZS=True,SP_POP_DPND=True,TM_TAX_MANF_SM_FN_ZS=True,UIS_EA_1_AG25T99=True,UIS_EA_1T6_AG25T99=True,UIS_EA_2_AG25T99=True,UIS_EA_2T6_AG25T99=True,UIS_EA_3_AG25T99=True,UIS_EA_3T6_AG25T99=True,UIS_EA_4_AG25T99=True,UIS_EA_4T6_AG25T99=True,UIS_EA_5_AG25T99=True,UIS_EA_5T8_AG25T99=True,UIS_EA_6_AG25T99=True,UIS_EA_6T8_AG25T99=True,UIS_EA_7_AG25T99=True,UIS_EA_7T8_AG25T99=True,UIS_EA_8_AG25T99=True,UIS_PTRHC_2=True,UIS_PTRHC_3=True,UIS_PTRHC_56=True,Number of Missing Variable=True</Value>
+          <Value name="Sample Data">False</Value>
+          <Value name="Number">True</Value>
+          <Value name="NNumber">5000</Value>
+          <Value name="Percent">False</Value>
+          <Value name="NPercent">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Field_Summary_Report.yxmc" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="666" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5900_9c70c1a7dcef4c018f651153fb1b1ab8_\Engine_4448_f0f927b6840b470ba7e3a859bf305d6c_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints />
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="654" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5900_9c70c1a7dcef4c018f651153fb1b1ab8_\Engine_4448_4e9eed89b3444d74bd083a8ac434bec1_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="654" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5900_9c70c1a7dcef4c018f651153fb1b1ab8_\Engine_4448_54ca12031c464a96aeeeb50bc348fe1a_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="630" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5900_9c70c1a7dcef4c018f651153fb1b1ab8_\Engine_4448_bc073ebd34004b11a8ba7f68e489f48a_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="426" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\ProgramData\Alteryx\Engine\Engine_5900_9c70c1a7dcef4c018f651153fb1b1ab8_\Engine_4448_7599721cae834531bf3dec84798a0212_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="498" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <StartValue>1</StartValue>
+          <FieldName>RecordID</FieldName>
+          <FieldType>Int32</FieldType>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="630" y="6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\Hernando\Desktop\ALTERYX PROJECTS\P7\144 Country Data.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>144 Country Data.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="False" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="True" />
+      <Destination ToolID="15" Connection="Field Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="True" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Reports" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Interactive" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Step 1. Cleaning Country Data</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
