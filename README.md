@@ -42,16 +42,16 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 		- [Red Wine Quality Analyisi](http://rpubs.com/Hernando23/330829): Finding out what makes a high quality red wine based on their chemical attributes using multivariate and univariate analysis
 	- __Alteryx__
 		- [Retail Expansion Capstone Project](insert_link): 
-		- [Mailing List Regression Model Analysis](insert_link): 
-		- [Store Expansion Selection Regression Model](insert_link): 
-		- [Classification Model Credit Project](insert_link): 
-		- [New Menu Restaurant Chain AB Testng](insert_link): 
-		- [Predicting future sales using ETS & ARIMA Model](insert_link): 
-		- [PCA Clustering](insert_link): 
+		- [Mailing List Regression Model Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P1-%20Mailing%20List%20Regression%20Model%20Analysis/1.2-predicting-catalog-demand.ipynb): A home-goods manufacturer wants to predict expected profits from a catalog launch. using regression analysis to perform the feasibility of catalog launch
+		- [Store Expansion Selection Regression Model](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P2-%20Store%20Expansion%20Selection%20Regression%20Model/2.1-data-cleanup.ipynb): building a predictive model for A pet store chain to  select the location for its next store
+		- [Classification Model Credit Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P4-%20Classification%20Model%20Credit%20Project/4-predicting-default-risk.ipynb): Building classification model for a small bank which received an influx of loan applications. 
+		- [New Menu Restaurant Chain AB Testng](insert_link): Designing AB Testing to analyze the slaes of chain of coffee shops for its new menu launch. Giving recommendation on whether the chain should introduce the new menu. 
+		- [Predicting future sales using ETS & ARIMA Model](insert_link): use time series forecasting models to forecast monthly demand and provide a recommendation on how a video game producer planning production to match the demand.
+		- [PCA Clustering](insert_link): Creating a segmentation of countries based by the level of education, social , economic and health level using hundreds of different parameters using knn 
 	
 	- __Tableau__	
-
-
+		- [Lending Club Recommendation Analysis](https://public.tableau.com/profile/hernando4174#!/vizhome/LendingClub-HernandoA_W_Ren/Story1): Visualizing loan data characteristics and give recommendation according the current landscape of Lending Club Customer profiles
+		- [Airbnb Sydney - Neighbourhood comparison](https://public.tableau.com/profile/hernando4174#!/vizhome/AirbnbSydney-Neighbourhoodcomparison/Dashboard2): Comparing AirBnb Sydney neighbourhood, scraping using AirBnB API.
 
 - ### Micro Projects: 
 
