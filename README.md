@@ -13,6 +13,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 - ### Machine Learning
 
 	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Predicting Survivability of Titanic Passengers ](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Using Random Forest classifier,  Extra Trees classifier, AdaBoost classifer, Gradient Boosting classifer, Support Vector Machine to predict which passengers survived Titanic Accident.
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
@@ -20,19 +21,22 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
-- ### Natural Language Processing
+	- __Alteryx__
+		- [Retail Expansion Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P8-Final/7-combining-predictive-techniques.ipynb): Using k-mean clustering model, random forest ,decision tree, ada boost model, and ETS - ARIMA forcasting model to plan a significiant expansion to a grocery store chain. 
+		- [Mailing List Regression Model Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P1-%20Mailing%20List%20Regression%20Model%20Analysis/1.2-predicting-catalog-demand.ipynb): A home-goods manufacturer wants to predict expected profits from a catalog launch. using regression analysis to perform the feasibility of catalog launch
+		- [Store Expansion Selection Regression Model](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P2-%20Store%20Expansion%20Selection%20Regression%20Model/2.1-data-cleanup.ipynb): building a predictive model for A pet store chain to  select the location for its next store
+		- [Classification Model Credit Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P4-%20Classification%20Model%20Credit%20Project/4-predicting-default-risk.ipynb): Building classification model for a small bank which received an influx of loan applications. 
+		- [New Menu Restaurant Chain AB Testng](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P5%20-%20New%20Menu%20Restaurant%20AB%20Testing/5-AB-test-a-new-menu-launch.ipynb): Designing AB Testing to analyze the slaes of chain of coffee shops for its new menu launch. Giving recommendation on whether the chain should introduce the new menu. 
+		- [Predicting future sales using ETS & ARIMA Model](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P6-%20Predicting%20future%20sales%20using%20ETS%20%26%20ARIMA%20Model/6-forecast-video-game-sales.ipynb): use time series forecasting models to forecast monthly demand and provide a recommendation on how a video game producer planning production to match the demand.
+		- [PCA Clustering](insert_link): Creating a segmentation of countries based by the level of education, social , economic and health level using hundreds of different parameters using knn 
 
-	- [3-way Sentiment Analysis for Tweets](https://github.com/sajal2692/data-science-portfolio/blob/master/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+		tools : K-centroid , Neural Gas, Decision Tree, Random Forest, ETS , ARIMA, Logistic Regression, Scoring, A-B Testing, Matched Pair Design Analysis
 
-	- [Cross language Information Retrieval](https://github.com/sajal2692/data-science-portfolio/blob/master/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
-
-	_Tools: NLTK, scikit_
 
 
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
-		- [Titanic Dataset - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 		- [Stock Market Analysis for Tech Stocks](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 		- [2016 US General Election Poll Data Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
 		- [911 Calls - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
@@ -40,23 +44,15 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 	- __R__
 		- [White Wine Quality Analysis](http://rpubs.com/Hernando23/330833): Finding out what makes a high quality white wine based on their chemical attributes using multivariate and univariate analysis
 		- [Red Wine Quality Analyisi](http://rpubs.com/Hernando23/330829): Finding out what makes a high quality red wine based on their chemical attributes using multivariate and univariate analysis
-	- __Alteryx__
-		- [Retail Expansion Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P8-Final/7-combining-predictive-techniques.ipynb): Usingn k-mean clustering model, random forest ,decision tree, ada boost model, and ETS - ARIMA forcasting model to plan a significiant expansion to a grocery store chain. 
-		- [Mailing List Regression Model Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P1-%20Mailing%20List%20Regression%20Model%20Analysis/1.2-predicting-catalog-demand.ipynb): A home-goods manufacturer wants to predict expected profits from a catalog launch. using regression analysis to perform the feasibility of catalog launch
-		- [Store Expansion Selection Regression Model](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P2-%20Store%20Expansion%20Selection%20Regression%20Model/2.1-data-cleanup.ipynb): building a predictive model for A pet store chain to  select the location for its next store
-		- [Classification Model Credit Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P4-%20Classification%20Model%20Credit%20Project/4-predicting-default-risk.ipynb): Building classification model for a small bank which received an influx of loan applications. 
-		- [New Menu Restaurant Chain AB Testng](insert_link): Designing AB Testing to analyze the slaes of chain of coffee shops for its new menu launch. Giving recommendation on whether the chain should introduce the new menu. 
-		- [Predicting future sales using ETS & ARIMA Model](insert_link): use time series forecasting models to forecast monthly demand and provide a recommendation on how a video game producer planning production to match the demand.
-		- [PCA Clustering](insert_link): Creating a segmentation of countries based by the level of education, social , economic and health level using hundreds of different parameters using knn 
+
 	
 	- __Tableau__	
-		- [Lending Club Recommendation Analysis](https://public.tableau.com/profile/hernando4174#!/vizhome/LendingClub-HernandoA_W_Ren/Story1): Visualizing loan data characteristics and give recommendation according the current landscape of Lending Club Customer profiles
-		- [Airbnb Sydney - Neighbourhood comparison](https://public.tableau.com/profile/hernando4174#!/vizhome/AirbnbSydney-Neighbourhoodcomparison/Dashboard2): Comparing AirBnb Sydney neighbourhood, scraping using AirBnB API.
+		- [Lending Club Recommendation Analysis](https://public.tableau.com/profile/hernando4174#!/vizhome/LendingClub-HernandoA_W_Renv3/Q1_LoanStatusDashboard_1): Visualizing loan data characteristics and give recommendation according the current landscape of Lending Club Customer profiles
+		- [Airbnb Sydney - Neighbourhood comparison](https://public.tableau.com/profile/hernando4174#!/vizhome/AirbnbSydney_2/Dashboard1): Comparing AirBnb Sydney neighbourhood, scraping using AirBnB API.
 
 - ### Micro Projects: 
 
 	- __Python__
-
 	- [EDA for Bay Area Bike Share Analysis](upload_include_link): Using exploratory analysis on the data
 
 	- __Alteryx__
