@@ -53,7 +53,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 - ### Micro Projects: 
 
 	- __Python__
-	- [EDA for Bay Area Bike Share Analysis](upload_include_link): Using exploratory analysis on the data
+	- [EDA for Bay Area Bike Share Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Data%20Analyst%20Nanodegree/Bay%20Area%20Bike%20Sharing%20Analysis/Bay_Area_Bike_Share_Analysis%20Hernando.ipynb): Using exploratory analysis on the data
 
 	- __Alteryx__
 	- [ML with Linear Regression](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P0-%20Predicting%20Diamond%20Prices/1.1-predicting-diamond-price.ipynb): Using Regression anlysis to predict the diamond prices
