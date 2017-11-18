@@ -13,7 +13,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 - ### Machine Learning
 
 	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-	- [Predicting Survivability of Titanic Passengers ](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Using Random Forest classifier,  Extra Trees classifier, AdaBoost classifer, Gradient Boosting classifer, Support Vector Machine to predict which passengers survived Titanic Accident.
+	- [Predicting Survivability of Titanic Passengers ](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Data%20Analyst%20Nanodegree/Predicting%20Survivability%20of%20Titanic%20Passenger/Udacity%20Titanic%20Project%20-%20Hernando%20Udacity%20Submission.ipynb): Using Random Forest classifier,  Extra Trees classifier, AdaBoost classifer, Gradient Boosting classifer, Support Vector Machine to predict which passengers survived Titanic Accident.
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
@@ -36,8 +36,8 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
-		- [Stock Market Analysis for Tech Stocks](https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+		- [Churn Analysis on Mobile Device Company ](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/General%20Assembly/churn_analysis_H.ipynb):  using simple Random Forest Model to select important features to conduct AB testing toward factors that causing customers to quit their mobile plans.
+		- [Developing Pokemon Database filters](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/General%20Assembly/P1-%20Pokemon%20Exploration/Pokemon%20Exploration.ipynb): very simple filtered database creation for "Pokemon Stay", a Pokemon Go version where the players doesnt' have to go anywhere :D
 		- [2016 US General Election Poll Data Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
 		- [911 Calls - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
 
@@ -53,10 +53,10 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 - ### Micro Projects: 
 
 	- __Python__
-	- [EDA for Bay Area Bike Share Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Data%20Analyst%20Nanodegree/Bay%20Area%20Bike%20Sharing%20Analysis/Bay_Area_Bike_Share_Analysis%20Hernando.ipynb): Using exploratory analysis on the data
+	- [EDA for Bay Area Bike Share Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Data%20Analyst%20Nanodegree/Bay%20Area%20Bike%20Sharing%20Analysis/Bay_Area_Bike_Share_Analysis%20Hernando.ipynb): Using exploratory analysis on the [Ford Gobike](https://www.fordgobike.com) bike sharing data in  San Francisco, Oakland, Berkeley, Emeryville or San Jose areas.
 
 	- __Alteryx__
-	- [ML with Linear Regression](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P0-%20Predicting%20Diamond%20Prices/1.1-predicting-diamond-price.ipynb): Using Regression anlysis to predict the diamond prices
+	- [ML with Linear Regression](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P0-%20Predicting%20Diamond%20Prices/1.1-predicting-diamond-price.ipynb): Using Regression anlysis to predict the diamond prices.
 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at hernando.andrianto@yahoo.com . 
