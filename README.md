@@ -13,7 +13,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 ## Contents
 
 - ### Machine Learning
-
+	- [Identify Fraud from Enron Email ](provide_link): Ucing combination of emails , financial data and poi labels to predict the people of interests in Enron fraud case using Gaussian Naive Bayes , DecisionTreeClassifier, Natural Language Processing tecnhiques.
 
 	- [Predicting Survivability of Titanic Passengers ](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Data%20Analyst%20Nanodegree/Predicting%20Survivability%20of%20Titanic%20Passenger/Udacity%20Titanic%20Project%20-%20Hernando%20Udacity%20Submission.ipynb): Using Random Forest classifier,  Extra Trees classifier, AdaBoost classifer, Gradient Boosting classifer, Support Vector Machine to predict which passengers survived Titanic Accident.
 	
