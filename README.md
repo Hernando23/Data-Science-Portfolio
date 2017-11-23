@@ -13,19 +13,20 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 ## Contents
 
 - ### Machine Learning
-	- [Identify Fraud from Enron Email ](provide_link): Ucing combination of emails , financial data and poi labels to predict the people of interests in Enron fraud case using Gaussian Naive Bayes , DecisionTreeClassifier, Natural Language Processing tecnhiques.
+	- [Identify Fraud from Enron Email ](https://github.com/Hernando23/Data-Science-Portfolio): Ucing combination of emails , financial data and poi labels to predict the people of interests in Enron fraud case using Gaussian Naive Bayes , DecisionTreeClassifier, Natural Language Processing tecnhiques.
 
 	- [Predicting Survivability of Titanic Passengers ](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Data%20Analyst%20Nanodegree/Predicting%20Survivability%20of%20Titanic%20Passenger/Udacity%20Titanic%20Project%20-%20Hernando%20Udacity%20Submission.ipynb): Using Random Forest classifier,  Extra Trees classifier, AdaBoost classifer, Gradient Boosting classifer, Support Vector Machine to predict which passengers survived Titanic Accident.
 	
 
 	- __Alteryx__
 		- [Retail Expansion Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P8-Final/7-combining-predictive-techniques.ipynb): Using k-mean clustering model, random forest ,decision tree, ada boost model, and ETS - ARIMA forcasting model to plan a significiant expansion to a grocery store chain. 
-		- [Mailing List Regression Model Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P1-%20Mailing%20List%20Regression%20Model%20Analysis/1.2-predicting-catalog-demand.ipynb): A home-goods manufacturer wants to predict expected profits from a catalog launch. using regression analysis to perform the feasibility of catalog launch
-		- [Store Expansion Selection Regression Model](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P2-%20Store%20Expansion%20Selection%20Regression%20Model/2.1-data-cleanup.ipynb): building a predictive model for A pet store chain to  select the location for its next store
-		- [Classification Model Credit Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P4-%20Classification%20Model%20Credit%20Project/4-predicting-default-risk.ipynb): Building classification model for a small bank which received an influx of loan applications. 
-		- [New Menu Restaurant Chain AB Testng](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P5%20-%20New%20Menu%20Restaurant%20AB%20Testing/5-AB-test-a-new-menu-launch.ipynb): Designing AB Testing to analyze the slaes of chain of coffee shops for its new menu launch. Giving recommendation on whether the chain should introduce the new menu. 
 		- [Predicting future sales using ETS & ARIMA Model](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P6-%20Predicting%20future%20sales%20using%20ETS%20%26%20ARIMA%20Model/6-forecast-video-game-sales.ipynb): use time series forecasting models to forecast monthly demand and provide a recommendation on how a video game producer planning production to match the demand.
 		- [PCA Clustering](insert_link): Creating a segmentation of countries based by the level of education, social , economic and health level using hundreds of different parameters using knn 
+		- [New Menu Restaurant Chain AB Testng](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P5%20-%20New%20Menu%20Restaurant%20AB%20Testing/5-AB-test-a-new-menu-launch.ipynb): Designing AB Testing to analyze the slaes of chain of coffee shops for its new menu launch. Giving recommendation on whether the chain should introduce the new menu. 
+		- [Store Expansion Selection Regression Model](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P2-%20Store%20Expansion%20Selection%20Regression%20Model/2.1-data-cleanup.ipynb): building a predictive model for A pet store chain to  select the location for its next store
+		- [Mailing List Regression Model Analysis](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P1-%20Mailing%20List%20Regression%20Model%20Analysis/1.2-predicting-catalog-demand.ipynb): A home-goods manufacturer wants to predict expected profits from a catalog launch. using regression analysis to perform the feasibility of catalog launch
+		- [Classification Model Credit Project](https://github.com/Hernando23/Data-Science-Portfolio/blob/master/Alteryx%20Projects%20/P4-%20Classification%20Model%20Credit%20Project/4-predicting-default-risk.ipynb): Building classification model for a small bank which received an influx of loan applications. 
+		
 
 		tools : K-centroid , Neural Gas, Decision Tree, Random Forest, ETS , ARIMA, Logistic Regression, Scoring, A-B Testing, Matched Pair Design Analysis
 
