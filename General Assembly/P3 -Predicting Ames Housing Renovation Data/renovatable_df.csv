@@ -1,0 +1,1451 @@
+	OverallCond	RoofMatl	Exterior1st	Exterior2nd	MasVnrType	ExterQual	ExterCond	Heating	HeatingQC	CentralAir	Electrical	KitchenQual	Functional	Fireplaces	GarageQual	GarageCond	Utilities	SalePrice
+0	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	208500
+1	8	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	181500
+2	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	223500
+3	5	CompShg	Wd Sdng	Wd Shng	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	140000
+4	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	250000
+5	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	143000
+6	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	307000
+7	6	CompShg	HdBoard	HdBoard	Stone	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	200000
+8	5	CompShg	BrkFace	Wd Shng	None	3	4	GasA	2	1	FuseF	3	2	2	1	4	0	129900
+9	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	2	2	4	0	118000
+10	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	129500
+11	5	CompShg	WdShing	Wd Shng	Stone	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	345000
+12	6	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	144000
+13	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	279500
+14	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	157000
+15	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	132000
+16	7	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	149000
+17	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	90000
+18	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	159000
+19	6	CompShg	BrkFace	Plywood	None	3	4	GasA	4	1	SBrkr	3	2	0	4	4	0	139000
+20	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	325300
+21	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseF	2	6	1	4	4	0	139400
+22	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	230000
+23	7	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	129900
+24	8	CompShg	Plywood	Plywood	None	3	2	GasA	0	1	SBrkr	2	6	1	4	4	0	154000
+25	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	256300
+26	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	2	6	0	4	4	0	134800
+27	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	306000
+28	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	207500
+29	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	1	0	SBrkr	1	6	0	1	4	0	68500
+31	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	149350
+32	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	179900
+33	5	CompShg	BrkFace	BrkFace	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	165500
+34	5	CompShg	MetalSd	MetalSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	277500
+35	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	309000
+36	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	145000
+37	6	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	153000
+38	7	CompShg	VinylSd	VinylSd	None	3	2	GasA	4	1	SBrkr	2	6	0	4	4	0	109000
+39	5	CompShg	AsbShng	Plywood	None	3	4	GasA	4	0	FuseP	1	6	0	5	5	0	82000
+40	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	160000
+41	6	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	SBrkr	3	6	2	4	4	0	170000
+42	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	2	6	0	4	2	0	144000
+43	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	130250
+44	6	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	141000
+45	5	CompShg	MetalSd	MetalSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	319900
+46	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	239686
+47	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	249700
+48	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	0	5	5	0	113000
+49	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	127000
+50	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	177000
+51	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	114500
+52	5	CompShg	Wd Sdng	Wd Sdng	None	1	4	GasA	4	0	SBrkr	3	6	0	4	4	0	110000
+53	5	WdShngl	WdShing	Wd Shng	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	385000
+54	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	2	1	4	4	0	130000
+55	5	CompShg	HdBoard	Plywood	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	180500
+56	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	172500
+57	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	196500
+58	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	2	6	1	4	4	0	438780
+59	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	124900
+60	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	158000
+61	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	0	SBrkr	1	6	0	4	4	0	101000
+62	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	202500
+63	6	CompShg	Stucco	Stucco	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	140000
+64	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	219500
+65	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	317000
+66	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	2	1	4	4	0	180000
+67	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	226000
+68	6	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	80000
+69	4	CompShg	BrkFace	AsbShng	None	2	4	GasW	4	1	SBrkr	3	6	1	4	4	0	225000
+70	6	CompShg	Plywood	Plywood	BrkFace	3	2	GasA	0	1	SBrkr	3	6	2	4	4	0	244000
+71	6	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	129500
+72	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	185000
+73	7	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	144900
+74	6	CompShg	VinylSd	VinylSd	None	2	2	GasA	2	0	SBrkr	3	6	0	4	4	0	107400
+75	5	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	91000
+76	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	135750
+77	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	2	0	4	4	0	127000
+78	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	0	SBrkr	3	6	0	5	5	0	136500
+79	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	110000
+80	6	CompShg	VinylSd	VinylSd	BrkFace	3	2	GasA	4	1	SBrkr	2	6	1	4	4	0	193500
+81	5	CompShg	VinylSd	VinylSd	BrkFace	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	153500
+82	5	CompShg	VinylSd	VinylSd	Stone	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	245000
+83	5	CompShg	MetalSd	MetalSd	BrkCmn	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	126500
+84	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	168500
+85	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	260000
+86	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	174000
+87	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	164500
+89	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	123600
+90	5	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	109900
+91	3	CompShg	HdBoard	HdBoard	BrkCmn	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	98600
+92	7	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	163500
+94	5	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	2	6	0	4	4	0	204750
+95	8	CompShg	VinylSd	VinylSd	BrkFace	0	2	GasA	2	1	SBrkr	3	6	1	4	4	0	185000
+96	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	214000
+97	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	FuseF	3	6	0	4	4	0	94750
+98	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	1	0	SBrkr	3	6	0	1	4	0	83000
+99	5	CompShg	Plywood	Plywood	None	3	4	GasA	1	1	SBrkr	3	6	0	5	5	0	128950
+100	7	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	2	1	SBrkr	2	6	2	4	4	0	205000
+101	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	4	1	SBrkr	2	6	1	4	4	0	178000
+102	5	CompShg	HdBoard	HdBoard	None	3	1	GasA	4	1	SBrkr	3	6	0	4	4	0	118964
+103	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	198900
+104	4	CompShg	Stucco	Stucco	BrkFace	3	1	GasA	0	1	FuseF	3	6	2	4	4	0	169500
+105	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	250000
+106	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	1	1	0	100000
+107	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	115000
+108	7	CompShg	CemntBd	CmentBd	None	3	4	GasW	4	0	FuseF	1	6	0	5	5	0	115000
+109	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	190000
+110	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	136900
+111	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	180000
+112	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	383970
+113	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	2	GasA	4	1	SBrkr	2	6	2	4	4	0	217000
+114	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	259500
+115	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	176000
+116	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	139000
+117	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	155000
+118	5	CompShg	Plywood	Plywood	None	3	4	GasA	2	1	SBrkr	2	6	2	4	4	0	320000
+119	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	163990
+120	5	Metal	Plywood	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	180000
+121	5	CompShg	AsbShng	AsbShng	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	100000
+122	7	CompShg	MetalSd	MetalSd	BrkFace	3	2	GasA	2	1	SBrkr	3	6	0	4	4	0	136000
+123	5	CompShg	Plywood	Plywood	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	153900
+124	5	CompShg	HdBoard	HdBoard	None	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	181000
+125	8	CompShg	Wd Sdng	Wd Sdng	None	3	1	GasA	2	0	SBrkr	3	6	0	5	5	0	84500
+126	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	128000
+127	7	CompShg	WdShing	Wd Sdng	None	3	2	GasA	0	1	SBrkr	3	6	1	5	5	0	87000
+128	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	155000
+129	7	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	FuseA	0	6	0	4	4	0	150000
+130	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	2	4	4	0	226000
+131	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	244000
+132	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	150750
+133	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	220000
+134	6	CompShg	Plywood	Plywood	None	3	4	GasA	2	1	SBrkr	3	2	1	4	4	0	180000
+135	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	174000
+136	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	143000
+137	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	171000
+138	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	230000
+139	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	231500
+140	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	1	5	5	0	115000
+141	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	260000
+142	4	CompShg	BrkFace	Wd Sdng	None	3	1	GasA	1	1	SBrkr	3	6	0	4	4	0	166000
+143	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	204000
+144	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	125000
+145	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	0	0	4	4	0	130000
+146	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	0	1	4	0	105000
+147	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	222500
+148	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	0	5	5	0	141000
+149	4	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	FuseA	3	6	0	1	4	0	115000
+150	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	122000
+151	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	372402
+152	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	190000
+153	7	CompShg	BrkFace	Plywood	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	235000
+154	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	0	1	1	0	125000
+155	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	Grav	1	0	FuseF	3	6	0	5	5	0	79000
+156	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseF	3	6	0	4	4	0	109500
+157	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	269500
+158	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	254900
+159	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	320000
+160	6	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	162500
+161	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	2	4	4	0	412500
+162	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	220000
+163	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	103200
+164	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	2	1	FuseA	2	6	0	4	4	0	152000
+165	7	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	2	1	SBrkr	3	6	0	5	5	0	127500
+166	5	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	0	1	FuseA	3	6	3	4	4	0	190000
+167	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	325624
+168	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	183500
+169	6	WdShake	Plywood	Plywood	BrkFace	2	4	GasA	4	1	SBrkr	3	6	1	4	4	0	228000
+170	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	128500
+171	5	CompShg	BrkFace	Plywood	Stone	3	4	GasA	1	1	SBrkr	3	6	2	4	4	0	215000
+172	7	CompShg	HdBoard	HdBoard	None	2	2	GasA	2	1	SBrkr	2	6	1	2	4	0	239000
+173	5	CompShg	WdShing	Wd Shng	BrkCmn	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	163000
+174	5	CompShg	VinylSd	Plywood	Stone	3	4	GasA	4	1	SBrkr	3	3	1	4	4	0	184000
+175	7	CompShg	WdShing	Wd Shng	None	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	243000
+176	5	CompShg	Plywood	Plywood	BrkFace	2	4	GasA	4	1	SBrkr	3	6	1	4	4	0	211000
+177	5	CompShg	MetalSd	MetalSd	None	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	172500
+178	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	501837
+179	6	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	4	1	SBrkr	3	6	0	1	4	0	100000
+180	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	177000
+181	6	CompShg	Stucco	Stucco	None	3	4	GasA	2	1	SBrkr	3	6	1	1	4	0	200100
+182	6	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	120000
+183	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	4	0	4	4	0	200000
+184	8	CompShg	AsbShng	Plywood	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	127000
+185	9	WdShngl	Wd Sdng	Wd Sdng	None	2	2	GasA	0	1	SBrkr	0	6	2	0	4	0	475000
+186	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	173000
+187	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	3	0	1	1	0	135000
+188	5	CompShg	Plywood	Plywood	Stone	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	153337
+189	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	286000
+190	8	CompShg	BrkFace	BrkFace	None	2	4	GasA	4	1	SBrkr	2	0	2	4	4	0	315000
+191	9	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	184000
+192	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	192000
+193	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	0	0	4	4	0	130000
+194	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	127000
+195	6	CompShg	Plywood	Brk Cmn	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	148500
+196	5	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	311872
+197	4	CompShg	Stucco	Stucco	None	2	2	GasA	2	1	SBrkr	2	6	1	4	4	0	235000
+198	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	104000
+199	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	274900
+200	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	140000
+201	6	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	171500
+202	6	CompShg	MetalSd	MetalSd	None	3	2	GasA	2	1	SBrkr	3	2	0	4	4	0	112000
+203	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	149000
+204	7	CompShg	AsbShng	AsbShng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	110000
+205	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	180500
+206	5	CompShg	HdBoard	HdBoard	None	3	2	GasA	4	1	SBrkr	3	3	1	4	4	0	143900
+207	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	141000
+208	5	CompShg	Plywood	Plywood	BrkFace	2	4	GasA	0	1	SBrkr	3	6	1	4	4	0	277000
+209	7	CompShg	HdBoard	HdBoard	Stone	3	4	GasA	0	1	SBrkr	3	6	0	4	2	0	145000
+210	6	CompShg	Stucco	Stucco	None	3	4	GasA	4	0	FuseA	3	6	0	5	5	0	98000
+211	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	186000
+212	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	252678
+213	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	156000
+214	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	161750
+215	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	2	2	1	4	4	0	134450
+216	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	210000
+217	4	CompShg	MetalSd	MetalSd	None	3	4	GasA	1	0	SBrkr	3	6	0	4	4	0	107000
+218	9	CompShg	VinylSd	VinylSd	BrkFace	2	2	GasA	0	1	SBrkr	2	6	2	4	4	0	311500
+219	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	167240
+220	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	204900
+221	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	200000
+222	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	179900
+223	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	97000
+224	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	386250
+225	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	112000
+226	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	290000
+227	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	106000
+228	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	125000
+229	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	192500
+230	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	148000
+231	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	403000
+232	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	94500
+233	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	128200
+234	5	CompShg	VinylSd	VinylSd	Zero	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	216500
+235	3	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	89500
+236	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	185500
+237	7	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	194500
+238	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	2	6	0	4	4	0	318000
+239	4	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	FuseA	3	6	1	4	4	0	113000
+240	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	262500
+241	9	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	SBrkr	2	6	0	5	5	0	110500
+242	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	0	FuseA	3	6	0	1	4	0	79000
+243	6	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	120000
+244	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	205000
+245	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	241500
+246	8	CompShg	AsbShng	AsbShng	None	3	1	GasA	2	0	FuseP	1	6	0	3	3	0	137000
+247	5	CompShg	Wd Sdng	BrkFace	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	140000
+248	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	180000
+249	7	CompShg	Wd Sdng	HdBoard	BrkCmn	2	4	GasA	2	1	SBrkr	2	6	2	4	4	0	277000
+250	2	CompShg	Wd Sdng	Plywood	None	3	3	GasA	0	1	SBrkr	1	4	0	5	5	0	76500
+251	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	235000
+252	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	173000
+253	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	2	2	0	4	4	0	158000
+254	6	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	145000
+255	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	230000
+256	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	207500
+257	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	220000
+258	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	231500
+259	5	CompShg	BrkFace	BrkFace	None	3	4	GasA	2	1	FuseA	3	6	0	4	4	0	97000
+260	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	176000
+261	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	276000
+262	7	CompShg	HdBoard	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	151000
+263	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	130000
+264	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	0	FuseP	3	6	0	4	4	0	73000
+265	6	CompShg	MetalSd	MetalSd	BrkFace	3	2	GasA	4	1	SBrkr	2	6	1	4	4	0	175500
+266	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	185000
+267	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	179500
+268	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	0	0	0	120500
+269	7	CompShg	HdBoard	HdBoard	BrkFace	3	2	GasA	4	1	SBrkr	3	6	1	4	2	0	148000
+270	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	266000
+271	7	Membran	Plywood	Plywood	None	3	4	GasA	0	1	SBrkr	3	4	2	4	4	0	241500
+272	7	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	290000
+273	6	CompShg	Wd Sdng	Wd Sdng	BrkCmn	3	4	GasA	2	1	SBrkr	3	2	1	4	4	0	139000
+274	7	CompShg	HdBoard	ImStucc	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	124500
+275	7	CompShg	Wd Sdng	Wd Sdng	None	2	2	GasW	2	0	SBrkr	0	6	0	4	4	0	205000
+276	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	201000
+277	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	141000
+278	5	CompShg	CemntBd	CmentBd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	415298
+279	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	192000
+280	6	CompShg	Plywood	Plywood	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	228500
+281	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	2	1	SBrkr	2	6	0	4	4	0	185000
+282	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	207500
+283	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	244600
+284	5	CompShg	Plywood	ImStucc	None	2	4	GasA	2	1	SBrkr	2	6	0	4	4	0	179200
+285	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	164700
+286	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	159000
+287	4	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	88000
+288	5	CompShg	MetalSd	MetalSd	BrkFace	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	122000
+289	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	153575
+290	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	2	4	0	233230
+291	6	CompShg	VinylSd	VinylSd	None	3	1	GasA	0	0	SBrkr	1	6	0	5	5	0	135900
+292	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	3	1	4	4	0	131000
+293	7	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	1	1	SBrkr	2	6	1	4	4	0	235000
+294	5	CompShg	HdBoard	HdBoard	Stone	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	167000
+295	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	142500
+296	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	152000
+297	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	239000
+298	6	CompShg	HdBoard	AsphShn	BrkFace	2	4	GasA	2	1	SBrkr	3	6	1	4	4	0	175000
+299	8	CompShg	HdBoard	HdBoard	None	3	2	GasA	0	1	SBrkr	2	6	1	4	4	0	158500
+300	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	157000
+301	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	267000
+302	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	205000
+303	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	149900
+304	9	CompShg	CemntBd	CmentBd	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	295000
+305	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	305900
+306	5	CompShg	HdBoard	Plywood	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	225000
+307	7	CompShg	MetalSd	MetalSd	None	3	1	GasA	4	1	FuseA	1	6	0	5	5	0	89500
+308	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	82500
+309	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	0	6	3	4	4	0	360000
+310	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	165600
+311	6	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	3	6	1	4	4	0	132000
+312	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	119900
+313	5	CompShg	BrkFace	BrkFace	None	3	4	GasW	4	1	SBrkr	3	6	2	4	4	0	375000
+314	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	0	6	1	1	4	0	178000
+315	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	188500
+316	7	CompShg	CemntBd	CmentBd	BrkFace	2	4	GasA	4	1	SBrkr	0	6	1	4	4	0	260000
+317	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	270000
+318	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	260000
+319	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	187500
+320	5	CompShg	VinylSd	VinylSd	Stone	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	342643
+321	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	354000
+322	5	CompShg	Plywood	Plywood	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	301000
+323	8	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	3	6	0	1	4	0	126175
+324	7	WdShake	Wd Sdng	Wd Sdng	BrkFace	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	242000
+325	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	3	0	FuseF	3	6	0	4	4	0	87000
+326	5	CompShg	BrkFace	BrkFace	None	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	324000
+327	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	145250
+328	6	CompShg	Wd Sdng	Wd Shng	None	3	4	GasA	2	0	FuseA	2	6	0	4	4	0	214500
+329	5	CompShg	Wd Sdng	Wd Shng	None	3	4	GasA	4	0	SBrkr	3	6	0	1	1	0	78000
+330	4	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	119000
+331	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	1	1	SBrkr	3	6	0	4	4	0	139000
+332	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	284000
+333	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	207000
+334	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	2	4	4	0	192000
+335	6	CompShg	Plywood	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	228950
+336	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	377426
+337	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	214000
+338	7	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	202500
+339	7	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	155000
+340	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	202900
+341	4	CompShg	Wd Sdng	AsbShng	None	1	1	GasA	2	1	SBrkr	3	6	0	4	4	0	82000
+342	4	CompShg	Stucco	Stucco	BrkFace	3	4	Wall	1	0	FuseA	3	6	0	4	4	0	87500
+343	5	CompShg	MetalSd	MetalSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	266000
+344	3	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	85000
+345	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	1	6	1	4	4	0	140200
+346	8	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	151500
+347	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	FuseA	3	6	2	4	4	0	157500
+348	5	CompShg	VinylSd	Wd Shng	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	154000
+349	5	CompShg	CemntBd	CmentBd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	437154
+350	5	CompShg	MetalSd	MetalSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	318061
+351	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	190000
+352	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	0	SBrkr	3	6	0	4	1	0	95000
+353	8	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	SBrkr	3	6	0	4	4	0	105900
+354	5	CompShg	Wd Sdng	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	140000
+355	5	CompShg	VinylSd	VinylSd	None	2	2	GasA	0	1	SBrkr	2	6	0	4	4	0	177500
+356	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	173000
+357	5	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	134000
+358	4	CompShg	Wd Sdng	ImStucc	BrkFace	3	4	GasA	0	1	FuseF	2	3	0	4	4	0	130000
+359	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	280000
+360	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	156000
+361	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	145000
+362	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	198500
+363	8	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	118000
+364	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	190000
+365	7	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	FuseA	3	6	0	4	1	0	147000
+366	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	2	1	SBrkr	3	6	2	4	4	0	159000
+367	5	Tar&Grv	Plywood	Plywood	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	165000
+368	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	132000
+369	7	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	0	1	SBrkr	2	6	1	4	4	0	162000
+370	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	172400
+371	4	CompShg	WdShing	Plywood	None	3	4	GasA	4	1	SBrkr	3	3	1	4	4	0	134432
+372	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	125000
+373	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	3	0	4	4	0	123000
+374	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	219500
+375	1	CompShg	Wd Sdng	Wd Sdng	None	1	1	GasA	2	0	FuseA	1	0	0	5	5	0	61000
+376	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	3	6	0	4	4	0	148000
+377	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	340000
+378	2	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	394432
+379	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	179000
+380	6	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	127000
+381	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	187750
+382	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	213500
+383	3	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	FuseA	3	6	0	1	1	0	76000
+384	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	240000
+385	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	192000
+386	3	CompShg	Wd Sdng	VinylSd	None	3	1	GasA	4	1	SBrkr	3	6	0	5	5	0	81000
+387	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	125000
+388	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	191000
+389	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	426000
+390	8	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	119000
+391	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	215000
+392	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	106500
+393	5	CompShg	WdShing	Wd Shng	None	3	4	GasA	4	1	FuseA	3	6	2	5	5	0	100000
+394	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	FuseA	3	6	0	4	4	0	109000
+395	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	129000
+396	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	123000
+397	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	169500
+398	2	CompShg	MetalSd	MetalSd	None	3	1	GasA	2	1	Mix	3	1	0	3	3	0	67000
+399	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	241000
+400	5	CompShg	BrkFace	BrkFace	None	2	4	GasA	0	1	SBrkr	0	6	2	4	4	0	245500
+401	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	164990
+402	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	108000
+403	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	258000
+404	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	168000
+405	4	CompShg	Plywood	Plywood	None	3	4	GasA	0	1	SBrkr	3	2	1	4	4	0	150000
+406	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	FuseA	3	1	0	4	4	0	115000
+407	7	CompShg	Wd Sdng	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	177000
+408	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	280000
+409	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	339750
+410	3	CompShg	BrkComm	Brk Cmn	None	3	1	GasA	4	1	FuseA	3	4	0	4	4	0	60000
+411	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	SBrkr	3	6	0	4	4	0	145000
+412	5	CompShg	MetalSd	MetalSd	Stone	0	4	GasA	0	1	SBrkr	2	6	1	4	4	0	222000
+413	6	CompShg	WdShing	Wd Shng	None	3	4	GasA	2	1	FuseA	3	6	1	4	4	0	115000
+414	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	228000
+415	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	181134
+416	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	149500
+417	6	CompShg	Wd Sdng	Stucco	None	3	4	GasW	4	0	FuseA	3	6	1	4	4	0	239000
+418	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	1	0	FuseF	3	6	0	4	4	0	126000
+419	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	142000
+420	5	CompShg	VinylSd	VinylSd	BrkFace	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	206300
+421	7	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	215000
+422	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	113000
+423	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	315000
+424	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	2	1	FuseA	3	6	1	4	4	0	139000
+425	8	CompShg	HdBoard	HdBoard	None	3	2	GasA	2	1	SBrkr	3	6	2	4	4	0	135000
+426	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	275000
+427	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	109008
+428	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	195400
+429	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	175000
+430	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	85400
+431	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	0	5	5	0	79900
+432	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	3	2	0	4	4	0	122500
+433	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	181000
+434	7	CompShg	CemntBd	CmentBd	None	3	2	GasA	2	1	SBrkr	3	6	0	5	5	0	81000
+435	6	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	212000
+436	8	CompShg	Stucco	Stucco	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	116000
+437	7	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	2	1	SBrkr	3	6	0	4	4	0	119000
+438	6	CompShg	WdShing	Stucco	None	3	4	GasA	4	0	SBrkr	2	6	1	2	4	0	90350
+439	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	110000
+440	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	555000
+441	4	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	4	0	FuseF	1	6	0	5	5	0	118000
+442	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	162900
+443	5	CompShg	WdShing	Wd Shng	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	172500
+444	5	CompShg	VinylSd	VinylSd	None	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	210000
+445	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	1	1	SBrkr	3	6	1	4	4	0	127500
+446	6	CompShg	BrkFace	Plywood	None	2	4	GasA	0	1	SBrkr	2	4	1	4	4	0	190000
+447	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	199900
+448	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	119500
+449	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	120000
+450	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseA	2	6	0	1	1	0	110000
+451	5	WdShngl	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	2	6	2	4	4	0	280000
+452	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	3	6	0	4	4	0	204000
+453	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	210000
+454	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	188000
+455	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	1	1	SBrkr	3	6	1	4	4	0	175500
+456	5	CompShg	AsbShng	AsbShng	None	3	4	GasA	1	0	SBrkr	3	6	0	1	1	0	98000
+457	6	Tar&Grv	Plywood	Plywood	None	3	4	GasA	0	1	SBrkr	2	2	2	4	4	0	256000
+458	7	CompShg	Stucco	Wd Shng	None	3	2	GasA	1	1	SBrkr	2	6	1	4	4	0	161000
+459	4	CompShg	MetalSd	MetalSd	BrkCmn	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	110000
+460	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	3	6	0	4	4	0	263435
+461	9	CompShg	Wd Sdng	Wd Sdng	None	2	2	GasA	0	1	SBrkr	2	6	0	4	4	0	155000
+462	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	62383
+463	7	CompShg	Stucco	Stucco	None	3	4	GasA	1	1	FuseA	3	6	1	4	4	0	188700
+464	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	124000
+465	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	178740
+466	5	Tar&Grv	Plywood	Plywood	None	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	167000
+467	7	CompShg	MetalSd	MetalSd	Stone	3	4	GasA	0	1	SBrkr	2	6	2	4	4	0	146500
+468	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	250000
+469	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	187000
+470	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	4	1	SBrkr	2	6	0	4	4	0	212000
+471	6	WdShake	WdShing	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	190000
+472	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	148000
+473	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	440000
+474	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	0	6	0	4	4	0	251000
+475	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	132500
+476	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	208900
+477	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	380000
+478	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	297000
+479	7	CompShg	Stucco	Stucco	BrkCmn	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	89471
+480	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	326000
+481	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	374000
+482	8	CompShg	Stucco	Stucco	None	2	4	GasA	0	1	SBrkr	0	3	1	1	1	0	155000
+483	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	164000
+484	7	CompShg	HdBoard	Plywood	None	3	2	GasA	2	1	SBrkr	2	6	0	4	4	0	132500
+485	7	CompShg	MetalSd	MetalSd	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	147000
+486	7	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	156000
+487	6	CompShg	Plywood	Plywood	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	175000
+488	4	CompShg	Wd Sdng	Wd Sdng	None	3	1	GasA	4	0	FuseA	3	4	1	4	1	0	160000
+489	8	CompShg	CemntBd	CmentBd	None	3	2	GasA	4	1	SBrkr	2	6	0	4	4	0	86000
+490	6	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	115000
+491	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	1	6	2	4	4	0	133000
+492	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	2	1	SBrkr	3	6	0	4	4	0	172785
+493	6	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	1	4	4	0	155000
+494	8	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	FuseA	3	6	0	4	4	0	91300
+496	5	CompShg	BrkFace	BrkFace	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	430000
+497	6	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	184000
+498	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	130000
+499	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	1	1	SBrkr	3	6	0	4	4	0	120000
+500	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	113000
+501	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	2	1	SBrkr	2	6	0	4	4	0	226700
+502	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	1	1	0	140000
+503	8	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	289000
+504	5	CompShg	Plywood	Brk Cmn	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	147000
+505	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	124500
+506	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	215000
+507	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	208300
+508	9	CompShg	MetalSd	MetalSd	None	3	0	GasA	0	1	SBrkr	2	6	1	4	4	0	161000
+509	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	124500
+510	7	CompShg	Wd Sdng	Wd Sdng	BrkCmn	2	4	GasA	0	1	SBrkr	3	2	2	4	4	0	164900
+511	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	202665
+512	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	129900
+513	5	CompShg	VinylSd	VinylSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	134000
+514	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	Grav	1	0	SBrkr	3	6	0	3	3	0	96500
+515	5	CompShg	CemntBd	CmentBd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	402861
+516	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	158000
+517	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	265000
+518	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	211000
+519	9	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	234000
+520	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	0	FuseA	3	6	0	5	5	0	106250
+521	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	FuseA	3	6	2	4	4	0	150000
+522	7	CompShg	CemntBd	CmentBd	None	3	2	GasA	0	1	SBrkr	3	6	2	4	4	0	159000
+523	5	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	184750
+524	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	315750
+525	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	176000
+526	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	132000
+527	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	446261
+528	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	86000
+529	3	CompShg	Wd Sdng	Stone	Zero	2	4	GasA	4	1	SBrkr	3	0	2	4	4	0	200624
+530	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	175000
+531	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	4	1	0	128000
+532	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	4	1	4	4	0	107500
+533	3	CompShg	VinylSd	VinylSd	None	1	1	GasA	1	0	FuseF	1	6	0	5	5	0	39300
+534	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	178000
+535	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	107500
+536	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	188000
+537	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	111250
+538	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	158000
+539	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	272000
+540	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	315000
+541	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	248000
+542	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	0	1	4	4	0	213250
+543	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	133000
+544	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	179665
+545	5	CompShg	HdBoard	HdBoard	BrkFace	2	2	GasA	2	1	SBrkr	2	6	0	4	4	0	229000
+546	7	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	6	1	4	4	0	210000
+547	7	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	129500
+548	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	125000
+549	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	263000
+550	6	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	140000
+551	6	CompShg	BrkFace	BrkFace	None	3	4	GasA	2	1	FuseA	3	6	0	4	4	0	112500
+552	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	255500
+553	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	108000
+554	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	284000
+555	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	FuseA	3	6	1	4	4	0	113000
+556	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	1	4	4	0	141000
+558	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	175000
+559	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	234000
+560	6	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	4	1	4	4	0	121500
+561	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	170000
+562	6	CompShg	WdShing	Wd Shng	None	3	4	GasA	0	1	SBrkr	3	6	1	5	5	0	108000
+563	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	185000
+564	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	268000
+565	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	FuseF	1	6	0	4	4	0	128000
+566	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	325000
+567	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	214000
+568	8	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	0	1	SBrkr	2	3	1	2	4	0	316600
+569	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	135960
+570	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	142600
+571	6	CompShg	WdShing	Wd Shng	BrkFace	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	120000
+572	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	224500
+573	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	170000
+574	7	CompShg	MetalSd	AsphShn	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	139000
+575	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	118500
+576	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	145000
+577	6	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	164500
+578	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	146000
+579	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	0	0	FuseF	3	6	0	1	4	0	131500
+580	6	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	2	6	2	4	4	0	181900
+581	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	253293
+582	5	CompShg	HdBoard	HdBoard	BrkFace	3	2	GasA	4	1	SBrkr	3	6	0	5	5	0	118500
+583	9	CompShg	Wd Sdng	Wd Sdng	None	0	0	GasA	2	1	SBrkr	2	6	1	2	4	0	325000
+584	7	CompShg	AsbShng	AsbShng	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	133000
+585	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	369900
+586	7	CompShg	Stucco	Wd Shng	None	3	2	GasA	0	1	SBrkr	1	6	0	4	4	0	130000
+587	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	137000
+588	8	Tar&Grv	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	0	6	2	4	4	0	143000
+589	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	79500
+590	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	185900
+591	5	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	451950
+592	8	CompShg	HdBoard	HdBoard	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	138000
+593	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	140000
+594	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	110000
+595	5	CompShg	VinylSd	Other	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	319000
+596	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	0	FuseA	3	6	0	4	1	0	114504
+597	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	194201
+598	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	217500
+599	6	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	151000
+600	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	275000
+601	6	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	4	1	SBrkr	2	6	1	4	4	0	141000
+602	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	220000
+603	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	151000
+604	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	221000
+605	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	3	4	4	0	205000
+606	5	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	SBrkr	2	6	0	4	4	0	152000
+607	8	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	0	6	0	4	4	0	225000
+608	6	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	359100
+609	5	CompShg	VinylSd	VinylSd	BrkCmn	3	1	GasA	2	1	SBrkr	3	6	0	4	4	0	118500
+610	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	2	4	4	0	313000
+611	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	148000
+612	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	261500
+613	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	147000
+614	6	CompShg	CemntBd	CmentBd	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	75500
+615	7	CompShg	MetalSd	MetalSd	BrkFace	3	2	GasA	0	1	SBrkr	2	6	0	4	4	0	137500
+616	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	183200
+617	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	105500
+618	5	CompShg	CemntBd	CmentBd	BrkFace	0	4	GasA	0	1	SBrkr	2	6	1	4	4	0	314813
+619	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	305000
+620	3	CompShg	Stucco	Stucco	None	3	4	GasA	4	0	FuseF	3	6	0	5	5	0	67000
+621	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	240000
+622	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	135000
+623	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	168500
+624	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	3	1	4	4	0	165150
+625	6	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	160000
+626	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	2	1	4	4	0	139900
+627	6	CompShg	AsbShng	AsbShng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	153000
+628	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	1	6	2	4	4	0	135000
+629	5	WdShngl	Plywood	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	168500
+630	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	FuseA	0	6	0	1	3	0	124000
+631	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	209500
+632	5	CompShg	Plywood	Plywood	BrkFace	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	82500
+633	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	139400
+634	5	CompShg	Plywood	Plywood	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	144000
+635	7	CompShg	VinylSd	VinylSd	None	1	4	GasA	0	1	FuseA	1	6	0	5	5	0	200000
+636	3	CompShg	AsbShng	AsbShng	None	1	1	Grav	1	0	FuseA	1	0	1	5	5	0	60000
+637	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	2	6	0	4	4	0	93000
+638	7	CompShg	MetalSd	Wd Sdng	None	3	4	GasA	2	1	FuseA	3	6	0	5	5	0	85000
+639	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	264561
+640	5	CompShg	MetalSd	MetalSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	274000
+641	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	226000
+642	7	CompShg	Plywood	Wd Sdng	None	2	4	GasA	2	1	SBrkr	0	6	3	4	4	0	345000
+643	5	CompShg	WdShing	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	3	2	0	4	4	0	152000
+644	5	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	370878
+645	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	143250
+646	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	2	0	4	4	0	98300
+647	5	CompShg	Wd Sdng	Wd Sdng	Stone	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	155000
+648	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	155000
+649	6	CompShg	CemntBd	CmentBd	None	3	4	GasA	2	1	SBrkr	3	6	0	5	5	0	84500
+650	6	CompShg	CemntBd	CmentBd	Zero	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	205950
+651	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	1	1	3	0	108000
+652	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	191000
+653	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	135000
+654	6	CompShg	MetalSd	MetalSd	BrkFace	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	350000
+655	5	CompShg	HdBoard	ImStucc	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	88000
+656	7	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	145500
+657	6	CompShg	Stucco	Wd Shng	None	3	1	GasA	4	1	SBrkr	3	6	1	4	4	0	149000
+658	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	97500
+659	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	167000
+660	7	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	197900
+661	7	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	402000
+662	3	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	2	1	SBrkr	3	1	2	4	4	0	110000
+663	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	137500
+664	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	423000
+665	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	230500
+666	5	Tar&Grv	Plywood	Plywood	BrkCmn	3	2	GasA	4	1	SBrkr	3	5	1	4	4	0	129000
+667	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	193500
+668	6	CompShg	CemntBd	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	3	1	4	4	0	168000
+669	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	1	6	1	4	1	0	137500
+670	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	173500
+671	6	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	4	0	SBrkr	3	6	0	4	4	0	103600
+672	6	CompShg	Plywood	Plywood	None	2	4	GasA	4	1	SBrkr	3	6	1	4	4	0	165000
+673	7	CompShg	CemntBd	CmentBd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	2	4	4	0	257500
+674	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	140000
+675	6	CompShg	Plywood	Brk Cmn	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	148500
+676	2	CompShg	AsbShng	Stucco	None	3	4	GasW	1	0	SBrkr	3	3	0	1	1	0	87000
+677	8	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	1	1	0	109500
+678	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	372500
+679	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	128500
+680	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	143000
+681	5	CompShg	VinylSd	Stucco	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	159434
+682	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	173000
+683	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	285000
+684	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	2	1	SBrkr	3	6	0	4	4	0	221000
+685	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	2	1	SBrkr	2	2	1	4	4	0	207500
+686	6	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	227875
+687	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	148800
+688	6	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	392000
+689	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	194700
+690	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	141000
+691	6	WdShngl	HdBoard	HdBoard	BrkFace	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	755000
+692	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	335000
+693	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	108480
+694	6	CompShg	Wd Sdng	Wd Sdng	None	3	1	GasA	4	1	SBrkr	3	6	0	4	4	0	141500
+695	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	176000
+696	7	CompShg	Wd Sdng	Wd Shng	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	89000
+697	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	1	1	FuseA	3	6	0	4	4	0	123500
+698	8	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	3	6	1	4	4	0	138500
+699	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	196000
+700	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	312500
+701	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	140000
+702	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	361919
+703	9	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	2	1	SBrkr	2	6	1	4	4	0	140000
+704	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	213000
+705	5	CompShg	VinylSd	Wd Shng	None	1	1	GasA	1	0	SBrkr	1	4	0	5	5	0	55000
+706	5	CompShg	Plywood	Plywood	Stone	3	4	GasA	4	1	SBrkr	2	6	2	4	4	0	302000
+707	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	254000
+708	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	179540
+709	7	CompShg	HdBoard	HdBoard	BrkCmn	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	109900
+710	6	CompShg	VinylSd	VinylSd	None	2	4	GasA	2	1	SBrkr	3	1	0	5	5	0	52000
+712	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	189000
+713	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasW	4	0	SBrkr	3	6	0	4	4	0	129000
+714	8	CompShg	HdBoard	Plywood	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	130500
+715	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	165000
+716	8	CompShg	Wd Sdng	VinylSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	159500
+717	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	157000
+718	5	CompShg	Wd Sdng	ImStucc	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	341000
+719	6	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	128500
+720	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	4	1	SBrkr	2	6	1	4	4	0	275000
+721	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	143000
+722	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	124500
+723	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	135000
+724	5	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	320000
+725	6	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	2	6	0	4	4	0	120500
+726	9	CompShg	Wd Sdng	Plywood	BrkFace	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	222000
+727	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	194500
+728	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	110000
+729	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	103000
+730	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	236500
+731	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	187500
+732	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	222500
+733	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	131400
+734	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	108000
+735	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasW	1	0	SBrkr	3	6	2	4	4	0	163000
+736	4	CompShg	Stucco	Stone	None	3	4	GasA	2	0	FuseF	3	6	0	4	4	0	93500
+737	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	239900
+738	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	179000
+739	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	190000
+740	7	CompShg	Wd Sdng	Wd Shng	None	3	2	GasA	0	1	SBrkr	3	6	0	4	2	0	132000
+741	8	CompShg	HdBoard	HdBoard	None	3	2	GasA	2	1	SBrkr	2	6	0	4	4	0	142000
+742	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	179000
+743	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	3	1	4	4	0	175000
+744	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	180000
+745	9	CompShg	VinylSd	VinylSd	BrkFace	0	2	GasA	0	1	SBrkr	2	6	2	4	4	0	299800
+746	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	236000
+747	7	CompShg	Stucco	Stucco	None	2	4	GasW	4	0	SBrkr	2	6	1	4	4	0	265979
+748	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	260400
+749	3	CompShg	WdShing	Wd Shng	None	3	4	Wall	4	0	FuseF	3	4	0	4	4	0	98000
+750	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	3	0	5	5	0	96500
+751	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	162000
+752	5	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	2	6	0	4	4	0	217000
+753	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	2	1	SBrkr	0	6	1	4	4	0	275500
+754	8	CompShg	Plywood	Plywood	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	156000
+755	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	172500
+756	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	212000
+757	5	CompShg	HdBoard	HdBoard	BrkCmn	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	158900
+758	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	179400
+759	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	290000
+760	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	0	0	0	127500
+761	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	1	2	0	4	4	0	100000
+762	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	215200
+763	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	337000
+764	5	CompShg	BrkFace	BrkFace	None	2	2	GasA	0	1	SBrkr	0	6	1	4	4	0	270000
+765	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	264132
+766	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	196500
+767	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	4	0	4	4	0	160000
+768	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	216837
+769	5	CompShg	CemntBd	Wd Shng	BrkFace	0	4	GasA	0	1	SBrkr	0	4	1	4	4	0	538000
+770	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	134900
+771	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseF	3	6	0	4	4	0	102000
+772	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	107000
+773	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	114500
+774	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	395000
+775	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	162000
+776	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	221500
+777	5	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	142500
+778	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	144000
+779	5	CompShg	Plywood	ImStucc	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	135000
+780	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	176000
+781	5	CompShg	VinylSd	VinylSd	None	2	2	GasA	0	1	SBrkr	2	6	0	4	4	0	175900
+782	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	187100
+783	6	CompShg	Plywood	Plywood	BrkFace	3	2	GasA	0	1	SBrkr	2	6	1	4	4	0	165500
+784	6	CompShg	Wd Sdng	Wd Shng	None	3	4	GasA	0	1	SBrkr	3	6	1	5	5	0	128000
+785	5	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	161500
+786	6	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	139000
+787	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	233000
+788	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	1	4	0	107900
+789	8	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	187500
+790	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	160200
+791	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	146800
+792	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	3	6	1	4	4	0	269790
+793	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	225000
+794	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	194500
+795	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	171000
+796	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	143500
+797	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	110000
+798	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	485000
+799	7	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	2	6	2	4	4	0	175000
+800	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	200000
+801	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	109900
+802	5	CompShg	WdShing	Wd Shng	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	189000
+803	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	582933
+804	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	2	0	4	4	0	118000
+805	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	0	4	4	0	227680
+806	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	135500
+807	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	223500
+808	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	159950
+809	5	CompShg	AsbShng	AsbShng	None	3	4	GasA	4	0	FuseA	3	6	0	1	3	0	106000
+810	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	1	1	SBrkr	2	6	1	4	4	0	181000
+811	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	144500
+813	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	157900
+814	7	CompShg	Stucco	Stucco	None	3	4	GasW	2	1	SBrkr	1	6	0	4	4	0	116000
+815	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	224900
+816	6	CompShg	BrkFace	BrkFace	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	137000
+817	5	CompShg	CemntBd	CmentBd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	271000
+818	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	155000
+819	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	224000
+820	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	183000
+821	4	CompShg	MetalSd	MetalSd	None	1	4	GasA	4	0	SBrkr	3	3	0	4	4	0	93000
+822	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	225000
+823	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	139500
+824	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	232600
+825	5	CompShg	CemntBd	CmentBd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	385000
+826	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	2	6	0	5	5	0	109500
+827	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	189000
+828	5	Tar&Grv	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	3	0	4	4	0	185000
+829	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	147400
+830	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	FuseA	3	6	2	4	4	0	166000
+831	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	151000
+832	6	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	237000
+833	6	CompShg	HdBoard	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	167000
+834	6	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	139950
+835	7	CompShg	VinylSd	HdBoard	None	3	4	GasA	4	1	SBrkr	2	3	0	4	4	0	128000
+836	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	3	0	4	4	0	153500
+837	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	100000
+838	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	144000
+839	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	130500
+840	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	SBrkr	1	6	0	4	4	0	140000
+841	8	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	2	6	1	2	4	0	157500
+842	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	2	2	0	174900
+843	4	CompShg	BrkFace	BrkFace	None	3	4	GasA	0	0	SBrkr	3	6	0	5	5	0	141000
+844	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	153900
+845	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	3	2	4	4	0	171000
+846	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	213000
+847	6	CompShg	HdBoard	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	133500
+848	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	1	1	4	0	240000
+849	7	CompShg	Plywood	Plywood	BrkFace	2	2	GasA	0	1	SBrkr	3	6	1	4	4	0	187000
+850	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	131500
+851	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	215000
+852	5	CompShg	MetalSd	MetalSd	None	3	2	GasA	2	1	SBrkr	3	6	2	4	4	0	164000
+853	6	CompShg	MetalSd	HdBoard	BrkFace	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	158000
+854	4	CompShg	Wd Sdng	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	170000
+855	8	CompShg	HdBoard	HdBoard	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	127000
+856	6	CompShg	Plywood	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	1	0	147000
+857	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	174000
+858	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	152000
+859	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	250000
+860	8	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	189950
+861	4	CompShg	Plywood	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	131500
+862	5	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	152000
+863	5	CompShg	BrkFace	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	132500
+864	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	250580
+865	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	148500
+866	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	248900
+867	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	1	6	0	4	4	0	129000
+868	6	CompShg	Plywood	Plywood	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	169000
+869	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	236000
+870	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	0	SBrkr	3	6	0	4	4	0	109500
+871	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	200500
+872	7	CompShg	WdShing	Wd Shng	None	2	4	GasA	2	1	SBrkr	2	6	0	4	4	0	116000
+873	7	CompShg	HdBoard	HdBoard	None	2	4	GasA	2	1	SBrkr	3	6	1	4	4	0	133000
+874	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	66500
+875	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	303477
+876	5	CompShg	HdBoard	Plywood	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	132250
+877	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	350000
+878	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	2	3	0	4	4	0	148000
+879	8	CompShg	VinylSd	VinylSd	BrkFace	2	2	GasA	0	1	SBrkr	3	6	0	4	4	0	136500
+880	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	157000
+881	5	CompShg	HdBoard	HdBoard	BrkFace	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	187500
+882	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	178000
+883	5	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	4	0	SBrkr	3	6	0	4	2	0	118500
+884	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	100000
+885	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	328900
+886	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	145000
+887	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	135500
+888	6	Tar&Grv	Wd Sdng	Wd Sdng	None	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	268000
+889	4	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	149500
+890	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	3	6	1	4	4	0	122900
+891	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	172500
+892	8	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	154500
+893	5	CompShg	Wd Sdng	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	165000
+894	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	118858
+895	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	140000
+896	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	0	SBrkr	3	6	0	4	4	0	106500
+897	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	142953
+898	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	611657
+899	7	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	135000
+900	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	110000
+901	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	153000
+902	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	180000
+903	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	240000
+904	6	CompShg	HdBoard	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	125500
+905	5	CompShg	HdBoard	HdBoard	Stone	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	128000
+906	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	255000
+907	7	CompShg	BrkFace	BrkFace	None	2	4	GasA	2	1	SBrkr	2	6	1	1	4	0	250000
+908	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	131000
+909	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	174000
+910	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	154300
+911	7	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	2	6	0	4	4	0	143500
+912	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	0	SBrkr	3	2	0	4	4	0	88000
+913	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	0	FuseA	3	6	0	4	4	0	145000
+914	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	173733
+915	5	CompShg	CemntBd	CmentBd	BrkFace	3	4	GasA	1	1	SBrkr	3	6	0	4	4	0	75000
+917	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	135000
+918	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	238000
+919	8	CompShg	MetalSd	MetalSd	None	0	4	GasA	0	1	SBrkr	3	2	1	4	4	0	176500
+920	5	CompShg	HdBoard	HdBoard	BrkFace	2	2	GasA	0	1	SBrkr	2	6	0	4	4	0	201000
+921	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	0	5	5	0	145900
+922	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	169990
+923	5	CompShg	Plywood	Plywood	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	193000
+924	6	CompShg	Plywood	Plywood	BrkFace	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	207500
+925	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	0	6	0	4	4	0	175000
+926	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	285000
+927	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	176000
+928	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	236500
+929	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	222000
+930	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	201000
+931	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	117500
+932	5	CompShg	VinylSd	ImStucc	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	320000
+933	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	190000
+934	7	Tar&Grv	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	242000
+935	5	CompShg	MetalSd	MetalSd	BrkFace	3	2	GasA	2	1	SBrkr	3	6	0	4	4	0	79900
+936	5	CompShg	VinylSd	VinylSd	Zero	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	184900
+937	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	253000
+938	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	239799
+939	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	3	6	2	4	4	0	244400
+940	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	150900
+941	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	214000
+942	3	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	150000
+943	4	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	143000
+944	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	FuseA	2	6	1	4	4	1	137500
+945	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	124900
+946	6	CompShg	HdBoard	HdBoard	BrkFace	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	143000
+947	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	270000
+948	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	192500
+949	7	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	197500
+950	8	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	129000
+951	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	119900
+952	8	CompShg	WdShing	HdBoard	None	3	2	GasA	2	1	SBrkr	3	6	0	4	4	0	133900
+953	4	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	3	3	1	4	4	0	172000
+954	5	Tar&Grv	WdShing	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	127500
+955	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	0	FuseF	3	6	0	4	4	0	145000
+956	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	124000
+957	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	132000
+958	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	185000
+959	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	155000
+960	7	CompShg	Wd Sdng	Plywood	None	3	2	GasA	2	1	SBrkr	3	6	0	5	5	0	116500
+961	7	CompShg	HdBoard	HdBoard	BrkFace	3	2	GasA	4	1	SBrkr	3	6	1	4	4	0	272000
+962	6	CompShg	Plywood	Brk Cmn	None	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	155000
+963	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	0	6	0	4	4	0	239000
+964	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	214900
+965	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	178900
+966	7	CompShg	MetalSd	MetalSd	None	2	2	GasA	0	1	SBrkr	3	3	2	4	4	0	160000
+967	7	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	135000
+968	6	CompShg	VinylSd	VinylSd	None	3	4	Grav	1	0	SBrkr	3	6	0	5	5	0	37900
+969	5	CompShg	HdBoard	HdBoard	BrkFace	3	1	GasA	4	1	SBrkr	3	6	0	4	4	0	140000
+970	4	CompShg	AsbShng	AsbShng	None	3	4	GasA	4	0	FuseA	3	6	0	5	5	0	135000
+971	5	CompShg	VinylSd	Wd Shng	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	173000
+972	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	99500
+973	5	CompShg	CemntBd	CmentBd	Zero	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	182000
+974	8	CompShg	HdBoard	HdBoard	None	3	2	GasA	4	0	SBrkr	2	6	0	4	4	0	167500
+975	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	165000
+976	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	1	6	0	5	5	0	85500
+977	5	CompShg	VinylSd	VinylSd	Zero	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	199900
+978	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	110000
+979	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	139000
+980	9	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	2	1	SBrkr	0	6	0	4	4	0	178400
+981	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	336000
+982	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	159895
+983	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	255900
+984	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	2	6	0	4	4	0	126000
+985	5	CompShg	MetalSd	MetalSd	None	3	4	GasW	4	0	SBrkr	3	6	0	4	4	0	125000
+986	8	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	SBrkr	2	6	0	1	4	0	117000
+987	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	395192
+988	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	2	6	1	4	4	0	195000
+989	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	197000
+990	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	348000
+991	9	CompShg	Wd Sdng	Wd Sdng	None	2	2	GasA	2	1	SBrkr	2	6	1	4	4	0	168000
+992	8	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	187000
+993	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	173900
+994	5	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	337500
+995	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	121600
+996	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	136500
+997	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	185000
+998	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	1	0	SBrkr	3	6	1	4	1	0	91000
+999	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	206000
+1000	3	Tar&Grv	BrkComm	Brk Cmn	None	3	4	GasW	1	0	FuseF	1	2	0	4	1	0	82000
+1001	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseA	0	6	0	1	4	0	86000
+1002	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	232000
+1003	6	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	1	1	SBrkr	3	6	0	4	4	0	136905
+1004	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	181000
+1005	8	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	4	1	SBrkr	3	6	0	4	4	0	149900
+1006	3	CompShg	Plywood	Plywood	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	163500
+1007	4	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	88000
+1008	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	240000
+1009	5	CompShg	Wd Sdng	Wd Sdng	None	3	1	GasA	0	1	SBrkr	3	6	0	5	5	0	102000
+1010	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	135000
+1011	5	CompShg	AsphShn	AsphShn	None	3	4	GasA	4	0	SBrkr	3	6	0	5	5	0	100000
+1012	7	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	4	1	SBrkr	2	6	2	4	4	0	165000
+1013	4	CompShg	MetalSd	Stucco	None	3	4	GasW	4	0	SBrkr	3	1	0	4	4	0	85000
+1014	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	119200
+1015	6	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	227000
+1016	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	203000
+1017	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	187500
+1018	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	160000
+1019	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	213490
+1020	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	176000
+1021	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	194000
+1022	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	FuseA	3	6	0	1	1	0	87000
+1023	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	191000
+1024	6	WdShake	Stone	HdBoard	None	2	4	GasA	4	1	SBrkr	2	6	1	4	4	0	287000
+1025	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	112500
+1026	5	CompShg	MetalSd	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	167500
+1027	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	293077
+1028	5	CompShg	WdShing	Wd Shng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	105000
+1029	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	118000
+1030	8	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	5	5	0	160000
+1031	3	CompShg	Wd Sdng	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	197000
+1032	7	CompShg	MetalSd	MetalSd	None	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	310000
+1033	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	230000
+1034	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	1	6	1	1	4	0	119750
+1035	3	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	0	0	SBrkr	3	6	0	4	4	0	84000
+1036	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	315500
+1037	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	287000
+1038	6	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	1	5	5	0	97000
+1039	4	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	80000
+1040	4	CompShg	Wd Sdng	Wd Sdng	BrkCmn	3	4	GasA	0	1	SBrkr	3	0	1	4	4	0	155000
+1041	8	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	173000
+1042	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	196000
+1043	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	262280
+1044	5	WdShngl	BrkFace	BrkFace	None	2	4	GasA	4	1	SBrkr	2	6	1	4	4	0	278000
+1045	5	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	3	1	4	4	0	139600
+1046	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	556581
+1047	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	145000
+1048	4	CompShg	HdBoard	HdBoard	BrkFace	3	1	GasA	4	1	SBrkr	3	2	1	4	4	0	115000
+1049	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	84900
+1050	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	176485
+1051	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	200141
+1052	6	CompShg	VinylSd	VinylSd	BrkCmn	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	165000
+1053	6	CompShg	HdBoard	HdBoard	Stone	3	4	GasA	0	1	FuseA	3	3	1	4	4	0	144500
+1054	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	255000
+1055	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	180000
+1056	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	185850
+1057	6	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	248000
+1058	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	335000
+1059	7	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	1	0	220000
+1060	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	213500
+1062	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	SBrkr	3	3	0	4	4	0	90000
+1063	6	CompShg	MetalSd	MetalSd	None	3	2	GasA	2	1	SBrkr	2	6	1	4	4	0	110500
+1064	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	154000
+1065	5	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	328000
+1066	7	CompShg	VinylSd	VinylSd	None	2	4	GasA	2	1	SBrkr	3	6	1	4	4	0	178000
+1067	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	167900
+1068	4	CompShg	CemntBd	CmentBd	None	3	4	GasA	2	1	SBrkr	3	0	1	4	4	0	151400
+1069	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	2	6	0	4	4	0	135000
+1070	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	135000
+1071	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	154000
+1072	3	CompShg	MetalSd	MetalSd	None	3	4	GasA	1	1	FuseA	3	6	1	4	4	0	91500
+1073	6	CompShg	HdBoard	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	159500
+1074	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	194000
+1075	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	219500
+1076	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	2	2	1	4	4	0	170000
+1077	5	CompShg	VinylSd	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	138800
+1078	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	155900
+1079	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	126000
+1080	7	CompShg	VinylSd	VinylSd	BrkFace	2	2	GasA	0	1	SBrkr	2	6	0	4	4	0	145000
+1081	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	1	1	SBrkr	3	6	0	4	4	0	133000
+1082	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	192000
+1083	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	160000
+1084	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	187500
+1085	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	147000
+1086	5	CompShg	CemntBd	CmentBd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	83500
+1087	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	252000
+1088	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	0	0	4	4	0	137500
+1089	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	197000
+1090	4	CompShg	BrkFace	BrkFace	None	3	4	Wall	1	0	FuseA	3	6	0	4	4	0	92900
+1091	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	160000
+1092	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	1	1	SBrkr	3	6	1	4	4	0	136500
+1093	8	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	146000
+1094	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	129000
+1095	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	176432
+1096	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	2	6	0	5	5	0	127000
+1097	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	170000
+1098	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	128000
+1099	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	157000
+1100	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	FuseF	1	6	0	4	4	0	60000
+1101	5	CompShg	HdBoard	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	119500
+1102	7	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	135000
+1103	6	CompShg	BrkFace	BrkFace	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	159500
+1104	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	106000
+1105	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	325000
+1106	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	179900
+1107	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	274725
+1108	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	181000
+1109	5	CompShg	MetalSd	MetalSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	280000
+1110	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	188000
+1111	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	205000
+1112	7	CompShg	WdShing	Wd Shng	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	129900
+1113	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	134500
+1114	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	2	6	0	4	4	0	117000
+1115	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	318000
+1116	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	184100
+1117	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	130000
+1118	6	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	3	0	4	4	0	140000
+1119	5	CompShg	BrkFace	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	133700
+1120	5	CompShg	BrkFace	BrkFace	None	3	4	GasA	4	1	FuseA	3	6	1	4	4	0	118400
+1121	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	212900
+1122	3	CompShg	AsbShng	AsbShng	None	3	4	GasA	0	1	FuseA	3	6	0	4	4	0	112000
+1123	9	CompShg	VinylSd	VinylSd	None	3	0	GasA	0	1	SBrkr	3	6	0	5	5	0	118000
+1124	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	163900
+1125	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	1	6	1	1	1	0	115000
+1126	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	174000
+1127	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	259000
+1128	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	215000
+1129	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	140000
+1130	3	CompShg	WdShing	Plywood	None	3	4	GasA	4	1	SBrkr	2	3	2	4	4	0	135000
+1131	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	93500
+1132	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasW	4	1	SBrkr	1	6	0	1	4	0	117500
+1133	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	239500
+1134	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	169000
+1135	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	SBrkr	3	6	1	4	4	0	102000
+1136	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	119000
+1137	8	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	0	SBrkr	3	6	0	5	5	0	94000
+1138	5	CompShg	Plywood	ImStucc	None	3	4	GasA	4	1	SBrkr	2	6	2	4	4	0	196000
+1139	5	CompShg	Stucco	Stucco	None	3	1	GasA	4	1	SBrkr	3	0	1	4	4	0	144000
+1140	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	139000
+1141	7	CompShg	Plywood	Plywood	BrkFace	3	2	GasA	0	1	SBrkr	2	6	1	4	4	0	197500
+1142	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	424870
+1143	3	CompShg	Wd Sdng	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	80000
+1144	4	CompShg	MetalSd	MetalSd	None	3	1	Grav	1	0	FuseA	1	6	0	4	4	0	80000
+1145	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	149000
+1146	5	CompShg	Wd Sdng	Wd Shng	BrkFace	2	4	GasA	4	1	SBrkr	2	6	1	4	4	0	180000
+1147	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	1	6	1	4	4	0	174500
+1148	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	116900
+1149	9	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	143000
+1150	5	CompShg	BrkFace	BrkFace	None	3	4	GasA	0	1	FuseA	2	6	1	4	4	0	124000
+1151	4	CompShg	HdBoard	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	1	6	2	4	4	0	149900
+1152	7	CompShg	Stone	Stone	None	3	4	GasA	0	1	SBrkr	0	6	1	4	4	0	230000
+1153	8	CompShg	Wd Sdng	Wd Sdng	None	2	2	GasA	0	1	SBrkr	3	6	0	4	4	0	120500
+1154	6	CompShg	VinylSd	VinylSd	Stone	3	4	GasA	4	1	SBrkr	2	6	2	4	4	0	201800
+1155	8	CompShg	Plywood	Plywood	None	2	2	GasA	4	1	SBrkr	2	6	1	4	4	0	218000
+1156	8	CompShg	BrkFace	BrkFace	None	3	2	GasA	2	1	SBrkr	2	6	1	4	4	0	179900
+1157	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	230000
+1158	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	235128
+1159	6	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	4	1	SBrkr	2	6	1	2	4	0	185000
+1160	5	CompShg	Plywood	Brk Cmn	None	3	4	GasA	1	1	SBrkr	3	6	1	4	4	0	146000
+1161	7	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	224000
+1162	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	129000
+1163	4	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	1	4	0	108959
+1164	7	CompShg	Plywood	Plywood	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	194000
+1165	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	233170
+1166	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	245350
+1167	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	173000
+1168	7	CompShg	Stucco	Stucco	None	3	4	GasA	0	1	SBrkr	2	6	2	4	4	0	235000
+1169	5	CompShg	HdBoard	HdBoard	BrkFace	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	625000
+1170	6	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	171000
+1171	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	163000
+1172	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	171900
+1173	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	0	0	1	5	5	0	200500
+1174	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	239000
+1175	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	285000
+1176	5	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	119500
+1177	8	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	115000
+1178	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	1	1	4	0	154900
+1179	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	3	3	1	5	5	0	93000
+1180	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	250000
+1181	5	CompShg	CemntBd	CmentBd	Stone	0	4	GasA	0	1	SBrkr	2	6	1	4	4	0	392500
+1182	5	CompShg	Wd Sdng	ImStucc	None	2	4	GasA	0	1	SBrkr	0	6	2	4	4	0	745000
+1183	6	CompShg	Stucco	Stucco	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	120000
+1184	4	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	2	4	4	0	186700
+1185	7	CompShg	AsbShng	AsbShng	None	3	2	GasA	2	1	SBrkr	3	6	0	4	4	0	104900
+1186	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	1	1	0	95000
+1187	5	CompShg	ImStucc	ImStucc	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	262000
+1188	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	195000
+1189	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	189000
+1190	4	CompShg	MetalSd	MetalSd	Stone	3	2	GasA	0	1	SBrkr	3	6	1	4	4	0	168000
+1191	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	174000
+1192	8	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	2	6	0	4	1	0	125000
+1193	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	165000
+1194	7	CompShg	HdBoard	HdBoard	Stone	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	158000
+1195	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	176000
+1196	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	219210
+1197	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	144000
+1198	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	178000
+1199	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	148000
+1200	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	116050
+1201	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	197900
+1202	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	117000
+1203	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	213000
+1204	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	153500
+1205	7	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	2	1	SBrkr	2	6	1	4	4	0	271900
+1206	4	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	107000
+1207	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	200000
+1208	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	4	1	SBrkr	3	6	0	4	4	0	140000
+1209	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	290000
+1210	5	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	189000
+1211	7	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	2	1	SBrkr	3	6	0	4	4	0	164000
+1212	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	113000
+1213	9	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	145000
+1214	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	134500
+1215	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	125000
+1216	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	112000
+1217	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	229456
+1218	5	CompShg	AsbShng	AsbShng	None	3	4	GasA	2	0	SBrkr	3	6	0	5	5	0	80500
+1219	5	CompShg	CemntBd	CmentBd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	91500
+1220	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	115000
+1221	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	134000
+1222	6	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	143000
+1223	3	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	0	FuseA	3	4	0	4	4	0	137900
+1224	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	184000
+1225	8	CompShg	VinylSd	VinylSd	BrkFace	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	145000
+1226	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	214000
+1227	8	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	147000
+1228	5	CompShg	MetalSd	MetalSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	367294
+1229	5	CompShg	BrkFace	HdBoard	None	3	4	GasA	2	1	SBrkr	3	0	0	4	4	0	127000
+1230	5	CompShg	Plywood	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	190000
+1231	6	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	132500
+1232	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	101800
+1233	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	1	1	SBrkr	3	6	0	4	4	0	142000
+1234	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	0	FuseA	3	6	0	5	5	0	130000
+1235	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	FuseF	3	6	0	1	1	0	138887
+1236	5	CompShg	VinylSd	Wd Shng	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	175500
+1237	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	195000
+1238	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	3	6	0	4	4	0	142500
+1239	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	265900
+1240	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	224900
+1241	6	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	248328
+1242	6	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	2	6	2	4	4	0	170000
+1243	5	CompShg	VinylSd	VinylSd	Zero	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	465000
+1244	7	CompShg	BrkFace	Stucco	None	3	4	GasA	1	1	SBrkr	2	6	2	4	4	0	230000
+1245	7	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	178000
+1246	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	186500
+1247	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	169900
+1248	5	CompShg	AsbShng	AsbShng	None	3	4	OthW	1	0	SBrkr	3	6	1	1	1	0	129500
+1249	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	119000
+1250	5	CompShg	BrkFace	BrkFace	None	2	4	GasA	0	1	SBrkr	0	6	2	4	4	0	244000
+1251	5	CompShg	VinylSd	Wd Shng	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	171750
+1252	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	130000
+1253	7	CompShg	Wd Sdng	Wd Sdng	None	2	4	GasA	4	1	SBrkr	2	6	2	4	4	0	294000
+1254	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	165400
+1255	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	FuseA	3	6	1	4	4	0	127500
+1256	5	CompShg	HdBoard	HdBoard	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	301500
+1257	8	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	99900
+1258	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	190000
+1259	8	CompShg	HdBoard	HdBoard	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	151000
+1260	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	181000
+1261	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	128900
+1262	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	3	2	4	4	0	161500
+1263	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	FuseA	3	6	1	4	4	0	180500
+1264	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	181000
+1265	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	183900
+1266	4	CompShg	Wd Sdng	Wd Sdng	None	1	4	GasA	4	0	FuseF	3	6	1	4	4	0	122000
+1267	5	CompShg	Stucco	CmentBd	None	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	378500
+1268	9	CompShg	Stucco	Stucco	BrkFace	3	2	GasA	0	1	SBrkr	2	6	2	4	4	0	381000
+1269	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasW	4	1	FuseA	3	6	0	4	4	0	144000
+1270	6	WdShake	Plywood	Plywood	None	2	4	GasA	4	1	SBrkr	2	6	1	4	4	0	260000
+1271	7	CompShg	BrkFace	BrkFace	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	185750
+1272	6	CompShg	HdBoard	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	137000
+1273	7	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	2	1	SBrkr	0	6	1	4	4	0	177000
+1274	6	CompShg	Wd Sdng	Wd Shng	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	139000
+1275	5	Roll	AsbShng	AsbShng	Stone	3	4	GasA	2	1	FuseA	3	6	0	4	1	0	137000
+1276	6	CompShg	HdBoard	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	162000
+1277	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	1	1	SBrkr	3	6	1	4	4	0	197900
+1278	5	CompShg	VinylSd	VinylSd	Zero	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	237000
+1280	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	227000
+1281	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	2	2	0	180000
+1282	7	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	2	6	0	4	4	0	150500
+1283	5	CompShg	MetalSd	Wd Shng	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	139000
+1284	7	CompShg	Wd Sdng	Wd Shng	None	3	4	GasA	0	1	SBrkr	2	3	1	4	4	0	169000
+1285	6	CompShg	MetalSd	MetalSd	None	3	1	GasA	0	1	FuseF	3	6	1	4	4	0	132500
+1286	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	143000
+1287	5	CompShg	Wd Sdng	Wd Sdng	BrkCmn	3	2	GasA	1	1	SBrkr	3	6	0	4	4	0	190000
+1288	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	278000
+1289	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	281000
+1290	7	CompShg	Wd Sdng	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	180500
+1291	7	CompShg	CemntBd	CmentBd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	119500
+1292	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	SBrkr	3	3	0	4	4	0	107500
+1293	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	162900
+1294	7	CompShg	WdShing	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	115000
+1295	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	138500
+1296	6	CompShg	MetalSd	MetalSd	BrkFace	3	2	GasA	2	1	SBrkr	3	6	0	4	4	0	155000
+1297	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	140000
+1298	5	ClyTile	Stucco	Stucco	Stone	0	4	GasA	0	1	SBrkr	0	6	3	4	4	0	160000
+1299	7	CompShg	BrkFace	BrkFace	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	154000
+1300	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	225000
+1301	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	1	1	SBrkr	2	6	2	4	4	0	177500
+1302	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	290000
+1303	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	232000
+1304	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	0	0	4	4	0	130000
+1305	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	2	4	4	0	325000
+1306	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	202500
+1307	5	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	138000
+1308	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	147000
+1309	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	2	6	0	4	4	0	179200
+1310	8	CompShg	BrkFace	HdBoard	None	2	2	GasA	4	1	SBrkr	0	6	2	4	4	0	335000
+1311	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	203000
+1312	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	2	2	0	302000
+1313	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	333168
+1314	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	119000
+1315	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	2	4	4	0	206900
+1316	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	295493
+1317	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	208900
+1318	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	275000
+1319	5	CompShg	Wd Sdng	Wd Sdng	BrkFace	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	111000
+1320	3	CompShg	BrkFace	BrkFace	None	3	4	GasA	2	1	SBrkr	3	6	2	4	4	0	156500
+1321	6	CompShg	VinylSd	VinylSd	None	3	4	Floor	4	0	SBrkr	3	6	0	4	1	0	72500
+1322	5	CompShg	HdBoard	HdBoard	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	190000
+1323	7	CompShg	VinylSd	VinylSd	None	1	4	GasA	2	1	SBrkr	1	6	0	5	5	0	82500
+1324	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	147000
+1325	4	CompShg	AsbShng	AsbShng	None	3	4	GasA	1	0	SBrkr	3	6	0	5	5	0	55000
+1326	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	2	6	0	5	5	0	79000
+1327	9	CompShg	VinylSd	VinylSd	None	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	130500
+1328	7	CompShg	BrkFace	Wd Sdng	None	2	2	GasW	0	1	SBrkr	3	4	2	1	4	0	256000
+1329	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	176500
+1330	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	227000
+1331	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	132500
+1332	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	1	1	1	0	100000
+1333	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	125500
+1334	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	2	0	4	4	0	125000
+1335	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	167900
+1336	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	135000
+1337	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	Grav	1	0	FuseA	1	6	0	5	5	0	52500
+1338	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	200000
+1339	7	CompShg	MetalSd	MetalSd	None	3	2	GasA	0	1	SBrkr	3	6	0	4	4	0	128500
+1340	5	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	123000
+1341	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	155000
+1342	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	228500
+1343	6	CompShg	BrkFace	Stone	None	3	4	GasA	2	1	SBrkr	3	6	1	1	1	0	177000
+1344	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	155835
+1345	4	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	FuseA	1	6	0	4	4	0	108500
+1346	7	CompShg	BrkFace	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	1	2	4	0	262500
+1347	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	283463
+1348	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	215000
+1349	5	CompShg	MetalSd	MetalSd	None	3	2	OthW	1	0	SBrkr	3	6	0	5	5	0	122000
+1350	5	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	200000
+1351	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	171000
+1352	9	CompShg	MetalSd	MetalSd	None	2	4	GasA	4	1	SBrkr	3	6	0	4	4	0	134900
+1353	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	410000
+1354	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	235000
+1355	6	CompShg	MetalSd	MetalSd	BrkFace	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	170000
+1356	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	110000
+1357	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	149900
+1358	5	CompShg	MetalSd	MetalSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	177500
+1359	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	315000
+1360	6	CompShg	MetalSd	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	6	0	4	4	0	189000
+1361	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	260000
+1362	4	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	SBrkr	3	6	1	4	4	0	104900
+1363	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	156932
+1364	5	CompShg	MetalSd	MetalSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	144152
+1365	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	216000
+1366	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	193000
+1367	6	CompShg	CemntBd	CmentBd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	127000
+1368	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	144000
+1369	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	232000
+1370	6	CompShg	CBlock	CBlock	None	1	4	GasA	0	1	SBrkr	3	6	0	4	4	0	105000
+1371	6	CompShg	AsbShng	AsbShng	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	165500
+1372	6	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	2	6	1	4	4	0	274300
+1373	5	CompShg	VinylSd	VinylSd	BrkFace	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	466500
+1374	5	CompShg	CemntBd	CmentBd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	250000
+1375	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	239000
+1376	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	0	SBrkr	3	6	0	1	4	0	91000
+1377	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	3	3	0	4	4	0	117000
+1378	5	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	83000
+1379	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	Zero	2	6	0	4	4	0	167500
+1380	3	CompShg	Stucco	Stucco	None	3	1	GasA	4	0	FuseF	3	6	0	4	1	0	58500
+1381	7	CompShg	BrkFace	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	2	4	4	0	237500
+1382	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	1	SBrkr	2	6	0	4	4	0	157000
+1383	7	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	0	1	SBrkr	2	6	0	4	4	0	112000
+1384	5	CompShg	WdShing	Wd Shng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	105000
+1385	8	CompShg	VinylSd	VinylSd	None	3	2	GasA	2	1	SBrkr	2	6	0	4	4	0	125500
+1386	5	CompShg	Plywood	Plywood	BrkFace	3	4	GasA	4	1	SBrkr	2	6	2	4	4	0	250000
+1387	7	CompShg	Stucco	Stucco	None	3	2	GasW	4	0	SBrkr	2	6	1	4	4	0	136000
+1388	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	2	4	4	0	377500
+1389	6	CompShg	Wd Sdng	Wd Sdng	None	3	2	GasA	0	1	SBrkr	3	6	1	4	4	0	131000
+1390	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	235000
+1391	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	4	0	4	4	0	124000
+1392	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	123000
+1393	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	0	0	SBrkr	3	6	1	2	4	0	163000
+1394	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	246578
+1395	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	281213
+1396	5	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	2	2	4	4	0	160000
+1397	8	CompShg	MetalSd	MetalSd	None	3	4	GasA	0	1	SBrkr	3	6	0	1	1	0	137500
+1398	4	CompShg	VinylSd	Wd Sdng	None	3	4	GasA	2	1	FuseA	3	2	0	4	4	0	138000
+1399	6	CompShg	WdShing	Wd Shng	None	3	4	GasA	0	1	SBrkr	2	6	1	1	4	0	137450
+1400	7	CompShg	WdShing	Wd Shng	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	120000
+1401	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	193000
+1402	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	193879
+1403	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	282922
+1404	4	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	105000
+1405	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	275000
+1406	7	CompShg	HdBoard	Wd Shng	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	133000
+1407	5	CompShg	HdBoard	Plywood	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	112000
+1408	7	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	125500
+1409	6	CompShg	Plywood	Plywood	BrkFace	3	2	GasA	2	1	SBrkr	3	6	1	4	4	0	215000
+1410	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	230000
+1411	8	CompShg	VinylSd	VinylSd	None	3	2	GasA	0	1	SBrkr	3	3	0	4	4	0	140000
+1412	5	CompShg	BrkFace	Stone	None	3	4	Wall	1	0	FuseF	3	6	0	4	4	0	90000
+1413	5	CompShg	VinylSd	VinylSd	Stone	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	257000
+1414	7	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	2	1	SBrkr	2	6	1	4	4	0	207000
+1415	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	175900
+1416	6	CompShg	VinylSd	AsbShng	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	122500
+1417	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	340000
+1418	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	124000
+1419	5	CompShg	Plywood	Plywood	BrkFace	2	2	GasA	2	1	SBrkr	2	6	1	4	4	0	223000
+1420	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	2	1	SBrkr	3	6	1	4	4	0	179900
+1421	5	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	127500
+1422	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	136500
+1423	7	Tar&Grv	Plywood	Plywood	None	2	2	GasA	4	1	SBrkr	2	6	1	2	2	0	274970
+1424	5	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	2	1	4	4	0	144000
+1425	6	CompShg	HdBoard	HdBoard	Stone	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	142000
+1426	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	2	4	4	0	271000
+1427	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	FuseA	3	6	1	4	4	0	140000
+1428	7	CompShg	MetalSd	MetalSd	Stone	3	2	GasA	4	1	SBrkr	2	6	2	4	4	0	119000
+1429	7	CompShg	MetalSd	MetalSd	BrkFace	2	2	GasA	0	1	SBrkr	2	6	1	4	4	0	182900
+1430	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	3	6	1	4	4	0	192140
+1431	6	CompShg	Plywood	Plywood	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	143750
+1432	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	GasA	4	1	SBrkr	3	6	0	1	1	0	64500
+1433	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	186500
+1434	5	CompShg	BrkFace	BrkFace	None	3	4	GasA	1	1	SBrkr	3	6	1	4	4	0	160000
+1435	9	CompShg	Wd Sdng	Wd Sdng	BrkFace	2	2	GasA	4	1	SBrkr	2	6	1	4	4	0	174000
+1436	6	CompShg	HdBoard	HdBoard	None	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	120500
+1437	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	394617
+1438	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	4	1	FuseA	3	6	0	4	4	0	149700
+1439	6	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	1	4	4	0	197000
+1440	7	CompShg	MetalSd	MetalSd	None	3	4	GasA	1	1	SBrkr	3	2	1	4	4	0	191000
+1441	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	149300
+1442	5	CompShg	VinylSd	VinylSd	Stone	0	4	GasA	0	1	SBrkr	0	6	1	4	4	0	310000
+1443	6	CompShg	Wd Sdng	Wd Sdng	None	3	4	Grav	1	0	FuseF	1	6	1	1	3	0	121000
+1444	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	179600
+1445	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	129000
+1446	7	CompShg	HdBoard	HdBoard	BrkFace	3	4	GasA	4	1	SBrkr	3	6	0	4	4	0	157900
+1447	5	CompShg	VinylSd	VinylSd	BrkFace	2	4	GasA	0	1	SBrkr	2	6	1	4	4	0	240000
+1448	7	CompShg	MetalSd	HdBoard	None	3	4	GasA	2	0	SBrkr	3	3	0	1	4	0	112000
+1449	7	CompShg	CemntBd	CmentBd	None	3	4	GasA	0	1	SBrkr	0	6	0	5	5	0	92000
+1450	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	4	1	SBrkr	3	6	0	5	5	0	136000
+1451	5	CompShg	CemntBd	CmentBd	Stone	2	4	GasA	0	1	SBrkr	0	6	1	4	4	0	287090
+1452	5	CompShg	VinylSd	VinylSd	BrkFace	3	4	GasA	2	1	SBrkr	3	6	0	4	4	0	145000
+1453	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	0	5	5	0	84500
+1454	5	CompShg	VinylSd	VinylSd	None	2	4	GasA	0	1	SBrkr	2	6	0	4	4	0	185000
+1455	5	CompShg	VinylSd	VinylSd	None	3	4	GasA	0	1	SBrkr	3	6	1	4	4	0	175000
+1456	6	CompShg	Plywood	Plywood	Stone	3	4	GasA	4	1	SBrkr	3	2	2	4	4	0	210000
+1457	9	CompShg	CemntBd	CmentBd	None	0	2	GasA	0	1	SBrkr	2	6	2	4	4	0	266500
+1458	6	CompShg	MetalSd	MetalSd	None	3	4	GasA	2	1	FuseA	2	6	0	4	4	0	142125
+1459	6	CompShg	HdBoard	HdBoard	None	2	4	GasA	2	1	SBrkr	3	6	0	4	4	0	147500
